@@ -1,4 +1,4 @@
-Case_ID,Case_ID_State,Country/Region,State,Sex,Age,Symptoms_Onset,Covid_RT_PCR,Origin,Arrival,Date_Confirmed,Source,URL
+Case_ID,Case_Cumulative_by_State,Country/Region,State,Sex,Age,Symptoms_Onset,Covid_RT_PCR,Origin,Arrival,Date_Confirmed,Source,URL
 1,,Mexico,CIUDAD DE MÉXICO,M,35,22/02/2020,Confirmed,Italia,22/02/2020,,,
 2,,Mexico,SINALOA,M,41,22/02/2020,Confirmed,Italia,21/02/2020,,,
 3,,Mexico,CIUDAD DE MÉXICO,M,59,23/02/2020,Confirmed,Italia,22/02/2020,,,
@@ -10,7 +10,7 @@ Case_ID,Case_ID_State,Country/Region,State,Sex,Age,Symptoms_Onset,Covid_RT_PCR,O
 9,,Mexico,CIUDAD DE MÉXICO,M,41,7/3/2020,Confirmed,Estados Unidos,06/03/2020,,,
 10,,Mexico,CIUDAD DE MÉXICO,F,30,7/3/2020,Confirmed,España,06/03/2020,,,
 11,,Mexico,MÉXICO,F,64,2/3/2020,Confirmed,Estados Unidos,29/02/2020,,,
-12,,Mexico,NUEVO LEÓN,M,57,4/3/2020,Confirmed,Alemania,03/03/2020,3/11/2020,Wikipedia,https://mty.telediario.mx/local/confirman-el-primer-caso-de-coronavirus-en-nuevo-leon
+94,2,Mexico,NUEVO LEÓN,M,41,10/3/2020,Confirmed,Estados Unidos,07/03/2020,3/11/2020,Google,https://www.informador.mx/mexico/Nuevo-Leon-confirma-primer-caso-de-coronavirus-suman-11-en-el-pais-20200311-0152.html
 13,,Mexico,MÉXICO,F,55,9/3/2020,Confirmed,España,09/03/2020,,,
 14,,Mexico,DURANGO,M,58,6/3/2020,Confirmed,España,28/02/2020,,,
 15,,Mexico,QUERETARO,F,65,10/3/2020,Confirmed,Contacto,,,,
@@ -26,8 +26,8 @@ Case_ID,Case_ID_State,Country/Region,State,Sex,Age,Symptoms_Onset,Covid_RT_PCR,O
 25,,Mexico,CIUDAD DE MÉXICO,M,68,4/3/2020,Confirmed,España,10/03/2020,,,
 26,,Mexico,QUINTANA ROO,F,71,1/3/2020,Confirmed,Italia,01/03/2020,,,
 27,,Mexico,SAN LUIS POTOSÍ,F,53,11/3/2020,Confirmed,España,10/03/2020,,,
-28,,Mexico,NUEVO LEÓN,M,73,9/3/2020,Confirmed,Estados Unidos,10/03/2020,3/19/2020,Google,https://www.elnorte.com/casos-de-covid-19-en-nl/ar1900952
-29,,Mexico,NUEVO LEÓN,M,30,9/3/2020,Confirmed,España,07/03/2020,3/14/2020,Google,http://www.nl.gob.mx/noticias/confirma-estado-dos-nuevos-casos-de-covid-19-en-nl
+12,2,Mexico,NUEVO LEÓN,M,57,4/3/2020,Confirmed,Alemania,03/03/2020,3/11/2020,Wikipedia,https://mty.telediario.mx/local/confirman-el-primer-caso-de-coronavirus-en-nuevo-leon
+48,1,Mexico,NUEVO LEÓN,M,46,6/3/2020,Confirmed,Estados Unidos,03/03/2020,3/13/2020,Google,http://www.nl.gob.mx/noticias/confirma-estado-segundo-caso-de-coronavirus-en-nl
 30,,Mexico,PUEBLA,M,31,9/3/2020,Confirmed,España,08/03/2020,,,
 31,,Mexico,CIUDAD DE MÉXICO,F,33,10/3/2020,Confirmed,Francia,08/03/2020,,,
 32,,Mexico,JALISCO,F,54,10/3/2020,Confirmed,España,04/03/2020,,,
@@ -45,8 +45,8 @@ Case_ID,Case_ID_State,Country/Region,State,Sex,Age,Symptoms_Onset,Covid_RT_PCR,O
 44,,Mexico,QUERETARO,F,54,10/3/2020,Confirmed,España,10/03/2020,,,
 45,,Mexico,OAXACA,M,61,10/3/2020,Confirmed,Estados Unidos,10/03/2020,,,
 46,,Mexico,QUERETARO,F,55,10/3/2020,Confirmed,España,10/03/2020,,,
-47,,Mexico,NUEVO LEÓN,M,27,11/3/2020,Confirmed,España,13/03/2020,3/15/2020,Google,https://www.msn.com/es-mx/noticias/mexico/nuevo-le%C3%B3n-confirma-nuevo-caso-de-coronavirus-y-suman-5-en-el-estado-es-un-hombre-que-viaj%C3%B3-a-espa%C3%B1a/ar-BB11dCW5
-48,,Mexico,NUEVO LEÓN,M,46,6/3/2020,Confirmed,Estados Unidos,03/03/2020,3/13/2020,Google,http://www.nl.gob.mx/noticias/confirma-estado-segundo-caso-de-coronavirus-en-nl
+29,3,Mexico,NUEVO LEÓN,M,30,9/3/2020,Confirmed,España,07/03/2020,3/14/2020,Google,http://www.nl.gob.mx/noticias/confirma-estado-dos-nuevos-casos-de-covid-19-en-nl
+66,3,Mexico,NUEVO LEÓN,M,72,11/3/2020,Confirmed,Estados Unidos,10/03/2020,3/14/2020,Google,http://www.nl.gob.mx/noticias/confirma-estado-dos-nuevos-casos-de-covid-19-en-nl
 49,,Mexico,GUERRERO,M,32,12/3/2020,Confirmed,Contacto,,,,
 50,,Mexico,DURANGO,M,32,11/3/2020,Confirmed,Alemania,11/03/2020,,,
 51,,Mexico,GUERRERO,F,22,9/3/2020,Confirmed,España,12/03/2020,,,
@@ -64,21 +64,21 @@ Case_ID,Case_ID_State,Country/Region,State,Sex,Age,Symptoms_Onset,Covid_RT_PCR,O
 63,,Mexico,MÉXICO,F,59,7/3/2020,Confirmed,Francia,08/03/2020,,,
 64,,Mexico,CIUDAD DE MÉXICO,M,41,9/3/2020,Confirmed,Contacto,,,,
 65,,Mexico,GUANAJUATO,M,39,12/3/2020,Confirmed,Alemania,10/03/2020,,,
-66,,Mexico,NUEVO LEÓN,M,72,11/3/2020,Confirmed,Estados Unidos,10/03/2020,3/14/2020,Google,http://www.nl.gob.mx/noticias/confirma-estado-dos-nuevos-casos-de-covid-19-en-nl
+75,3,Mexico,NUEVO LEÓN,M,71,7/3/2020,Confirmed,Estados Unidos,10/03/2020,3/14/2020,Google,https://www.excelsior.com.mx/nacional/se-eleva-a-cuatro-los-casos-de-coronavirus-en-nuevo-leon/1369746
 67,,Mexico,CHIHUAHUA,M,29,12/3/2020,Confirmed,Alemania,12/03/2020,,,
 68,,Mexico,QUINTANA ROO,F,50,8/3/2020,Confirmed,España,11/03/2020,,,
 69,,Mexico,QUINTANA ROO,F,19,13/03/2020,Confirmed,España,11/03/2020,,,
 70,,Mexico,QUINTANA ROO,M,44,11/3/2020,Confirmed,Contacto,,,,
 71,,Mexico,MÉXICO,F,49,13/03/2020,Confirmed,España,13/03/2020,,,
 72,,Mexico,PUEBLA,M,32,11/3/2020,Confirmed,Estados Unidos,07/03/2020,,,
-73,,Mexico,NUEVO LEÓN,F,74,9/3/2020,Confirmed,España,12/03/2020,3/22/2020,Google,https://www.elnorte.com/suma-nl-32-casos-de-covid-19/ar1901927
-74,,Mexico,NUEVO LEÓN,F,80,9/3/2020,Confirmed,España,12/03/2020,3/20/2020,Google,https://sipse.com/novedades/ya-son-11-casos-positivos-coronavirus-covid-19-quintana-roo-sesa-alejandra-aguirre-359381.html
-75,,Mexico,NUEVO LEÓN,M,71,7/3/2020,Confirmed,Estados Unidos,10/03/2020,3/14/2020,Google,https://www.excelsior.com.mx/nacional/se-eleva-a-cuatro-los-casos-de-coronavirus-en-nuevo-leon/1369746
-76,,Mexico,NUEVO LEÓN,M,53,9/3/2020,Confirmed,España,10/03/2020,3/16/2020,,https://www.eleconomista.com.mx/estados/Aumenta-a-12-los-casos-confirmados-de-coronavirus-en-Nuevo-Leon-20200316-0016.html
-77,,Mexico,NUEVO LEÓN,M,42,2/3/2020,Confirmed,Estados Unidos,02/03/2020,3/17/2020,,https://www.eluniversal.com.mx/estados/covide-19-sube-14-cifra-de-pacientes-con-coronavirus-en-nuevo-leon
+47,2,Mexico,NUEVO LEÓN,M,27,11/3/2020,Confirmed,España,13/03/2020,3/15/2020,Google,https://www.msn.com/es-mx/noticias/mexico/nuevo-le%C3%B3n-confirma-nuevo-caso-de-coronavirus-y-suman-5-en-el-estado-es-un-hombre-que-viaj%C3%B3-a-espa%C3%B1a/ar-BB11dCW5
+95,2,Mexico,NUEVO LEÓN,M,46,11/3/2020,Confirmed,Estados Unidos,09/03/2020,3/15/2020,Google,https://www.elnorte.com/van-4-casos-en-nl-uno-esta-delicado/ar1896947
+76,2,Mexico,NUEVO LEÓN,M,53,9/3/2020,Confirmed,España,10/03/2020,3/16/2020,Google,https://www.eleconomista.com.mx/estados/Aumenta-a-12-los-casos-confirmados-de-coronavirus-en-Nuevo-Leon-20200316-0016.html
+79,2,Mexico,NUEVO LEÓN,M,33,9/3/2020,Confirmed,Estados Unidos,12/03/2020,3/16/2020,Google,https://www.informador.mx/mexico/Suman-12-casos-confirmados-de-Covid-19-en-Nuevo-Leon-20200316-0051.html
+77,2,Mexico,NUEVO LEÓN,M,42,2/3/2020,Confirmed,Estados Unidos,02/03/2020,3/17/2020,Google,https://www.eluniversal.com.mx/estados/covide-19-sube-14-cifra-de-pacientes-con-coronavirus-en-nuevo-leon
 78,,Mexico,MÉXICO,M,45,11/3/2020,Confirmed,Estados Unidos,01/03/2020,,,
-79,,Mexico,NUEVO LEÓN,M,33,9/3/2020,Confirmed,Estados Unidos,12/03/2020,3/16/2020,,https://www.informador.mx/mexico/Suman-12-casos-confirmados-de-Covid-19-en-Nuevo-Leon-20200316-0051.html
-80,,Mexico,NUEVO LEÓN,F,27,12/3/2020,Confirmed,Estados Unidos,12/03/2020,3/17/2020,,https://www.eluniversal.com.mx/estados/covide-19-sube-14-cifra-de-pacientes-con-coronavirus-en-nuevo-leon
+80,2,Mexico,NUEVO LEÓN,F,27,12/3/2020,Confirmed,Estados Unidos,12/03/2020,3/17/2020,Google,https://www.eluniversal.com.mx/estados/covide-19-sube-14-cifra-de-pacientes-con-coronavirus-en-nuevo-leon
+96,1,Mexico,NUEVO LEÓN,M,21,14/03/2020,Confirmed,España,15/03/2020,3/18/2020,Google,https://www.eleconomista.com.mx/estados/Cifra-de-casos-confirmados-de-coronavirus-en-Nuevo-Leon-aumenta-a-19-20200318-0100.html
 81,,Mexico,YUCATÁN,F,31,8/3/2020,Confirmed,Francia,10/03/2020,,,
 82,,Mexico,YUCATÁN,M,21,13/03/2020,Confirmed,España,13/03/2020,,,
 83,,Mexico,TAMAULIPAS,M,55,13/03/2020,Confirmed,Singapur,11/03/2020,,,
@@ -90,12 +90,12 @@ Case_ID,Case_ID_State,Country/Region,State,Sex,Age,Symptoms_Onset,Covid_RT_PCR,O
 89,,Mexico,JALISCO,M,41,10/3/2020,Confirmed,Estados Unidos,29/02/2020,,,
 90,,Mexico,JALISCO,F,56,11/3/2020,Confirmed,Contacto,,,,
 91,,Mexico,YUCATÁN,M,37,9/3/2020,Confirmed,Estados Unidos,06/03/2020,,,
-92,,Mexico,NUEVO LEÓN,M,19,7/3/2020,Confirmed,Contacto,10/03/2020,3/24/2020,,https://www.milenio.com/politica/comunidad/coronavirus-en-nuevoleon-migrantes-sin-medidas-contra-el-covid-19
-93,,Mexico,NUEVO LEÓN,M,34,12/3/2020,Confirmed,Estados Unidos,07/03/2020,,,
-94,,Mexico,NUEVO LEÓN,M,41,10/3/2020,Confirmed,Estados Unidos,07/03/2020,3/11/2020,,https://www.informador.mx/mexico/Nuevo-Leon-confirma-primer-caso-de-coronavirus-suman-11-en-el-pais-20200311-0152.html
-95,,Mexico,NUEVO LEÓN,M,46,11/3/2020,Confirmed,Estados Unidos,09/03/2020,3/15/2020,,https://www.elnorte.com/van-4-casos-en-nl-uno-esta-delicado/ar1896947
-96,,Mexico,NUEVO LEÓN,M,21,14/03/2020,Confirmed,España,15/03/2020,3/18/2020,,https://www.eleconomista.com.mx/estados/Cifra-de-casos-confirmados-de-coronavirus-en-Nuevo-Leon-aumenta-a-19-20200318-0100.html
-97,,Mexico,NUEVO LEÓN,M,21,15/03/2020,Confirmed,España,13/03/2020,3/22/2020,,https://noticieros.televisa.com/ultimas-noticias/registran-cinco-nuevos-casos-coronavirus-nuevo-leon-22-marzo-2020/
+28,5,Mexico,NUEVO LEÓN,M,73,9/3/2020,Confirmed,Estados Unidos,10/03/2020,3/19/2020,Google,https://www.elnorte.com/casos-de-covid-19-en-nl/ar1900952
+167,5,Mexico,NUEVO LEÓN,M,35,9/3/2020,Confirmed,Estados Unidos,09/03/2020,3/19/2020,Google,https://www.mediotiempo.com/otros-mundos/coronavirus-nuevo-leon-es-el-estado-con-mas-infectados-por-covid-19-en-mexico
+168,5,Mexico,NUEVO LEÓN,M,42,16/03/2020,Confirmed,Contacto,,3/19/2020,Google,https://www.milenio.com/politica/coronavirus-mexico-leon-suma-25-casos-confirmados
+173,5,Mexico,NUEVO LEÓN,F,29,13/03/2020,Confirmed,España,14/03/2020,3/19/2020,Google,https://www.milenio.com/politica/coronavirus-mexico-leon-suma-25-casos-confirmados
+182,5,Mexico,NUEVO LEÓN,F,48,11/3/2020,Confirmed,España,13/03/2020,3/19/2020,Google,https://www.milenio.com/politica/coronavirus-mexico-leon-suma-25-casos-confirmados
+74,4,Mexico,NUEVO LEÓN,F,80,9/3/2020,Confirmed,España,12/03/2020,3/20/2020,Google,https://sipse.com/novedades/ya-son-11-casos-positivos-coronavirus-covid-19-quintana-roo-sesa-alejandra-aguirre-359381.html
 98,,Mexico,YUCATÁN,F,21,13/03/2020,Confirmed,España,13/03/2020,,,
 99,,Mexico,YUCATÁN,M,25,11/3/2020,Confirmed,España,15/03/2020,,,
 100,,Mexico,JALISCO,F,36,10/3/2020,Confirmed,Contacto,,,,
@@ -165,22 +165,22 @@ Case_ID,Case_ID_State,Country/Region,State,Sex,Age,Symptoms_Onset,Covid_RT_PCR,O
 164,,Mexico,CIUDAD DE MÉXICO,M,59,13/03/2020,Confirmed,Contacto,,,,
 165,,Mexico,AGUASCALIENTES,M,50,16/03/2020,Confirmed,España,17/03/2020,,,
 166,,Mexico,VERACRUZ,F,64,18/03/2020,Confirmed,España,15/03/2020,,,
-167,,Mexico,NUEVO LEÓN,M,35,9/3/2020,Confirmed,Estados Unidos,09/03/2020,3/19/2020,,https://www.mediotiempo.com/otros-mundos/coronavirus-nuevo-leon-es-el-estado-con-mas-infectados-por-covid-19-en-mexico
-168,,Mexico,NUEVO LEÓN,M,42,16/03/2020,Confirmed,Contacto,,,,
+205,4,Mexico,NUEVO LEÓN,M,58,15/03/2020,Confirmed,España,14/03/2020,3/20/2020,Google,https://www.milenio.com/ciencia-y-salud/sociedad/coronavirus-mexico-leon-suma-29-casos-confirmados
+206,4,Mexico,NUEVO LEÓN,M,61,15/03/2020,Confirmed,España,14/03/2020,3/20/2020,Google,https://www.milenio.com/ciencia-y-salud/sociedad/coronavirus-mexico-leon-suma-29-casos-confirmados
 169,,Mexico,DURANGO,M,74,15/03/2020,Confirmed,Estados Unidos,03/03/2020,,,
 170,,Mexico,MORELOS,M,37,14/03/2020,Confirmed,Estados Unidos,07/03/2020,,,
 171,,Mexico,QUERETARO,M,34,15/03/2020,Confirmed,Francia,15/03/2020,,,
 172,,Mexico,VERACRUZ,F,63,14/03/2020,Confirmed,España,13/03/2020,,,
-173,,Mexico,NUEVO LEÓN,F,29,13/03/2020,Confirmed,España,14/03/2020,,,
+207,4,Mexico,NUEVO LEÓN,F,59,17/03/2020,Confirmed,Contacto,,3/20/2020,Google,https://www.milenio.com/ciencia-y-salud/sociedad/coronavirus-mexico-leon-suma-29-casos-confirmados
 174,,Mexico,MORELOS,F,54,17/03/2020,Confirmed,Estados Unidos,17/03/2020,,,
 175,,Mexico,JALISCO,F,73,14/03/2020,Confirmed,Contacto,,,,
 176,,Mexico,JALISCO,M,52,14/03/2020,Confirmed,Estados Unidos,14/03/2020,,,
 177,,Mexico,JALISCO,M,50,4/3/2020,Confirmed,Estados Unidos,07/03/2020,,,
 178,,Mexico,QUINTANA ROO,M,35,15/03/2020,Confirmed,Alemania,14/03/2020,,,
 179,,Mexico,QUINTANA ROO,F,30,14/03/2020,Confirmed,Estados Unidos,14/03/2020,,,
-180,,Mexico,NUEVO LEÓN,M,28,14/03/2020,Confirmed,Estados Unidos,12/03/2020,,,
+235,3,Mexico,NUEVO LEÓN,M,32,15/03/2020,Confirmed,Estados Unidos,16/03/2020,3/21/2020,Google,https://www.mediotiempo.com/otros-mundos/coronavirus-leon-suma-32-casos-afectado-mexico
 181,,Mexico,AGUASCALIENTES,M,42,10/3/2020,Confirmed,España,11/03/2020,,,
-182,,Mexico,NUEVO LEÓN,F,48,11/3/2020,Confirmed,España,13/03/2020,,,
+236,3,Mexico,NUEVO LEÓN,F,27,18/03/2020,Confirmed,Estados Unidos,14/03/2020,3/21/2020,Google,https://www.mediotiempo.com/otros-mundos/coronavirus-leon-suma-32-casos-afectado-mexico
 183,,Mexico,JALISCO,F,19,11/3/2020,Confirmed,Estados Unidos,07/03/2020,,,
 184,,Mexico,JALISCO,F,29,14/03/2020,Confirmed,Estados Unidos,07/03/2020,,,
 185,,Mexico,JALISCO,M,41,8/3/2020,Confirmed,Estados Unidos,09/03/2020,,,
@@ -202,14 +202,14 @@ Case_ID,Case_ID_State,Country/Region,State,Sex,Age,Symptoms_Onset,Covid_RT_PCR,O
 201,,Mexico,QUERETARO,M,34,18/03/2020,Confirmed,Francia,16/03/2020,,,
 202,,Mexico,CIUDAD DE MÉXICO,F,38,14/03/2020,Confirmed,Contacto,,,,
 203,,Mexico,MÉXICO,M,55,11/3/2020,Confirmed,Contacto,,,,
-204,,Mexico,NUEVO LEÓN,M,53,17/03/2020,Confirmed,Contacto,,,,
-205,,Mexico,NUEVO LEÓN,M,58,15/03/2020,Confirmed,España,14/03/2020,,,
-206,,Mexico,NUEVO LEÓN,M,61,15/03/2020,Confirmed,España,14/03/2020,,,
-207,,Mexico,NUEVO LEÓN,F,59,17/03/2020,Confirmed,Contacto,,,,
+237,3,Mexico,NUEVO LEÓN,M,35,17/03/2020,Confirmed,Estados Unidos,15/03/2020,3/21/2020,Google,https://www.razon.com.mx/estados/con-tres-casos-nuevos-nuevo-leon-suma-32-casos-de-covid-19/
+73,2,Mexico,NUEVO LEÓN,F,74,9/3/2020,Confirmed,España,12/03/2020,3/22/2020,Google,https://www.elnorte.com/suma-nl-32-casos-de-covid-19/ar1901927
+97,2,Mexico,NUEVO LEÓN,M,21,15/03/2020,Confirmed,España,13/03/2020,3/22/2020,Google,https://noticieros.televisa.com/ultimas-noticias/registran-cinco-nuevos-casos-coronavirus-nuevo-leon-22-marzo-2020/
+92,1,Mexico,NUEVO LEÓN,M,19,7/3/2020,Confirmed,Contacto,10/03/2020,3/24/2020,Google,https://www.milenio.com/politica/comunidad/coronavirus-en-nuevoleon-migrantes-sin-medidas-contra-el-covid-19
 208,,Mexico,TABASCO,M,46,9/3/2020,Confirmed,Estados Unidos,11/03/2020,,,
 209,,Mexico,JALISCO,F,75,8/3/2020,Confirmed,Estados Unidos,14/03/2020,,,
 210,,Mexico,JALISCO,M,80,14/03/2020,Confirmed,Estados Unidos,14/03/2020,,,
-211,,Mexico,NUEVO LEÓN,F,31,10/3/2020,Confirmed,Contacto,10/03/2020,,,
+93,,Mexico,NUEVO LEÓN,M,34,12/3/2020,Confirmed,Estados Unidos,07/03/2020,,,
 212,,Mexico,CIUDAD DE MÉXICO,M,38,10/3/2020,Confirmed,Estados Unidos,07/03/2020,,,
 213,,Mexico,CIUDAD DE MÉXICO,F,35,9/3/2020,Confirmed,Contacto,,,,
 214,,Mexico,CIUDAD DE MÉXICO,M,61,16/03/2020,Confirmed,España,11/03/2020,,,
@@ -233,9 +233,9 @@ Case_ID,Case_ID_State,Country/Region,State,Sex,Age,Symptoms_Onset,Covid_RT_PCR,O
 232,,Mexico,ZACATECAS,M,38,8/3/2020,Confirmed,Contacto,,,,
 233,,Mexico,QUERETARO,M,29,18/03/2020,Confirmed,España,16/03/2020,,,
 234,,Mexico,CIUDAD DE MÉXICO,M,33,11/3/2020,Confirmed,Contacto,,,,
-235,,Mexico,NUEVO LEÓN,M,32,15/03/2020,Confirmed,Estados Unidos,16/03/2020,,,
-236,,Mexico,NUEVO LEÓN,F,27,18/03/2020,Confirmed,Estados Unidos,14/03/2020,,,
-237,,Mexico,NUEVO LEÓN,M,35,17/03/2020,Confirmed,Estados Unidos,15/03/2020,,,
+180,,Mexico,NUEVO LEÓN,M,28,14/03/2020,Confirmed,Estados Unidos,12/03/2020,,,
+204,,Mexico,NUEVO LEÓN,M,53,17/03/2020,Confirmed,Contacto,,,,
+211,,Mexico,NUEVO LEÓN,F,31,10/3/2020,Confirmed,Contacto,10/03/2020,,,
 238,,Mexico,PUEBLA,F,30,16/03/2020,Confirmed,Estados Unidos,15/03/2020,,,
 239,,Mexico,CIUDAD DE MÉXICO,M,27,15/03/2020,Confirmed,Francia,15/03/2020,,,
 240,,Mexico,CIUDAD DE MÉXICO,M,47,6/3/2020,Confirmed,Estados Unidos,02/03/2020,,,
