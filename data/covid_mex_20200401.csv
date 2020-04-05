@@ -1,4 +1,4 @@
-Case_ID,Region,Sex,Age,Date_Symptoms,Tested,Origin,Date_Arrival,Date_Confirmed,Inconsistent,Inconsistent_New_Date,Ommission,Omission_Last_Date
+Case_ID,Region,Sex,Age,Date_Symptoms,Tested,Origin,Date_Arrival,Date_Confirmed,Inconsistent,Inconsistent_New_Date,Omission,Omission_Last_Date
 1,CIUDAD DE MÉXICO,M,35,2/22/2020,confirmado,Italia,2/22/2020,2/27/2020,0,NA,0,NA
 2,SINALOA,M,41,2/22/2020,confirmado,Italia,2/21/2020,2/28/2020,0,NA,0,NA
 3,CIUDAD DE MÉXICO,M,59,2/23/2020,confirmado,Italia,2/22/2020,2/29/2020,0,NA,0,NA
