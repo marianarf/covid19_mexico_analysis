@@ -1,6 +1,6 @@
 # covid19_mexico_analysis
 
-_Última actualización: 05/04/2020_ 
+_Última actualización: 06/04/2020_ 
 
 * Mapeo de la trayectoria para casos nuevos vs casos totales para evaluar de la evolución de COVID-19 en México.
 * Map trajectory for new vs total cases to track the evolution of COVID-19 in Mexico.
