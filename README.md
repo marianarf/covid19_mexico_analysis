@@ -1,7 +1,8 @@
 # covid19_mexico_analysis
 
-*Important update:*
-A partir del 6.04.2020 la Secretaría de Salud cambió la estructura de sus datos y no está reportando casos nuevos como lo hacía antes.
+**Important update:**
+
+A partir del 6/04/2020, la Secretaría de Salud cambió la estructura de sus datos y no está reportando casos nuevos como lo hacía antes.
 
 _Última actualización: 08/04/2020_ 
 
