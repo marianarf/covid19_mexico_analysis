@@ -2,7 +2,7 @@
 
 Elaborados con los datos más reciente del reporte diario de la Secretaría de Salud.
 
-_Última actualización: 08/04/2020_
+_Última actualización: 01/04/2020_
 
 ### Casos confirmados
 

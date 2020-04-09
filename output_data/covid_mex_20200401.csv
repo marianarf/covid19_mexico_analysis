@@ -1,0 +1,1415 @@
+Region,Sex,Age,Date_Symptoms,Tested,Origin,Date_Arrival,Date_Confirmed
+CIUDAD DE MÉXICO,M,35,2/22/2020,confirmado,Italia,2/22/2020,2/27/2020
+SINALOA,M,41,2/22/2020,confirmado,Italia,2/21/2020,2/28/2020
+CIUDAD DE MÉXICO,M,59,2/23/2020,confirmado,Italia,2/22/2020,2/29/2020
+COAHUILA,F,20,2/27/2020,confirmado,Italia,2/25/2020,2/29/2020
+CHIAPAS,F,18,2/25/2020,confirmado,Italia,2/25/2020,3/1/2020
+MÉXICO,M,71,2/21/2020,confirmado,Italia,2/21/2020,3/6/2020
+CIUDAD DE MÉXICO,M,46,2/29/2020,confirmado,Estados Unidos,2/29/2020,3/7/2020
+QUERETARO,M,43,3/9/2020,confirmado,España,3/6/2020,3/11/2020
+CIUDAD DE MÉXICO,M,41,3/7/2020,confirmado,Estados Unidos,3/6/2020,3/11/2020
+CIUDAD DE MÉXICO,F,30,3/7/2020,confirmado,España,3/6/2020,3/11/2020
+MÉXICO,F,64,3/2/2020,confirmado,Estados Unidos,2/29/2020,3/11/2020
+NUEVO LEÓN,M,57,3/4/2020,confirmado,Alemania,3/3/2020,3/11/2020
+MÉXICO,F,55,3/9/2020,confirmado,España,3/9/2020,3/12/2020
+DURANGO,M,58,3/6/2020,confirmado,España,2/28/2020,3/12/2020
+QUERETARO,F,65,3/10/2020,confirmado,Contacto,,3/12/2020
+QUERETARO,M,42,3/5/2020,confirmado,Italia,3/5/2020,3/13/2020
+CIUDAD DE MÉXICO,M,48,3/10/2020,confirmado,España,3/9/2020,3/13/2020
+CIUDAD DE MÉXICO,M,38,3/10/2020,confirmado,España,3/9/2020,3/13/2020
+QUERETARO,F,43,3/11/2020,confirmado,Contacto,,3/13/2020
+PUEBLA,M,31,3/5/2020,confirmado,España,3/9/2020,3/13/2020
+CIUDAD DE MÉXICO,M,37,3/11/2020,confirmado,Italia,3/11/2020,3/13/2020
+YUCATÁN,F,57,3/7/2020,confirmado,España,3/6/2020,3/13/2020
+CIUDAD DE MÉXICO,M,52,3/8/2020,confirmado,España,3/8/2020,3/13/2020
+CIUDAD DE MÉXICO,M,64,3/10/2020,confirmado,Contacto,3/10/2020,3/13/2020
+CIUDAD DE MÉXICO,M,68,3/4/2020,confirmado,España,3/10/2020,3/13/2020
+QUINTANA ROO,F,71,3/1/2020,confirmado,Italia,3/1/2020,3/13/2020
+SAN LUIS POTOSÍ,F,53,3/11/2020,confirmado,España,3/10/2020,3/14/2020
+NUEVO LEÓN,M,73,3/9/2020,confirmado,Estados Unidos,3/10/2020,3/14/2020
+NUEVO LEÓN,M,30,3/9/2020,confirmado,España,3/7/2020,3/14/2020
+PUEBLA,M,31,3/9/2020,confirmado,España,3/8/2020,3/14/2020
+CIUDAD DE MÉXICO,F,33,3/10/2020,confirmado,Francia,3/8/2020,3/14/2020
+JALISCO,F,54,3/10/2020,confirmado,España,3/4/2020,3/14/2020
+JALISCO,F,64,3/1/2020,confirmado,Alemania,3/9/2020,3/14/2020
+MÉXICO,M,61,3/9/2020,confirmado,Estados Unidos,3/3/2020,3/14/2020
+CIUDAD DE MÉXICO,M,45,3/7/2020,confirmado,España,3/9/2020,3/14/2020
+CIUDAD DE MÉXICO,F,62,3/11/2020,confirmado,Estados Unidos,3/8/2020,3/14/2020
+CIUDAD DE MÉXICO,M,72,3/9/2020,confirmado,Estados Unidos,3/7/2020,3/14/2020
+CIUDAD DE MÉXICO,M,41,3/10/2020,confirmado,España,3/8/2020,3/14/2020
+PUEBLA,M,30,3/9/2020,confirmado,España,3/9/2020,3/14/2020
+CIUDAD DE MÉXICO,M,38,3/11/2020,confirmado,Contacto,,3/14/2020
+OAXACA,F,30,3/9/2020,confirmado,España,3/9/2020,3/14/2020
+SINALOA,M,25,3/9/2020,confirmado,Estados Unidos,3/13/2020,3/15/2020
+SAN LUIS POTOSÍ,F,23,3/7/2020,confirmado,España,3/10/2020,3/15/2020
+QUERETARO,F,54,3/10/2020,confirmado,España,3/10/2020,3/15/2020
+OAXACA,M,61,3/10/2020,confirmado,Estados Unidos,3/10/2020,3/15/2020
+QUERETARO,F,55,3/10/2020,confirmado,España,3/10/2020,3/15/2020
+NUEVO LEÓN,M,27,3/11/2020,confirmado,España,3/13/2020,3/15/2020
+NUEVO LEÓN,M,46,3/6/2020,confirmado,Estados Unidos,3/3/2020,3/15/2020
+CIUDAD DE MÉXICO,F,49,3/9/2020,confirmado,España,3/9/2020,3/28/2020
+CIUDAD DE MÉXICO,M,50,3/10/2020,confirmado,Estados Unidos,3/10/2020,3/28/2020
+CIUDAD DE MÉXICO,M,41,3/10/2020,confirmado,España,3/11/2020,3/28/2020
+CIUDAD DE MÉXICO,M,66,3/8/2020,confirmado,Estados Unidos,3/6/2020,3/28/2020
+CIUDAD DE MÉXICO,F,63,3/9/2020,confirmado,Estados Unidos,3/6/2020,3/28/2020
+CIUDAD DE MÉXICO,M,53,3/9/2020,confirmado,Francia,2/28/2020,3/28/2020
+CIUDAD DE MÉXICO,F,30,3/11/2020,confirmado,España,3/11/2020,3/28/2020
+CIUDAD DE MÉXICO,F,49,3/13/2020,confirmado,España,3/13/2020,3/28/2020
+GUERRERO,M,32,3/12/2020,confirmado,Contacto,,3/15/2020
+DURANGO,M,32,3/11/2020,confirmado,Alemania,3/11/2020,3/15/2020
+GUERRERO,F,22,3/9/2020,confirmado,España,3/12/2020,3/15/2020
+PUEBLA,F,27,3/5/2020,confirmado,España,3/9/2020,3/15/2020
+CIUDAD DE MÉXICO,F,70,3/7/2020,confirmado,Estados Unidos,3/8/2020,3/15/2020
+CIUDAD DE MÉXICO,M,32,3/10/2020,confirmado,Contacto,,3/16/2020
+CIUDAD DE MÉXICO,M,59,3/7/2020,confirmado,España,3/4/2020,3/16/2020
+CIUDAD DE MÉXICO,M,70,3/9/2020,confirmado,Estados Unidos,3/8/2020,3/16/2020
+DURANGO,F,38,3/9/2020,confirmado,España,3/12/2020,3/16/2020
+AGUASCALIENTES,M,25,3/14/2020,confirmado,España,3/12/2020,3/16/2020
+PUEBLA,F,31,3/10/2020,confirmado,Contacto,,3/16/2020
+QUERETARO,F,45,3/13/2020,confirmado,España,3/10/2020,3/16/2020
+MÉXICO,M,27,3/13/2020,confirmado,Contacto,,3/16/2020
+MÉXICO,F,47,3/5/2020,confirmado,Estados Unidos,2/29/2020,3/16/2020
+MÉXICO,F,59,3/7/2020,confirmado,Francia,3/8/2020,3/16/2020
+CIUDAD DE MÉXICO,M,41,3/9/2020,confirmado,En investigación,,3/20/2020
+GUANAJUATO,M,39,3/12/2020,confirmado,Alemania,3/10/2020,3/17/2020
+NUEVO LEÓN,M,72,3/11/2020,confirmado,Estados Unidos,3/10/2020,3/16/2020
+CHIHUAHUA,M,30,3/12/2020,confirmado,Alemania,3/12/2020,3/17/2020
+QUINTANA ROO,F,50,3/8/2020,confirmado,España,3/11/2020,3/16/2020
+QUINTANA ROO,F,19,3/13/2020,confirmado,España,3/11/2020,3/16/2020
+QUINTANA ROO,M,44,3/11/2020,confirmado,Contacto,,3/16/2020
+MÉXICO,F,49,3/13/2020,confirmado,España,3/13/2020,3/16/2020
+PUEBLA,M,32,3/11/2020,confirmado,Estados Unidos,3/7/2020,3/16/2020
+NUEVO LEÓN,F,74,3/9/2020,confirmado,España,3/12/2020,3/16/2020
+NUEVO LEÓN,F,80,3/9/2020,confirmado,España,3/12/2020,3/16/2020
+NUEVO LEÓN,M,71,3/7/2020,confirmado,Estados Unidos,3/10/2020,3/16/2020
+NUEVO LEÓN,M,53,3/9/2020,confirmado,España,3/10/2020,3/16/2020
+NUEVO LEÓN,M,42,3/2/2020,confirmado,Estados Unidos,3/2/2020,3/16/2020
+MÉXICO,M,45,3/11/2020,confirmado,Estados Unidos,3/1/2020,3/16/2020
+NUEVO LEÓN,M,33,3/9/2020,confirmado,Estados Unidos,3/12/2020,3/16/2020
+NUEVO LEÓN,F,27,3/12/2020,confirmado,Estados Unidos,3/12/2020,3/16/2020
+YUCATÁN,F,31,3/8/2020,confirmado,Francia,3/10/2020,3/16/2020
+YUCATÁN,M,21,3/13/2020,confirmado,España,3/13/2020,3/16/2020
+TAMAULIPAS,M,55,3/13/2020,confirmado,Singapur,3/11/2020,3/17/2020
+PUEBLA,F,27,3/9/2020,confirmado,España,3/9/2020,3/16/2020
+PUEBLA,M,31,3/9/2020,confirmado,España,3/9/2020,3/16/2020
+YUCATÁN,F,54,3/11/2020,confirmado,España,3/8/2020,3/16/2020
+SONORA,M,72,3/11/2020,confirmado,Estados Unidos,3/11/2020,3/17/2020
+JALISCO,M,49,3/6/2020,confirmado,España,3/4/2020,3/17/2020
+JALISCO,M,41,3/10/2020,confirmado,Estados Unidos,2/29/2020,3/17/2020
+JALISCO,F,56,3/11/2020,confirmado,Contacto,,3/17/2020
+YUCATÁN,M,37,3/9/2020,confirmado,Estados Unidos,3/6/2020,3/17/2020
+NUEVO LEÓN,M,19,3/7/2020,confirmado,Contacto,3/10/2020,3/17/2020
+CIUDAD DE MÉXICO,M,41,3/9/2020,confirmado,En investigación,,3/19/2020
+NUEVO LEÓN,M,34,3/12/2020,confirmado,Estados Unidos,3/7/2020,3/18/2020
+NUEVO LEÓN,M,41,3/10/2020,confirmado,Estados Unidos,3/7/2020,3/18/2020
+NUEVO LEÓN,M,46,3/11/2020,confirmado,Estados Unidos,3/9/2020,3/18/2020
+NUEVO LEÓN,M,21,3/14/2020,confirmado,España,3/15/2020,3/18/2020
+NUEVO LEÓN,M,21,3/15/2020,confirmado,España,3/13/2020,3/18/2020
+YUCATÁN,F,21,3/13/2020,confirmado,España,3/13/2020,3/18/2020
+YUCATÁN,M,25,3/11/2020,confirmado,España,3/15/2020,3/18/2020
+JALISCO,F,36,3/10/2020,confirmado,Contacto,,3/18/2020
+MÉXICO,M,39,3/14/2020,confirmado,Contacto,,3/27/2020
+MÉXICO,M,45,3/13/2020,confirmado,Contacto,,3/27/2020
+MÉXICO,F,22,3/16/2020,confirmado,España,3/15/2020,3/27/2020
+MÉXICO,F,24,3/9/2020,confirmado,Contacto,3/8/2020,3/27/2020
+MÉXICO,M,75,3/6/2020,confirmado,Contacto,,3/27/2020
+CIUDAD DE MÉXICO,M,53,3/9/2020,confirmado,España,3/9/2020,3/18/2020
+CIUDAD DE MÉXICO,F,53,3/6/2020,confirmado,España,3/9/2020,3/18/2020
+MÉXICO,M,56,3/7/2020,confirmado,Estados Unidos,3/5/2020,3/17/2020
+VERACRUZ,F,21,3/3/2020,confirmado,España,3/12/2020,3/18/2020
+MÉXICO,M,61,3/8/2020,confirmado,España,3/8/2020,3/27/2020
+MÉXICO,M,21,3/7/2020,confirmado,España,3/13/2020,3/27/2020
+MÉXICO,F,23,3/7/2020,confirmado,España,3/13/2020,3/27/2020
+VERACRUZ,M,24,3/14/2020,confirmado,España,3/14/2020,3/18/2020
+MÉXICO,M,55,3/9/2020,confirmado,Estados Unidos,3/9/2020,3/27/2020
+MÉXICO,M,31,3/13/2020,confirmado,España,3/13/2020,3/27/2020
+SAN LUIS POTOSÍ,M,32,3/14/2020,confirmado,España,3/14/2020,3/18/2020
+PUEBLA,M,25,3/10/2020,confirmado,España,3/9/2020,3/17/2020
+YUCATÁN,F,26,3/8/2020,confirmado,España,3/14/2020,3/18/2020
+COLIMA,M,46,3/15/2020,confirmado,Alemania,3/13/2020,3/18/2020
+BAJA CALIFORNIA,F,54,3/11/2020,confirmado,Estados Unidos,3/2/2020,3/18/2020
+BAJA CALIFORNIA,F,57,3/13/2020,confirmado,Contacto,3/16/2020,3/18/2020
+CIUDAD DE MÉXICO,M,47,3/12/2020,confirmado,Estados Unidos,3/12/2020,3/19/2020
+CIUDAD DE MÉXICO,M,43,3/14/2020,confirmado,Estados Unidos,3/12/2020,3/19/2020
+HIDALGO,M,39,3/7/2020,confirmado,Francia,3/6/2020,3/19/2020
+SONORA,M,44,3/12/2020,confirmado,Italia,3/10/2020,3/19/2020
+TABASCO,F,61,3/14/2020,confirmado,Francia,3/16/2020,3/18/2020
+PUEBLA,M,64,3/8/2020,confirmado,Estados Unidos,3/8/2020,3/19/2020
+SINALOA,F,25,3/15/2020,confirmado,Estados Unidos,3/17/2020,3/19/2020
+HIDALGO,M,43,3/8/2020,confirmado,Estados Unidos,2/10/2020,3/19/2020
+SAN LUIS POTOSÍ,M,39,3/16/2020,confirmado,España,3/14/2020,3/19/2020
+SAN LUIS POTOSÍ,M,31,3/15/2020,confirmado,Francia,3/14/2020,3/19/2020
+SAN LUIS POTOSÍ,M,44,3/16/2020,confirmado,España,3/16/2020,3/19/2020
+SAN LUIS POTOSÍ,F,63,3/15/2020,confirmado,España,3/17/2020,3/19/2020
+CIUDAD DE MÉXICO,M,28,3/16/2020,confirmado,Contacto,,3/18/2020
+PUEBLA,F,24,3/16/2020,confirmado,Contacto,,3/19/2020
+CHIAPAS,M,63,3/23/2020,confirmado,Estados Unidos,3/11/2020,3/25/2020
+CIUDAD DE MÉXICO,M,35,3/10/2020,confirmado,Estados Unidos,3/10/2020,3/23/2020
+CIUDAD DE MÉXICO,M,29,3/10/2020,confirmado,España,3/15/2020,3/28/2020
+GUANAJUATO,F,18,3/10/2020,confirmado,Estados Unidos,3/13/2020,3/18/2020
+TAMAULIPAS,F,23,3/16/2020,confirmado,España,3/12/2020,3/18/2020
+QUINTANA ROO,M,17,3/9/2020,confirmado,Estados Unidos,3/9/2020,3/18/2020
+QUINTANA ROO,M,39,3/16/2020,confirmado,Italia,3/1/2020,3/18/2020
+GUERRERO,M,79,3/15/2020,confirmado,España,3/13/2020,3/19/2020
+GUANAJUATO,F,27,3/14/2020,confirmado,España,3/14/2020,3/18/2020
+GUANAJUATO,F,52,3/12/2020,confirmado,España,3/14/2020,3/18/2020
+QUINTANA ROO,M,42,3/14/2020,confirmado,España,3/13/2020,3/20/2020
+QUERETARO,M,25,3/8/2020,confirmado,España,3/16/2020,3/19/2020
+MÉXICO,F,52,3/10/2020,confirmado,España,3/12/2020,3/20/2020
+YUCATÁN,F,27,3/13/2020,confirmado,Contacto,,3/19/2020
+YUCATÁN,M,51,3/14/2020,confirmado,Contacto,,3/19/2020
+BAJA CALIFORNIA,M,72,3/9/2020,confirmado,Estados Unidos,3/10/2020,3/20/2020
+YUCATÁN,M,32,3/11/2020,confirmado,Estados Unidos,,3/19/2020
+YUCATÁN,M,30,3/16/2020,confirmado,España,3/11/2020,3/19/2020
+YUCATÁN,M,45,3/13/2020,confirmado,Estados Unidos,3/13/2020,3/19/2020
+QUINTANA ROO,M,45,3/15/2020,confirmado,Contacto,3/15/2020,3/20/2020
+JALISCO,M,54,3/13/2020,confirmado,Contacto,,3/20/2020
+JALISCO,M,27,3/13/2020,confirmado,España,3/15/2020,3/19/2020
+QUINTANA ROO,F,22,3/16/2020,confirmado,España,3/16/2020,3/20/2020
+JALISCO,F,49,3/12/2020,confirmado,España,3/9/2020,3/19/2020
+JALISCO,M,19,3/16/2020,confirmado,España,3/13/2020,3/19/2020
+GUERRERO,F,38,3/13/2020,confirmado,Estados Unidos,3/1/2020,3/19/2020
+CIUDAD DE MÉXICO,M,46,3/12/2020,confirmado,Estados Unidos,3/10/2020,3/19/2020
+CIUDAD DE MÉXICO,M,35,3/11/2020,confirmado,Estados Unidos,3/5/2020,3/19/2020
+AGUASCALIENTES,M,70,3/15/2020,confirmado,Estados Unidos,3/13/2020,3/19/2020
+CIUDAD DE MÉXICO,M,59,3/13/2020,confirmado,Contacto,,3/19/2020
+AGUASCALIENTES,M,50,3/16/2020,confirmado,España,3/17/2020,3/19/2020
+CIUDAD DE MÉXICO,F,51,3/9/2020,Confirmado,Estados Unidos,3/9/2020,4/1/2020
+CIUDAD DE MÉXICO,M,32,3/7/2020,Confirmado,Contacto,,4/1/2020
+CIUDAD DE MÉXICO,M,35,3/17/2020,Confirmado,Estados Unidos,3/15/2020,4/1/2020
+VERACRUZ,F,64,3/18/2020,confirmado,España,3/15/2020,3/20/2020
+NUEVO LEÓN,M,35,3/9/2020,confirmado,Estados Unidos,3/9/2020,3/20/2020
+NUEVO LEÓN,M,42,3/16/2020,confirmado,Contacto,,3/20/2020
+DURANGO,M,74,3/15/2020,confirmado,Estados Unidos,3/3/2020,3/20/2020
+MORELOS,M,37,3/14/2020,confirmado,Estados Unidos,3/7/2020,3/20/2020
+QUERETARO,M,34,3/15/2020,confirmado,Francia,3/15/2020,3/19/2020
+VERACRUZ,F,63,3/14/2020,confirmado,España,3/13/2020,3/20/2020
+NUEVO LEÓN,F,29,3/13/2020,confirmado,España,3/14/2020,3/20/2020
+MORELOS,F,54,3/17/2020,confirmado,Estados Unidos,3/17/2020,3/20/2020
+JALISCO,F,73,3/14/2020,confirmado,Contacto,,3/19/2020
+JALISCO,M,52,3/14/2020,confirmado,Estados Unidos,3/14/2020,3/19/2020
+JALISCO,M,50,3/4/2020,confirmado,Estados Unidos,3/7/2020,3/19/2020
+QUINTANA ROO,M,35,3/15/2020,confirmado,Contacto,3/14/2020,3/20/2020
+QUINTANA ROO,F,30,3/14/2020,confirmado,Estados Unidos,3/14/2020,3/20/2020
+NUEVO LEÓN,M,28,3/14/2020,confirmado,Estados Unidos,3/12/2020,3/20/2020
+AGUASCALIENTES,M,42,3/10/2020,confirmado,España,3/11/2020,3/19/2020
+NUEVO LEÓN,F,48,3/11/2020,confirmado,España,3/13/2020,3/20/2020
+JALISCO,F,19,3/11/2020,confirmado,Estados Unidos,3/7/2020,3/19/2020
+JALISCO,F,29,3/14/2020,confirmado,Estados Unidos,3/7/2020,3/19/2020
+JALISCO,M,41,3/8/2020,confirmado,Estados Unidos,3/9/2020,3/19/2020
+JALISCO,M,54,3/7/2020,confirmado,Estados Unidos,3/7/2020,3/19/2020
+JALISCO,F,62,3/9/2020,confirmado,Estados Unidos,2/23/2020,3/19/2020
+JALISCO,M,42,3/12/2020,confirmado,Estados Unidos,3/11/2020,3/19/2020
+JALISCO,M,49,3/13/2020,confirmado,Estados Unidos,3/8/2020,3/19/2020
+JALISCO,M,29,3/8/2020,confirmado,Estados Unidos,3/7/2020,3/19/2020
+JALISCO,M,19,3/14/2020,confirmado,España,3/13/2020,3/19/2020
+JALISCO,M,63,3/14/2020,confirmado,Estados Unidos,3/14/2020,3/19/2020
+JALISCO,F,35,3/11/2020,confirmado,Italia,3/14/2020,3/23/2020
+JALISCO,M,44,3/11/2020,confirmado,Italia,3/11/2020,3/20/2020
+PUEBLA,F,32,3/15/2020,confirmado,España,3/15/2020,3/20/2020
+CHIAPAS,M,47,3/14/2020,confirmado,Alemania,3/13/2020,3/19/2020
+QUERETARO,M,51,3/16/2020,confirmado,Estados Unidos,3/15/2020,3/20/2020
+MÉXICO,F,33,3/15/2020,confirmado,España,3/5/2020,3/20/2020
+MÉXICO,M,31,3/3/2020,confirmado,España,3/1/2020,3/20/2020
+BAJA CALIFORNIA,M,62,3/17/2020,confirmado,Contacto,,3/20/2020
+QUERETARO,M,34,3/18/2020,confirmado,Francia,3/16/2020,3/20/2020
+CIUDAD DE MÉXICO,F,38,3/14/2020,confirmado,Contacto,,3/19/2020
+MÉXICO,M,55,3/11/2020,confirmado,Contacto,,3/20/2020
+NUEVO LEÓN,M,53,3/17/2020,confirmado,Contacto,,3/20/2020
+NUEVO LEÓN,M,58,3/15/2020,confirmado,España,3/14/2020,3/20/2020
+NUEVO LEÓN,M,61,3/15/2020,confirmado,España,3/14/2020,3/20/2020
+NUEVO LEÓN,F,59,3/17/2020,confirmado,Contacto,,3/20/2020
+TABASCO,M,46,3/9/2020,confirmado,Estados Unidos,3/11/2020,3/20/2020
+JALISCO,F,75,3/8/2020,confirmado,Estados Unidos,3/14/2020,3/20/2020
+JALISCO,M,80,3/14/2020,confirmado,Estados Unidos,3/14/2020,3/20/2020
+NUEVO LEÓN,F,31,3/10/2020,confirmado,Contacto,3/10/2020,3/20/2020
+CIUDAD DE MÉXICO,M,38,3/10/2020,confirmado,Estados Unidos,3/7/2020,3/21/2020
+CIUDAD DE MÉXICO,F,35,3/9/2020,confirmado,Contacto,,3/21/2020
+CIUDAD DE MÉXICO,M,61,3/16/2020,confirmado,España,3/11/2020,3/21/2020
+CIUDAD DE MÉXICO,F,37,3/14/2020,confirmado,Contacto,,3/21/2020
+CIUDAD DE MÉXICO,M,43,3/13/2020,confirmado,Contacto,,3/21/2020
+BAJA CALIFORNIA,M,26,3/15/2020,confirmado,Francia,3/13/2020,3/21/2020
+HIDALGO,F,57,3/14/2020,confirmado,España,3/16/2020,3/21/2020
+PUEBLA,M,21,3/17/2020,confirmado,España,3/15/2020,3/20/2020
+BAJA CALIFORNIA,F,34,3/11/2020,confirmado,Estados Unidos,3/8/2020,3/21/2020
+CIUDAD DE MÉXICO,M,0,3/16/2020,confirmado,Contacto,,3/21/2020
+PUEBLA,M,56,3/14/2020,confirmado,Estados Unidos,3/7/2020,3/20/2020
+NAYARIT,F,48,3/17/2020,confirmado,España,3/17/2020,3/21/2020
+PUEBLA,M,24,3/14/2020,confirmado,Estados Unidos,3/7/2020,3/21/2020
+CHIHUAHUA,F,18,3/15/2020,confirmado,Estados Unidos,3/14/2020,3/20/2020
+BAJA CALIFORNIA,M,39,3/17/2020,confirmado,Contacto,,3/21/2020
+QUERETARO,F,29,3/10/2020,confirmado,Estados Unidos,3/1/2020,3/21/2020
+JALISCO,M,77,3/13/2020,confirmado,Contacto,,3/20/2020
+TABASCO,M,33,3/14/2020,confirmado,España,3/18/2020,3/21/2020
+AGUASCALIENTES,M,44,3/17/2020,confirmado,España,3/17/2020,3/23/2020
+JALISCO,M,20,3/17/2020,confirmado,Contacto,,3/20/2020
+ZACATECAS,M,38,3/8/2020,confirmado,Contacto,,3/21/2020
+QUERETARO,M,29,3/18/2020,confirmado,España,3/16/2020,3/21/2020
+CIUDAD DE MÉXICO,M,33,3/11/2020,confirmado,Contacto,,3/21/2020
+NUEVO LEÓN,M,32,3/15/2020,confirmado,Estados Unidos,3/16/2020,3/21/2020
+NUEVO LEÓN,F,27,3/18/2020,confirmado,Estados Unidos,3/14/2020,3/21/2020
+NUEVO LEÓN,M,35,3/17/2020,confirmado,Estados Unidos,3/15/2020,3/21/2020
+PUEBLA,F,30,3/16/2020,confirmado,Estados Unidos,3/15/2020,3/21/2020
+CIUDAD DE MÉXICO,M,27,3/15/2020,confirmado,Francia,3/15/2020,3/21/2020
+MÉXICO,M,43,3/9/2020,confirmado,España,3/13/2020,3/28/2020
+CIUDAD DE MÉXICO,M,47,3/6/2020,confirmado,Estados Unidos,3/2/2020,3/27/2020
+CIUDAD DE MÉXICO,M,43,3/14/2020,confirmado,Contacto,,3/28/2020
+CIUDAD DE MÉXICO,M,71,3/4/2020,confirmado,España,3/14/2020,3/22/2020
+CIUDAD DE MÉXICO,F,25,3/9/2020,confirmado,España,3/13/2020,3/22/2020
+CIUDAD DE MÉXICO,M,43,3/8/2020,confirmado,España,3/4/2020,3/22/2020
+CIUDAD DE MÉXICO,F,31,3/3/2020,confirmado,Alemania,3/9/2020,3/22/2020
+VERACRUZ,M,31,3/16/2020,confirmado,España,3/13/2020,3/21/2020
+QUERETARO,M,29,3/16/2020,confirmado,Contacto,,3/21/2020
+DURANGO,F,68,3/18/2020,confirmado,Contacto,,3/21/2020
+BAJA CALIFORNIA,F,26,3/13/2020,confirmado,Estados Unidos,3/16/2020,3/21/2020
+SAN LUIS POTOSÍ,F,20,3/9/2020,confirmado,España,3/17/2020,3/21/2020
+CIUDAD DE MÉXICO,F,54,3/15/2020,confirmado,Contacto,,3/21/2020
+JALISCO,M,56,3/17/2020,confirmado,Estados Unidos,3/4/2020,3/21/2020
+BAJA CALIFORNIA,M,35,3/18/2020,confirmado,Estados Unidos,3/16/2020,3/22/2020
+VERACRUZ,F,35,3/14/2020,confirmado,Estados Unidos,3/13/2020,3/21/2020
+JALISCO,M,53,3/17/2020,confirmado,Contacto,,3/21/2020
+VERACRUZ,M,27,3/17/2020,confirmado,Contacto,3/16/2020,3/21/2020
+QUINTANA ROO,M,51,3/11/2020,confirmado,España,3/16/2020,3/21/2020
+TAMAULIPAS,F,33,3/16/2020,confirmado,Francia,3/7/2020,3/21/2020
+SAN LUIS POTOSÍ,M,46,3/12/2020,confirmado,Estados Unidos,3/12/2020,3/21/2020
+CIUDAD DE MÉXICO,M,42,3/6/2020,confirmado,Contacto,,3/22/2020
+CIUDAD DE MÉXICO,F,35,3/16/2020,confirmado,Estados Unidos,3/9/2020,3/21/2020
+JALISCO,M,29,3/17/2020,confirmado,Singapur,3/9/2020,3/22/2020
+TABASCO,F,37,3/10/2020,confirmado,Estados Unidos,3/11/2020,3/21/2020
+CIUDAD DE MÉXICO,M,47,3/14/2020,confirmado,España,3/16/2020,3/22/2020
+CIUDAD DE MÉXICO,M,34,3/14/2020,confirmado,Francia,3/12/2020,3/22/2020
+JALISCO,M,55,3/9/2020,confirmado,España,3/12/2020,3/22/2020
+CIUDAD DE MÉXICO,F,40,3/18/2020,confirmado,Contacto,,3/22/2020
+JALISCO,M,58,3/17/2020,confirmado,Contacto,,3/21/2020
+BAJA CALIFORNIA SUR,M,48,3/16/2020,confirmado,Estados Unidos,3/14/2020,3/21/2020
+COAHUILA,F,41,3/18/2020,confirmado,España,3/14/2020,3/21/2020
+CHIHUAHUA,M,47,3/18/2020,confirmado,Estados Unidos,3/13/2020,3/22/2020
+CIUDAD DE MÉXICO,F,48,3/13/2020,confirmado,Contacto,,3/21/2020
+CIUDAD DE MÉXICO,M,35,3/8/2020,confirmado,España,3/8/2020,3/22/2020
+COAHUILA,M,29,3/17/2020,confirmado,Estados Unidos,3/15/2020,3/21/2020
+CIUDAD DE MÉXICO,M,52,3/11/2020,confirmado,Contacto,,3/22/2020
+CIUDAD DE MÉXICO,M,25,3/13/2020,confirmado,Contacto,,3/21/2020
+MICHOACÁN,M,36,3/9/2020,confirmado,España,3/15/2020,3/22/2020
+SINALOA,M,55,3/17/2020,confirmado,Contacto,,3/22/2020
+BAJA CALIFORNIA,M,27,3/13/2020,confirmado,Francia,3/13/2020,3/22/2020
+CHIHUAHUA,F,19,3/13/2020,confirmado,España,3/14/2020,3/22/2020
+CIUDAD DE MÉXICO,M,37,3/16/2020,confirmado,España,3/16/2020,3/21/2020
+CHIHUAHUA,F,21,3/16/2020,confirmado,España,3/14/2020,3/22/2020
+CIUDAD DE MÉXICO,M,51,3/17/2020,confirmado,Contacto,3/8/2020,3/22/2020
+YUCATÁN,F,40,3/15/2020,confirmado,Contacto,,3/21/2020
+CIUDAD DE MÉXICO,M,36,3/14/2020,confirmado,Contacto,,3/21/2020
+HIDALGO,F,55,3/12/2020,confirmado,Contacto,,3/22/2020
+SAN LUIS POTOSÍ,F,27,3/17/2020,confirmado,Estados Unidos,3/18/2020,3/22/2020
+JALISCO,F,38,3/15/2020,confirmado,Estados Unidos,3/16/2020,3/21/2020
+SAN LUIS POTOSÍ,M,21,3/19/2020,confirmado,Contacto,3/18/2020,3/22/2020
+SAN LUIS POTOSÍ,M,34,3/18/2020,confirmado,Francia,3/5/2020,3/22/2020
+CAMPECHE,M,52,3/12/2020,confirmado,España,3/18/2020,3/22/2020
+HIDALGO,F,26,3/18/2020,confirmado,Francia,3/17/2020,3/22/2020
+TABASCO,F,71,3/17/2020,confirmado,España,3/17/2020,3/22/2020
+YUCATÁN,F,17,3/10/2020,confirmado,Estados Unidos,3/8/2020,3/22/2020
+YUCATÁN,F,19,3/10/2020,confirmado,Estados Unidos,3/8/2020,3/22/2020
+YUCATÁN,M,39,3/14/2020,confirmado,Estados Unidos,3/14/2020,3/22/2020
+SONORA,M,30,3/18/2020,confirmado,Francia,3/13/2020,3/22/2020
+MICHOACÁN,F,57,3/15/2020,confirmado,Contacto,3/15/2020,3/22/2020
+MICHOACÁN,M,57,3/18/2020,confirmado,Contacto,3/15/2020,3/22/2020
+YUCATÁN,M,31,3/17/2020,confirmado,Contacto,,3/22/2020
+BAJA CALIFORNIA,F,49,3/12/2020,confirmado,Contacto,,3/22/2020
+ZACATECAS,M,39,3/19/2020,confirmado,Contacto,3/19/2020,3/22/2020
+COLIMA,F,34,3/12/2020,confirmado,Estados Unidos,3/11/2020,3/21/2020
+MÉXICO,M,44,2/19/2020,confirmado,Italia,2/22/2020,3/22/2020
+MÉXICO,F,52,3/10/2020,confirmado,España,3/12/2020,3/22/2020
+COAHUILA,M,43,3/16/2020,confirmado,Estados Unidos,3/13/2020,3/22/2020
+MÉXICO,M,31,3/13/2020,confirmado,Estados Unidos,3/7/2020,3/22/2020
+GUANAJUATO,M,34,3/16/2020,confirmado,Estados Unidos,3/17/2020,3/23/2020
+GUANAJUATO,F,58,3/16/2020,confirmado,Francia,3/17/2020,3/23/2020
+GUANAJUATO,M,43,3/18/2020,confirmado,Estados Unidos,3/18/2020,3/23/2020
+TAMAULIPAS,F,21,3/16/2020,confirmado,España,3/12/2020,3/22/2020
+JALISCO,M,25,3/13/2020,confirmado,Estados Unidos,3/6/2020,3/22/2020
+JALISCO,M,40,3/10/2020,confirmado,Estados Unidos,3/7/2020,3/22/2020
+JALISCO,M,31,3/18/2020,confirmado,Estados Unidos,3/8/2020,3/22/2020
+JALISCO,F,38,3/11/2020,confirmado,Estados Unidos,3/7/2020,3/22/2020
+JALISCO,M,32,3/13/2020,confirmado,Estados Unidos,3/2/2020,3/22/2020
+JALISCO,M,30,3/18/2020,confirmado,Estados Unidos,3/9/2020,3/22/2020
+COAHUILA,M,42,3/18/2020,confirmado,Estados Unidos,3/11/2020,3/22/2020
+COAHUILA,M,11,3/18/2020,confirmado,Estados Unidos,3/11/2020,3/22/2020
+COAHUILA,M,53,3/17/2020,confirmado,Estados Unidos,3/11/2020,3/23/2020
+COAHUILA,M,42,3/18/2020,confirmado,Estados Unidos,,3/22/2020
+MÉXICO,M,46,3/18/2020,confirmado,Contacto,,3/22/2020
+MÉXICO,M,62,3/16/2020,confirmado,España,3/19/2020,3/22/2020
+JALISCO,M,24,3/17/2020,confirmado,Contacto,3/15/2020,3/22/2020
+YUCATÁN,F,42,3/18/2020,confirmado,Francia,3/18/2020,3/22/2020
+COAHUILA,F,30,3/13/2020,confirmado,Estados Unidos,3/18/2020,3/23/2020
+HIDALGO,F,40,3/19/2020,confirmado,Contacto,3/13/2020,3/23/2020
+NUEVO LEÓN,M,60,3/14/2020,confirmado,España,3/13/2020,3/22/2020
+OAXACA,M,22,3/16/2020,confirmado,Contacto,,3/22/2020
+NUEVO LEÓN,M,57,3/13/2020,confirmado,Estados Unidos,3/12/2020,3/22/2020
+NUEVO LEÓN,M,22,3/14/2020,confirmado,Estados Unidos,3/13/2020,3/22/2020
+COAHUILA,M,76,3/20/2020,confirmado,España,3/14/2020,3/22/2020
+COAHUILA,M,42,3/20/2020,confirmado,España,3/14/2020,3/22/2020
+COAHUILA,F,42,3/20/2020,confirmado,España,3/14/2020,3/22/2020
+HIDALGO,F,19,3/20/2020,confirmado,Contacto,,3/23/2020
+SONORA,M,22,3/11/2020,confirmado,España,3/17/2020,3/22/2020
+BAJA CALIFORNIA SUR,F,33,3/16/2020,confirmado,Contacto,3/7/2020,3/23/2020
+QUERETARO,M,37,3/16/2020,confirmado,Contacto,,3/23/2020
+JALISCO,M,55,3/13/2020,confirmado,Contacto,,3/23/2020
+MÉXICO,M,24,3/20/2020,confirmado,Italia,3/14/2020,3/22/2020
+MÉXICO,F,29,3/20/2020,confirmado,España,3/15/2020,3/22/2020
+MÉXICO,F,29,3/12/2020,confirmado,Estados Unidos,2/27/2020,3/22/2020
+QUERETARO,F,30,3/21/2020,confirmado,España,3/15/2020,3/23/2020
+CIUDAD DE MÉXICO,M,20,3/14/2020,confirmado,Contacto,,3/28/2020
+CAMPECHE,F,59,3/6/2020,confirmado,España,3/15/2020,3/23/2020
+QUINTANA ROO,M,65,3/18/2020,confirmado,España,3/15/2020,3/23/2020
+PUEBLA,M,29,3/13/2020,confirmado,Contacto,,3/24/2020
+PUEBLA,M,33,3/13/2020,confirmado,Estados Unidos,3/12/2020,3/24/2020
+MÉXICO,M,63,3/12/2020,confirmado,España,3/4/2020,3/27/2020
+JALISCO,M,28,3/16/2020,confirmado,Estados Unidos,3/6/2020,3/23/2020
+PUEBLA,F,49,3/14/2020,confirmado,España,3/4/2020,3/24/2020
+BAJA CALIFORNIA,M,30,3/19/2020,confirmado,Estados Unidos,3/9/2020,3/23/2020
+ZACATECAS,M,28,3/18/2020,confirmado,España,3/15/2020,3/23/2020
+MÉXICO,M,51,3/5/2020,confirmado,Contacto,,3/27/2020
+CIUDAD DE MÉXICO,M,60,3/18/2020,confirmado,Contacto,,3/24/2020
+CIUDAD DE MÉXICO,M,38,3/13/2020,confirmado,Contacto,,3/24/2020
+CIUDAD DE MÉXICO,M,37,3/15/2020,confirmado,Contacto,3/16/2020,3/24/2020
+PUEBLA,F,28,3/15/2020,confirmado,Estados Unidos,3/17/2020,3/24/2020
+TABASCO,M,30,3/13/2020,confirmado,Estados Unidos,3/11/2020,3/23/2020
+QUINTANA ROO,M,60,3/17/2020,confirmado,España,3/15/2020,3/23/2020
+QUINTANA ROO,M,46,3/15/2020,confirmado,Contacto,,3/23/2020
+AGUASCALIENTES,M,18,3/19/2020,confirmado,España,3/16/2020,3/23/2020
+QUINTANA ROO,F,12,3/15/2020,confirmado,Contacto,,3/23/2020
+QUINTANA ROO,F,52,3/17/2020,confirmado,España,3/15/2020,3/23/2020
+QUINTANA ROO,M,16,3/13/2020,confirmado,Contacto,,3/24/2020
+JALISCO,F,24,3/14/2020,confirmado,Contacto,,3/23/2020
+JALISCO,M,19,3/16/2020,confirmado,España,3/16/2020,3/23/2020
+MICHOACÁN,F,48,3/15/2020,confirmado,Contacto,3/15/2020,3/23/2020
+MICHOACÁN,M,58,3/15/2020,confirmado,Contacto,3/15/2020,3/23/2020
+QUINTANA ROO,M,44,3/14/2020,confirmado,Contacto,,3/23/2020
+SAN LUIS POTOSÍ,M,37,3/19/2020,confirmado,Estados Unidos,3/17/2020,3/23/2020
+SAN LUIS POTOSÍ,F,32,3/18/2020,confirmado,Estados Unidos,3/17/2020,3/23/2020
+SAN LUIS POTOSÍ,M,38,3/18/2020,confirmado,Estados Unidos,3/17/2020,3/23/2020
+MICHOACÁN,F,50,3/15/2020,confirmado,Contacto,3/15/2020,3/23/2020
+MICHOACÁN,M,56,3/15/2020,confirmado,Contacto,3/15/2020,3/23/2020
+CIUDAD DE MÉXICO,M,44,3/11/2020,confirmado,España,3/15/2020,3/27/2020
+SAN LUIS POTOSÍ,M,70,3/15/2020,confirmado,Contacto,,3/23/2020
+MÉXICO,M,60,3/14/2020,confirmado,España,3/12/2020,3/27/2020
+GUANAJUATO,F,20,3/15/2020,confirmado,España,3/16/2020,3/24/2020
+GUANAJUATO,F,32,3/16/2020,confirmado,España,3/16/2020,3/24/2020
+PUEBLA,F,39,3/18/2020,confirmado,Estados Unidos,3/13/2020,3/24/2020
+NUEVO LEÓN,F,63,3/13/2020,confirmado,Francia,3/14/2020,3/24/2020
+BAJA CALIFORNIA,M,51,3/21/2020,confirmado,Contacto,,3/23/2020
+GUERRERO,F,36,3/17/2020,confirmado,Contacto,,3/23/2020
+QUINTANA ROO,F,21,3/18/2020,confirmado,Contacto,3/18/2020,3/23/2020
+QUINTANA ROO,F,19,3/11/2020,confirmado,Estados Unidos,3/9/2020,3/23/2020
+QUINTANA ROO,M,48,3/19/2020,confirmado,Contacto,3/13/2020,3/23/2020
+TAMAULIPAS,M,29,3/20/2020,confirmado,Contacto,,3/23/2020
+OAXACA,F,34,3/20/2020,confirmado,Francia,3/17/2020,3/23/2020
+NUEVO LEÓN,F,30,3/17/2020,confirmado,Contacto,,3/23/2020
+NUEVO LEÓN,M,55,3/18/2020,confirmado,Contacto,,3/23/2020
+NUEVO LEÓN,M,32,3/15/2020,confirmado,Contacto,,3/23/2020
+NUEVO LEÓN,M,35,3/17/2020,confirmado,Estados Unidos,3/15/2020,3/23/2020
+NUEVO LEÓN,M,39,3/14/2020,confirmado,Contacto,3/13/2020,3/23/2020
+CIUDAD DE MÉXICO,M,77,3/16/2020,confirmado,Contacto,,3/23/2020
+CIUDAD DE MÉXICO,F,45,3/20/2020,confirmado,Contacto,,3/23/2020
+NUEVO LEÓN,M,37,3/17/2020,confirmado,España,3/18/2020,3/24/2020
+CIUDAD DE MÉXICO,M,52,3/19/2020,confirmado,Contacto,,3/23/2020
+NUEVO LEÓN,M,40,3/11/2020,confirmado,Estados Unidos,3/9/2020,3/24/2020
+NUEVO LEÓN,F,66,3/19/2020,confirmado,Contacto,,3/24/2020
+NUEVO LEÓN,M,20,3/15/2020,confirmado,Estados Unidos,3/14/2020,3/24/2020
+NUEVO LEÓN,M,21,3/14/2020,confirmado,España,3/15/2020,3/24/2020
+NUEVO LEÓN,F,24,3/17/2020,confirmado,Estados Unidos,3/16/2020,3/24/2020
+NUEVO LEÓN,M,42,3/13/2020,confirmado,Estados Unidos,3/10/2020,3/24/2020
+YUCATÁN,M,63,3/8/2020,confirmado,Contacto,,3/24/2020
+NUEVO LEÓN,F,27,3/20/2020,confirmado,Estados Unidos,3/18/2020,3/24/2020
+NUEVO LEÓN,M,28,3/14/2020,confirmado,Estados Unidos,3/15/2020,3/24/2020
+NUEVO LEÓN,M,30,3/15/2020,confirmado,Estados Unidos,3/9/2020,3/24/2020
+PUEBLA,F,76,3/17/2020,confirmado,Estados Unidos,3/20/2020,3/24/2020
+CIUDAD DE MÉXICO,F,61,3/16/2020,confirmado,Italia,3/12/2020,3/24/2020
+NUEVO LEÓN,F,27,3/9/2020,confirmado,Italia,3/7/2020,3/24/2020
+YUCATÁN,M,38,3/8/2020,confirmado,España,3/4/2020,3/24/2020
+GUERRERO,F,74,3/8/2020,confirmado,España,3/4/2020,3/24/2020
+PUEBLA,M,51,3/13/2020,confirmado,Contacto,,3/25/2020
+PUEBLA,F,66,3/15/2020,confirmado,España,3/9/2020,3/25/2020
+PUEBLA,M,28,3/16/2020,confirmado,Estados Unidos,3/15/2020,3/25/2020
+CIUDAD DE MÉXICO,F,47,3/18/2020,confirmado,Contacto,,3/25/2020
+PUEBLA,M,73,3/16/2020,confirmado,España,3/15/2020,3/25/2020
+AGUASCALIENTES,F,40,3/18/2020,confirmado,Contacto,3/15/2020,3/25/2020
+CIUDAD DE MÉXICO,M,76,3/10/2020,confirmado,Francia,3/11/2020,3/25/2020
+GUANAJUATO,F,56,3/16/2020,confirmado,Francia,3/17/2020,3/24/2020
+GUANAJUATO,F,53,3/16/2020,confirmado,Francia,3/17/2020,3/24/2020
+GUANAJUATO,F,48,3/21/2020,confirmado,Francia,3/17/2020,3/24/2020
+AGUASCALIENTES,F,47,3/12/2020,confirmado,Contacto,3/8/2020,3/25/2020
+CIUDAD DE MÉXICO,M,46,3/17/2020,confirmado,Estados Unidos,3/2/2020,3/25/2020
+MICHOACÁN,M,49,3/15/2020,confirmado,España,3/15/2020,3/24/2020
+CIUDAD DE MÉXICO,M,10,3/13/2020,confirmado,Contacto,,3/25/2020
+CIUDAD DE MÉXICO,F,88,3/20/2020,confirmado,Contacto,,3/25/2020
+YUCATÁN,M,28,3/19/2020,confirmado,Francia,3/15/2020,3/24/2020
+YUCATÁN,F,30,3/19/2020,confirmado,Francia,3/18/2020,3/24/2020
+YUCATÁN,F,40,3/14/2020,confirmado,Contacto,,3/24/2020
+CIUDAD DE MÉXICO,F,79,3/18/2020,confirmado,Contacto,,3/25/2020
+AGUASCALIENTES,M,47,3/18/2020,confirmado,Contacto,,3/25/2020
+CIUDAD DE MÉXICO,M,38,3/10/2020,confirmado,Contacto,,3/24/2020
+PUEBLA,F,23,3/11/2020,confirmado,España,3/15/2020,3/25/2020
+CIUDAD DE MÉXICO,M,64,3/15/2020,confirmado,Francia,3/11/2020,3/24/2020
+CIUDAD DE MÉXICO,M,76,3/21/2020,confirmado,Contacto,3/21/2020,3/25/2020
+CHIHUAHUA,F,18,3/21/2020,confirmado,España,3/18/2020,3/24/2020
+NAYARIT,F,66,3/19/2020,confirmado,Estados Unidos,3/12/2020,3/25/2020
+MÉXICO,M,67,3/13/2020,confirmado,Contacto,,3/25/2020
+PUEBLA,F,69,3/17/2020,confirmado,Contacto,,3/25/2020
+MÉXICO,F,62,3/13/2020,confirmado,Contacto,,3/25/2020
+PUEBLA,M,72,3/16/2020,confirmado,Contacto,,3/25/2020
+PUEBLA,F,38,3/18/2020,confirmado,Estados Unidos,3/18/2020,3/25/2020
+OAXACA,F,62,3/20/2020,confirmado,Contacto,3/21/2020,3/25/2020
+OAXACA,F,21,3/19/2020,confirmado,Contacto,,3/25/2020
+OAXACA,M,56,3/20/2020,confirmado,Contacto,,3/26/2020
+GUERRERO,F,82,3/23/2020,confirmado,España,3/13/2020,3/25/2020
+PUEBLA,F,48,3/19/2020,confirmado,Contacto,,3/25/2020
+PUEBLA,M,31,3/13/2020,confirmado,España,3/15/2020,3/25/2020
+PUEBLA,M,26,3/12/2020,confirmado,Contacto,,3/25/2020
+YUCATÁN,M,51,3/18/2020,confirmado,España,3/16/2020,3/25/2020
+YUCATÁN,F,60,3/10/2020,confirmado,Francia,3/19/2020,3/25/2020
+PUEBLA,M,24,3/20/2020,confirmado,Contacto,,3/25/2020
+GUERRERO,M,29,3/15/2020,confirmado,Contacto,,3/28/2020
+GUANAJUATO,F,56,3/16/2020,confirmado,Francia,3/17/2020,3/25/2020
+GUANAJUATO,F,22,3/17/2020,confirmado,España,3/16/2020,3/25/2020
+GUANAJUATO,M,65,3/20/2020,confirmado,España,3/14/2020,3/25/2020
+GUANAJUATO,F,47,3/16/2020,confirmado,Francia,3/17/2020,3/25/2020
+GUANAJUATO,M,29,3/16/2020,confirmado,España,3/16/2020,3/25/2020
+GUANAJUATO,F,41,3/18/2020,confirmado,España,3/16/2020,3/25/2020
+TABASCO,F,57,3/18/2020,confirmado,España,3/18/2020,3/26/2020
+HIDALGO,F,16,3/20/2020,confirmado,Contacto,,3/26/2020
+HIDALGO,M,17,3/13/2020,confirmado,Contacto,,3/26/2020
+GUANAJUATO,M,24,3/15/2020,confirmado,Estados Unidos,3/19/2020,3/25/2020
+JALISCO,M,36,3/15/2020,confirmado,"Estados
+Unidos",3/8/2020,3/26/2020
+JALISCO,F,25,3/13/2020,confirmado,"Estados
+Unidos",3/6/2020,3/26/2020
+CIUDAD DE MÉXICO,F,60,3/14/2020,confirmado,Contacto,,3/25/2020
+CIUDAD DE MÉXICO,M,28,3/2/2020,confirmado,Estados Unidos,3/15/2020,3/25/2020
+QUINTANA ROO,M,42,3/21/2020,confirmado,"Estados
+Unidos",3/19/2020,3/26/2020
+CIUDAD DE MÉXICO,F,53,3/10/2020,confirmado,Francia,3/18/2020,3/25/2020
+JALISCO,F,50,3/12/2020,confirmado,España,3/9/2020,3/26/2020
+JALISCO,F,38,3/20/2020,confirmado,Contacto,3/23/2020,3/26/2020
+CIUDAD DE MÉXICO,M,47,3/17/2020,confirmado,España,3/14/2020,3/25/2020
+CIUDAD DE MÉXICO,M,20,3/16/2020,confirmado,Contacto,3/16/2020,3/25/2020
+MICHOACÁN,F,49,3/16/2020,confirmado,España,3/15/2020,3/25/2020
+CIUDAD DE MÉXICO,F,29,3/16/2020,confirmado,Estados Unidos,3/9/2020,3/25/2020
+TAMAULIPAS,M,75,3/22/2020,confirmado,Contacto,,3/25/2020
+BAJA CALIFORNIA SUR,M,40,3/21/2020,confirmado,Contacto,,3/25/2020
+BAJA CALIFORNIA SUR,F,31,3/21/2020,confirmado,Contacto,,3/25/2020
+JALISCO,M,49,3/12/2020,confirmado,Estados Unidos,3/8/2020,3/26/2020
+MÉXICO,M,45,3/16/2020,confirmado,Estados Unidos,3/3/2020,3/25/2020
+CHIAPAS,M,45,3/13/2020,confirmado,Contacto,,3/25/2020
+TLAXCALA,F,19,3/16/2020,confirmado,Estados Unidos,3/21/2020,3/25/2020
+CIUDAD DE MÉXICO,F,65,3/16/2020,confirmado,España,3/14/2020,3/25/2020
+CIUDAD DE MÉXICO,F,34,3/19/2020,confirmado,Contacto,,3/25/2020
+MORELOS,F,35,3/16/2020,confirmado,"Estados
+Unidos",3/16/2020,3/26/2020
+AGUASCALIENTES,M,53,3/23/2020,confirmado,España,3/23/2020,3/25/2020
+CIUDAD DE MÉXICO,M,45,3/13/2020,confirmado,España,3/19/2020,3/26/2020
+BAJA CALIFORNIA,F,50,3/18/2020,confirmado,Contacto,,3/25/2020
+JALISCO,F,33,3/21/2020,confirmado,Contacto,,3/26/2020
+JALISCO,F,20,3/22/2020,confirmado,Contacto,,3/26/2020
+BAJA CALIFORNIA SUR,M,46,3/21/2020,confirmado,Estados Unidos,3/20/2020,3/25/2020
+AGUASCALIENTES,F,59,3/23/2020,confirmado,Contacto,,3/25/2020
+HIDALGO,F,24,3/13/2020,confirmado,Contacto,,3/26/2020
+QUINTANA ROO,M,20,3/13/2020,confirmado,"Estados
+Unidos",3/21/2020,3/26/2020
+CIUDAD DE MÉXICO,M,58,3/12/2020,confirmado,Contacto,,3/25/2020
+PUEBLA,F,31,3/16/2020,confirmado,España,3/15/2020,3/26/2020
+JALISCO,M,58,3/20/2020,confirmado,España,3/17/2020,3/26/2020
+MICHOACÁN,F,69,3/15/2020,confirmado,Contacto,3/23/2020,3/26/2020
+AGUASCALIENTES,M,60,3/20/2020,confirmado,Francia,3/12/2020,3/25/2020
+QUINTANA ROO,F,30,3/21/2020,confirmado,Francia,3/21/2020,3/26/2020
+SINALOA,F,47,3/16/2020,confirmado,España,3/15/2020,3/26/2020
+JALISCO,F,20,3/20/2020,confirmado,"Estados
+Unidos",3/7/2020,3/26/2020
+JALISCO,M,72,3/18/2020,confirmado,Francia,3/17/2020,3/26/2020
+YUCATÁN,M,30,3/18/2020,confirmado,Estados Unidos,3/14/2020,3/25/2020
+OAXACA,F,16,3/23/2020,confirmado,Contacto,3/23/2020,3/25/2020
+YUCATÁN,F,42,3/22/2020,confirmado,Estados Unidos,3/14/2020,3/25/2020
+JALISCO,M,54,3/12/2020,confirmado,Estados Unidos,3/8/2020,3/26/2020
+QUERETARO,M,21,3/22/2020,confirmado,España,3/13/2020,3/25/2020
+MÉXICO,M,69,3/18/2020,confirmado,España,3/15/2020,3/25/2020
+JALISCO,M,21,3/12/2020,confirmado,"Estados
+Unidos",3/7/2020,3/26/2020
+HIDALGO,M,71,3/16/2020,confirmado,"Estados
+Unidos",3/13/2020,3/26/2020
+JALISCO,F,49,3/17/2020,confirmado,Contacto,,3/26/2020
+QUINTANA ROO,M,74,3/15/2020,confirmado,Contacto,,3/26/2020
+QUINTANA ROO,M,51,3/12/2020,confirmado,"Estados
+Unidos",3/9/2020,3/26/2020
+JALISCO,F,48,3/6/2020,confirmado,"Estados
+Unidos",2/5/2020,3/26/2020
+JALISCO,F,20,3/16/2020,confirmado,Contacto,,3/26/2020
+QUERETARO,F,46,3/20/2020,confirmado,Francia,3/6/2020,3/25/2020
+JALISCO,M,72,3/12/2020,confirmado,Estados Unidos,3/6/2020,3/26/2020
+MÉXICO,F,26,3/18/2020,confirmado,España,3/21/2020,3/26/2020
+PUEBLA,F,22,3/22/2020,confirmado,Contacto,,3/26/2020
+NUEVO LEÓN,F,30,3/18/2020,confirmado,España,3/16/2019,3/26/2020
+PUEBLA,F,47,3/16/2020,confirmado,"Estados
+Unidos",3/15/2020,3/26/2020
+PUEBLA,M,42,3/18/2020,confirmado,Contacto,,3/26/2020
+JALISCO,M,50,3/14/2020,confirmado,Contacto,,3/26/2020
+SAN LUIS POTOSÍ,F,33,3/22/2020,confirmado,España,3/14/2020,3/25/2020
+PUEBLA,M,48,3/16/2020,confirmado,"Estados
+Unidos",3/15/2020,3/26/2020
+SINALOA,F,30,3/17/2020,confirmado,Estados Unidos,3/15/2020,3/26/2020
+SINALOA,M,72,3/14/2020,confirmado,Contacto,,3/26/2020
+COAHUILA,M,42,3/19/2020,confirmado,Contacto,,3/26/2020
+NUEVO LEÓN,F,26,3/21/2020,confirmado,Contacto,,3/26/2020
+BAJA CALIFORNIA,F,50,3/15/2020,confirmado,Estados Unidos,3/13/2020,3/26/2020
+MORELOS,F,61,3/23/2020,confirmado,Contacto,,3/26/2020
+SONORA,M,44,3/17/2020,confirmado,España,3/10/2020,3/26/2020
+TABASCO,M,46,3/20/2020,confirmado,Contacto,,3/26/2020
+NUEVO LEÓN,M,26,3/18/2020,confirmado,España,3/16/2020,3/26/2020
+NUEVO LEÓN,M,41,3/9/2020,confirmado,"Estados
+Unidos",3/9/2020,3/26/2020
+SONORA,M,24,3/17/2020,confirmado,Estados Unidos,3/19/2020,3/26/2020
+NAYARIT,M,53,3/21/2020,confirmado,Contacto,3/24/2020,3/25/2020
+PUEBLA,M,27,3/23/2020,confirmado,Contacto,,3/26/2020
+PUEBLA,F,35,3/21/2020,confirmado,Contacto,,3/26/2020
+NAYARIT,M,53,3/24/2020,confirmado,Contacto,3/24/2020,3/25/2020
+MICHOACÁN,F,62,3/15/2020,confirmado,Contacto,3/15/2020,3/25/2020
+SONORA,F,50,3/20/2020,confirmado,España,3/16/2020,3/26/2020
+YUCATÁN,M,53,3/19/2020,confirmado,Contacto,3/12/2020,3/25/2020
+QUERETARO,M,38,3/14/2020,confirmado,Contacto,,3/26/2020
+AGUASCALIENTES,F,74,3/22/2020,confirmado,Contacto,,3/26/2020
+YUCATÁN,M,23,3/17/2020,confirmado,Francia,3/21/2020,3/26/2020
+YUCATÁN,M,58,3/20/2020,confirmado,Contacto,,3/26/2020
+YUCATÁN,M,67,3/22/2020,confirmado,Contacto,3/21/2020,3/26/2020
+SINALOA,M,26,3/20/2020,confirmado,Contacto,,3/26/2020
+QUERETARO,M,23,3/20/2020,confirmado,"Estados
+Unidos",3/17/2020,3/26/2020
+QUINTANA ROO,M,75,3/25/2020,confirmado,Contacto,3/20/2020,3/26/2020
+TABASCO,F,28,3/19/2020,confirmado,Contacto,,3/26/2020
+QUINTANA ROO,F,49,3/20/2020,confirmado,"Estados
+Unidos",3/20/2020,3/26/2020
+QUERETARO,F,62,3/17/2020,confirmado,Contacto,,3/26/2020
+SONORA,F,45,3/15/2020,confirmado,España,3/16/2020,3/27/2020
+NAYARIT,F,32,3/10/2020,confirmado,Francia,3/18/2020,3/27/2020
+VERACRUZ,F,26,3/15/2020,confirmado,España,3/16/2020,3/27/2020
+NUEVO LEÓN,F,57,3/19/2020,confirmado,Estados Unidos,3/8/2020,3/27/2020
+VERACRUZ,F,33,3/16/2020,confirmado,Estados Unidos,2/27/2020,3/27/2020
+MÉXICO,M,42,3/15/2020,confirmado,Estados Unidos,3/11/2020,3/27/2020
+CIUDAD DE MÉXICO,M,37,3/17/2020,confirmado,Contacto,,3/27/2020
+VERACRUZ,F,40,3/12/2020,confirmado,España,3/15/2020,3/27/2020
+VERACRUZ,M,46,3/15/2020,confirmado,España,3/14/2020,3/27/2020
+VERACRUZ,M,40,3/12/2020,confirmado,España,3/15/2020,3/27/2020
+VERACRUZ,F,39,3/12/2020,confirmado,Estados Unidos,3/8/2020,3/27/2020
+VERACRUZ,M,51,3/19/2020,confirmado,España,3/15/2020,3/27/2020
+NUEVO LEÓN,M,40,3/5/2020,confirmado,"Estados
+Unidos",3/10/2020,3/26/2020
+GUANAJUATO,M,67,3/16/2020,confirmado,Contacto,3/16/2020,3/27/2020
+GUANAJUATO,M,51,3/20/2020,confirmado,España,3/15/2020,3/26/2020
+MÉXICO,F,34,3/13/2020,confirmado,España,3/14/2020,3/27/2020
+GUANAJUATO,F,28,3/20/2020,confirmado,Contacto,3/16/2020,3/26/2020
+ZACATECAS,F,57,3/12/2020,confirmado,Contacto,2/29/2020,3/26/2020
+GUANAJUATO,F,59,3/20/2020,confirmado,Contacto,,3/26/2020
+GUANAJUATO,M,26,3/15/2020,confirmado,España,3/14/2020,3/26/2020
+BAJA CALIFORNIA,M,25,3/20/2020,confirmado,Contacto,3/21/2020,3/26/2020
+JALISCO,F,19,3/17/2020,confirmado,Francia,3/11/2020,3/26/2020
+JALISCO,F,19,3/16/2020,confirmado,"Estados
+Unidos",3/15/2020,3/26/2020
+BAJA CALIFORNIA,F,41,3/20/2020,confirmado,"Estados
+Unidos",3/19/2020,3/26/2020
+"BAJA CALIFORNIA
+SUR",M,44,3/20/2020,confirmado,"Estados
+Unidos",3/14/2020,3/26/2020
+BAJA CALIFORNIA,M,30,3/16/2020,confirmado,España,3/18/2020,3/26/2020
+PUEBLA,M,50,3/22/2020,confirmado,Contacto,,3/26/2020
+BAJA CALIFORNIA,F,64,3/13/2020,confirmado,Contacto,,3/26/2020
+"BAJA CALIFORNIA
+SUR",M,66,3/22/2020,confirmado,"Estados
+Unidos",3/15/2020,3/26/2020
+TLAXCALA,M,38,3/16/2020,confirmado,Contacto,,3/27/2020
+PUEBLA,F,60,3/16/2020,confirmado,"Estados
+Unidos",3/11/2020,3/26/2020
+CIUDAD DE MÉXICO,F,55,3/15/2020,confirmado,Contacto,,3/27/2020
+CHIAPAS,F,32,3/20/2020,confirmado,Estados Unidos,3/7/2020,3/27/2020
+COAHUILA,F,41,3/21/2020,confirmado,Contacto,,3/27/2020
+TABASCO,F,26,3/16/2020,confirmado,Contacto,,3/26/2020
+OAXACA,F,41,3/23/2020,confirmado,Contacto,,3/27/2020
+MÉXICO,M,60,3/13/2020,confirmado,Contacto,3/15/2020,3/27/2020
+TABASCO,F,53,3/21/2020,confirmado,Contacto,,3/26/2020
+TABASCO,M,31,3/21/2020,confirmado,Contacto,,3/26/2020
+DURANGO,M,25,3/23/2020,confirmado,Estados Unidos,3/18/2020,3/27/2020
+TABASCO,F,23,3/15/2020,confirmado,Contacto,,3/27/2020
+TABASCO,F,29,3/13/2020,confirmado,Contacto,,3/26/2020
+CIUDAD DE MÉXICO,M,49,3/19/2020,confirmado,Contacto,,3/27/2020
+TABASCO,M,67,3/19/2020,confirmado,Contacto,,3/26/2020
+CIUDAD DE MÉXICO,F,49,3/19/2020,confirmado,Contacto,,3/27/2020
+PUEBLA,M,44,3/18/2020,confirmado,Contacto,,3/26/2020
+OAXACA,F,20,3/22/2020,confirmado,Contacto,3/19/2020,3/27/2020
+OAXACA,M,36,3/21/2020,confirmado,Contacto,,3/27/2020
+PUEBLA,M,27,3/23/2020,confirmado,"Estados
+Unidos",3/18/2020,3/26/2020
+TABASCO,F,29,3/24/2020,confirmado,España,3/18/2020,3/27/2020
+MICHOACÁN,F,60,3/18/2020,confirmado,Contacto,3/23/2020,3/27/2020
+TLAXCALA,M,45,3/17/2020,confirmado,Contacto,,3/27/2020
+MICHOACÁN,F,25,3/18/2020,confirmado,Contacto,,3/27/2020
+CIUDAD DE MÉXICO,M,25,3/19/2020,confirmado,España,3/14/2020,3/27/2020
+NUEVO LEÓN,M,42,3/19/2020,confirmado,Francia,3/20/2020,3/27/2020
+CHIAPAS,F,32,3/22/2020,confirmado,Estados Unidos,3/18/2020,3/27/2020
+CIUDAD DE MÉXICO,M,36,3/17/2020,confirmado,Contacto,,3/27/2020
+SINALOA,M,42,3/22/2020,confirmado,Contacto,,3/27/2020
+DURANGO,M,80,3/18/2020,confirmado,Contacto,,3/27/2020
+TABASCO,M,31,3/17/2020,confirmado,Contacto,,3/26/2020
+TABASCO,F,58,3/18/2020,confirmado,Contacto,,3/26/2020
+TLAXCALA,M,56,3/22/2020,confirmado,Estados Unidos,3/21/2020,3/27/2020
+MÉXICO,F,68,3/17/2020,confirmado,Contacto,,3/26/2020
+MÉXICO,F,49,3/2/2020,confirmado,Contacto,,3/26/2020
+MÉXICO,F,56,3/19/2020,confirmado,Contacto,,3/27/2020
+MÉXICO,F,22,3/24/2020,confirmado,Contacto,,3/26/2020
+MÉXICO,F,22,3/16/2020,confirmado,Contacto,3/15/2020,3/26/2020
+NUEVO LEÓN,M,23,3/14/2020,confirmado,España,3/16/2020,3/27/2020
+MÉXICO,M,36,3/16/2020,confirmado,España,3/3/2020,3/26/2020
+MÉXICO,F,33,3/12/2020,confirmado,Contacto,,3/26/2020
+MÉXICO,M,37,3/21/2020,confirmado,Contacto,,3/26/2020
+HIDALGO,F,49,3/23/2020,confirmado,Contacto,3/23/2020,3/26/2020
+TABASCO,M,51,3/10/2020,confirmado,Contacto,,3/27/2020
+MÉXICO,F,36,3/16/2020,confirmado,Contacto,,3/26/2020
+MÉXICO,F,31,3/21/2020,confirmado,Contacto,,3/26/2020
+TABASCO,F,68,3/18/2020,confirmado,Contacto,,3/27/2020
+MÉXICO,F,48,3/16/2020,confirmado,Contacto,,3/26/2020
+MÉXICO,M,60,3/20/2020,confirmado,Contacto,,3/26/2020
+CHIAPAS,M,42,3/21/2020,confirmado,Contacto,3/18/2020,3/27/2020
+MÉXICO,F,33,3/22/2020,confirmado,Contacto,,3/26/2020
+SAN LUIS POTOSÍ,M,56,3/13/2020,confirmado,Contacto,,3/26/2020
+MÉXICO,F,33,3/10/2020,confirmado,Contacto,,3/26/2020
+TABASCO,M,26,3/9/2020,confirmado,Contacto,,3/26/2020
+MÉXICO,F,28,3/21/2020,confirmado,Contacto,,3/26/2020
+MÉXICO,F,43,3/23/2020,confirmado,Contacto,,3/26/2020
+MÉXICO,F,46,3/23/2020,confirmado,Contacto,,3/26/2020
+MÉXICO,F,28,3/16/2020,confirmado,Contacto,,3/26/2020
+MÉXICO,F,31,3/19/2020,confirmado,Contacto,,3/26/2020
+MÉXICO,M,41,3/24/2020,confirmado,Contacto,,3/26/2020
+MÉXICO,F,44,3/5/2020,confirmado,Contacto,,3/27/2020
+GUANAJUATO,F,52,3/17/2020,confirmado,Contacto,,3/27/2020
+YUCATÁN,F,66,3/21/2020,confirmado,Contacto,,3/27/2020
+MÉXICO,M,37,3/19/2020,confirmado,Contacto,,3/27/2020
+YUCATÁN,M,72,3/19/2020,confirmado,Contacto,3/21/2020,3/27/2020
+YUCATÁN,M,36,3/19/2020,confirmado,Contacto,,3/27/2020
+MÉXICO,F,51,3/18/2020,confirmado,Contacto,,3/27/2020
+MÉXICO,M,40,3/17/2020,confirmado,Contacto,,3/27/2020
+YUCATÁN,F,67,3/17/2020,confirmado,Contacto,3/21/2020,3/27/2020
+CIUDAD DE MÉXICO,M,31,3/16/2020,confirmado,Contacto,,3/27/2020
+JALISCO,M,33,3/17/2020,confirmado,Contacto,,3/28/2020
+JALISCO,M,23,3/17/2020,confirmado,Estados Unidos,3/18/2020,3/27/2020
+VERACRUZ,M,33,3/12/2020,confirmado,Estados Unidos,3/19/2020,3/27/2020
+YUCATÁN,M,46,3/13/2020,confirmado,Contacto,,3/28/2020
+VERACRUZ,M,38,3/17/2020,confirmado,Contacto,,3/27/2020
+VERACRUZ,F,37,3/18/2020,confirmado,Contacto,,3/27/2020
+CIUDAD DE MÉXICO,M,41,3/16/2020,confirmado,Estados Unidos,3/15/2020,3/27/2020
+JALISCO,F,56,3/16/2020,confirmado,Estados Unidos,3/9/2020,3/27/2020
+JALISCO,M,48,3/12/2020,confirmado,Estados Unidos,3/9/2020,3/27/2020
+CIUDAD DE MÉXICO,F,35,3/20/2020,confirmado,Contacto,,3/27/2020
+CIUDAD DE MÉXICO,F,50,3/1/2020,confirmado,Estados Unidos,3/8/2020,3/27/2020
+BAJA CALIFORNIA,M,28,3/18/2020,confirmado,Estados Unidos,3/10/2020,3/27/2020
+VERACRUZ,M,21,3/20/2020,confirmado,España,3/19/2020,3/28/2020
+CIUDAD DE MÉXICO,F,35,3/15/2020,confirmado,Contacto,,3/27/2020
+QUERETARO,F,34,3/16/2020,confirmado,Contacto,,3/28/2020
+QUERETARO,M,58,3/17/2020,confirmado,Contacto,,3/27/2020
+MÉXICO,M,37,3/19/2020,confirmado,Contacto,,3/28/2020
+MÉXICO,M,42,3/16/2020,confirmado,Contacto,,3/27/2020
+CIUDAD DE MÉXICO,M,47,3/20/2020,confirmado,Contacto,3/6/2020,3/27/2020
+CIUDAD DE MÉXICO,F,45,3/22/2020,confirmado,Contacto,,3/27/2020
+AGUASCALIENTES,F,32,3/23/2020,confirmado,Contacto,,3/27/2020
+NUEVO LEÓN,M,64,3/18/2020,confirmado,Estados Unidos,3/11/2020,3/27/2020
+VERACRUZ,F,74,3/18/2020,confirmado,Contacto,3/17/2020,3/28/2020
+JALISCO,F,50,3/1/2020,confirmado,Estados Unidos,,3/27/2020
+JALISCO,F,49,3/15/2020,confirmado,Contacto,,3/27/2020
+MÉXICO,F,36,3/21/2020,confirmado,Contacto,,3/27/2020
+MÉXICO,F,47,3/20/2020,confirmado,Contacto,,3/27/2020
+JALISCO,F,34,3/16/2020,confirmado,Estados Unidos,3/7/2020,3/27/2020
+VERACRUZ,F,46,3/19/2020,confirmado,Contacto,,3/28/2020
+PUEBLA,M,77,3/21/2020,confirmado,España,3/19/2020,3/27/2020
+PUEBLA,M,40,3/18/2020,confirmado,Contacto,,3/27/2020
+JALISCO,F,29,3/21/2020,confirmado,Contacto,3/21/2020,3/28/2020
+GUANAJUATO,F,60,3/20/2020,confirmado,Estados Unidos,3/17/2020,3/27/2020
+JALISCO,F,25,3/17/2020,confirmado,Estados Unidos,3/17/2020,3/28/2020
+GUANAJUATO,M,19,3/20/2020,confirmado,Estados Unidos,3/19/2020,3/27/2020
+GUANAJUATO,F,63,3/22/2020,confirmado,Contacto,3/22/2020,3/27/2020
+GUANAJUATO,F,43,3/22/2020,confirmado,Estados Unidos,3/24/2020,3/27/2020
+MICHOACÁN,M,64,3/18/2020,confirmado,Contacto,,3/27/2020
+MICHOACÁN,M,71,3/17/2020,confirmado,Contacto,,3/27/2020
+VERACRUZ,M,51,3/18/2020,confirmado,Contacto,,3/28/2020
+JALISCO,F,65,3/12/2020,confirmado,Estados Unidos,3/17/2020,3/27/2020
+AGUASCALIENTES,F,43,3/23/2020,confirmado,Contacto,,3/27/2020
+AGUASCALIENTES,F,65,3/23/2020,confirmado,Contacto,,3/27/2020
+SONORA,F,56,3/19/2020,confirmado,Contacto,,3/28/2020
+CIUDAD DE MÉXICO,M,35,3/20/2020,confirmado,Contacto,,3/27/2020
+NUEVO LEÓN,F,23,3/22/2020,confirmado,España,3/16/2020,3/27/2020
+AGUASCALIENTES,M,24,3/20/2020,confirmado,Contacto,,3/27/2020
+GUANAJUATO,M,21,3/21/2020,confirmado,Contacto,3/21/2020,3/27/2020
+JALISCO,M,64,3/24/2020,confirmado,Contacto,,3/27/2020
+JALISCO,F,18,3/22/2020,confirmado,Estados Unidos,3/12/2020,3/27/2020
+JALISCO,F,13,3/22/2020,confirmado,Contacto,,3/27/2020
+NUEVO LEÓN,M,28,3/20/2020,confirmado,Contacto,3/18/2020,3/27/2020
+MICHOACÁN,F,66,3/22/2020,confirmado,Contacto,3/23/2020,3/27/2020
+AGUASCALIENTES,F,5,3/25/2020,confirmado,Contacto,3/25/2020,3/27/2020
+QUERETARO,F,47,3/17/2020,confirmado,Francia,3/17/2020,3/27/2020
+AGUASCALIENTES,F,37,3/25/2020,confirmado,Contacto,,3/27/2020
+BAJA CALIFORNIA SUR,M,59,3/22/2020,confirmado,Contacto,,3/27/2020
+GUANAJUATO,F,37,3/20/2020,confirmado,Contacto,,3/27/2020
+PUEBLA,F,39,3/21/2020,confirmado,Contacto,,3/27/2020
+PUEBLA,F,22,3/20/2020,confirmado,Contacto,,3/27/2020
+SAN LUIS POTOSÍ,F,47,3/18/2020,confirmado,Estados Unidos,3/18/2020,3/27/2020
+VERACRUZ,M,23,3/20/2020,confirmado,Contacto,,3/28/2020
+CIUDAD DE MÉXICO,M,52,3/21/2020,confirmado,Contacto,,3/28/2020
+CIUDAD DE MÉXICO,M,56,3/20/2020,confirmado,Estados Unidos,3/13/2020,3/27/2020
+VERACRUZ,M,35,3/21/2020,confirmado,Contacto,3/17/2020,3/28/2020
+JALISCO,M,77,3/20/2020,confirmado,Contacto,,3/28/2020
+SINALOA,F,39,3/22/2020,confirmado,Contacto,,3/28/2020
+JALISCO,M,21,3/21/2020,confirmado,Contacto,,3/27/2020
+SINALOA,F,78,3/23/2020,confirmado,Contacto,,3/28/2020
+OAXACA,F,56,3/24/2020,confirmado,Estados Unidos,3/17/2020,3/28/2020
+JALISCO,F,52,3/18/2020,confirmado,Contacto,,3/27/2020
+JALISCO,M,50,3/21/2020,confirmado,Contacto,,3/27/2020
+PUEBLA,F,24,3/18/2020,confirmado,Contacto,,3/27/2020
+PUEBLA,M,47,3/21/2020,confirmado,Alemania,3/16/2020,3/27/2020
+SINALOA,F,53,3/20/2020,confirmado,Contacto,,3/28/2020
+BAJA CALIFORNIA SUR,M,73,3/24/2020,confirmado,Contacto,3/26/2020,3/27/2020
+SONORA,F,25,3/17/2020,confirmado,Estados Unidos,3/19/2020,3/28/2020
+CIUDAD DE MÉXICO,F,44,3/20/2020,confirmado,Contacto,,3/27/2020
+SINALOA,M,43,3/25/2020,confirmado,Contacto,,3/28/2020
+NUEVO LEÓN,M,27,3/19/2020,confirmado,Contacto,3/15/2020,3/27/2020
+QUERETARO,F,66,3/22/2020,confirmado,Contacto,,3/28/2020
+CIUDAD DE MÉXICO,M,40,3/17/2020,confirmado,Contacto,,3/27/2020
+CIUDAD DE MÉXICO,M,64,3/9/2020,confirmado,Estados Unidos,3/17/2020,3/27/2020
+CIUDAD DE MÉXICO,M,37,3/18/2020,confirmado,Contacto,,3/27/2020
+SINALOA,F,81,3/22/2020,confirmado,Contacto,,3/28/2020
+CIUDAD DE MÉXICO,M,65,3/12/2020,confirmado,España,3/9/2020,3/27/2020
+CIUDAD DE MÉXICO,M,58,3/19/2020,confirmado,España,3/15/2020,3/28/2020
+CIUDAD DE MÉXICO,M,76,3/15/2020,confirmado,Contacto,3/17/2020,3/27/2020
+PUEBLA,F,24,3/23/2020,confirmado,Contacto,,3/28/2020
+CIUDAD DE MÉXICO,F,59,3/9/2020,confirmado,Contacto,,3/27/2020
+CIUDAD DE MÉXICO,M,59,3/9/2020,confirmado,Contacto,,3/27/2020
+CIUDAD DE MÉXICO,F,37,3/9/2020,confirmado,España,3/13/2020,3/28/2020
+CIUDAD DE MÉXICO,F,31,3/7/2020,confirmado,España,3/10/2020,3/28/2020
+JALISCO,F,40,3/22/2020,confirmado,Contacto,,3/28/2020
+CIUDAD DE MÉXICO,M,35,3/8/2020,confirmado,Estados Unidos,3/7/2020,3/28/2020
+CIUDAD DE MÉXICO,M,29,3/13/2020,confirmado,Estados Unidos,3/6/2020,3/28/2020
+CIUDAD DE MÉXICO,M,23,3/16/2020,confirmado,España,3/16/2020,3/28/2020
+CIUDAD DE MÉXICO,M,43,3/14/2020,confirmado,España,3/5/2020,3/28/2020
+CIUDAD DE MÉXICO,F,20,3/14/2020,confirmado,España,3/12/2020,3/28/2020
+CIUDAD DE MÉXICO,F,50,3/9/2020,confirmado,España,3/11/2020,3/28/2020
+CIUDAD DE MÉXICO,F,52,3/17/2020,confirmado,España,3/16/2020,3/28/2020
+CIUDAD DE MÉXICO,M,27,3/18/2020,confirmado,España,3/14/2020,3/28/2020
+CIUDAD DE MÉXICO,M,55,3/10/2020,confirmado,Estados Unidos,3/12/2020,3/28/2020
+CIUDAD DE MÉXICO,M,26,3/11/2020,confirmado,España,3/13/2020,3/28/2020
+CIUDAD DE MÉXICO,F,33,3/18/2020,confirmado,Contacto,3/12/2020,3/28/2020
+BAJA CALIFORNIA,F,28,3/18/2020,confirmado,España,3/19/2020,3/29/2020
+CIUDAD DE MÉXICO,F,33,3/19/2020,confirmado,Estados Unidos,3/18/2020,3/28/2020
+QUINTANA ROO,F,32,3/20/2020,confirmado,Francia,3/19/2020,3/28/2020
+PUEBLA,M,22,3/14/2020,confirmado,España,3/20/2020,3/29/2020
+CIUDAD DE MÉXICO,M,60,3/18/2020,confirmado,Contacto,3/13/2020,3/28/2020
+CIUDAD DE MÉXICO,M,48,3/20/2020,confirmado,España,3/13/2020,3/28/2020
+CIUDAD DE MÉXICO,M,33,3/13/2020,confirmado,España,3/12/2020,3/28/2020
+CIUDAD DE MÉXICO,F,31,3/18/2020,confirmado,España,3/18/2020,3/29/2020
+CIUDAD DE MÉXICO,F,36,3/18/2020,confirmado,España,3/18/2020,3/28/2020
+PUEBLA,F,45,3/21/2020,confirmado,Estados Unidos,3/18/2020,3/29/2020
+CIUDAD DE MÉXICO,F,30,3/17/2020,confirmado,España,3/18/2020,3/28/2020
+CIUDAD DE MÉXICO,M,34,3/17/2020,confirmado,España,3/9/2020,3/28/2020
+QUINTANA ROO,M,44,3/20/2020,confirmado,Contacto,,3/29/2020
+QUINTANA ROO,F,53,3/17/2020,confirmado,Francia,3/15/2020,3/29/2020
+QUINTANA ROO,M,35,3/2/2020,confirmado,Italia,3/15/2020,3/28/2020
+CIUDAD DE MÉXICO,M,38,3/13/2020,confirmado,España,3/8/2020,3/28/2020
+QUINTANA ROO,M,56,3/17/2020,confirmado,Contacto,,3/29/2020
+CIUDAD DE MÉXICO,M,26,3/20/2020,confirmado,Contacto,3/18/2020,3/28/2020
+CIUDAD DE MÉXICO,M,29,3/16/2020,confirmado,Contacto,3/21/2020,3/28/2020
+CIUDAD DE MÉXICO,M,26,3/22/2020,confirmado,Contacto,,3/28/2020
+CIUDAD DE MÉXICO,M,72,3/19/2020,confirmado,Contacto,,3/28/2020
+CIUDAD DE MÉXICO,M,39,3/14/2020,confirmado,Contacto,,3/28/2020
+CIUDAD DE MÉXICO,F,47,3/21/2020,confirmado,Contacto,,3/28/2020
+YUCATÁN,F,37,2/19/2020,confirmado,Contacto,1/21/2020,3/29/2020
+CIUDAD DE MÉXICO,M,51,3/22/2020,confirmado,España,3/19/2020,3/28/2020
+CIUDAD DE MÉXICO,M,45,3/25/2020,confirmado,Contacto,,3/29/2020
+MÉXICO,M,43,3/14/2020,confirmado,Contacto,,3/28/2020
+MÉXICO,M,56,3/23/2020,confirmado,España,3/23/2020,3/29/2020
+CIUDAD DE MÉXICO,M,60,3/21/2020,confirmado,Contacto,,3/28/2020
+MÉXICO,M,36,3/25/2020,confirmado,Contacto,,3/29/2020
+CIUDAD DE MÉXICO,F,30,3/17/2020,confirmado,Contacto,,3/29/2020
+MÉXICO,M,58,3/19/2020,confirmado,Contacto,,3/29/2020
+MÉXICO,M,71,3/25/2020,confirmado,Contacto,,3/29/2020
+MÉXICO,F,2,3/17/2020,confirmado,Contacto,,3/29/2020
+MÉXICO,M,35,3/24/2020,confirmado,Estados Unidos,3/8/2020,3/29/2020
+CIUDAD DE MÉXICO,M,49,3/22/2020,confirmado,Contacto,,3/28/2020
+MÉXICO,F,57,3/24/2020,confirmado,Contacto,3/18/2020,3/29/2020
+MÉXICO,F,33,3/21/2020,confirmado,Estados Unidos,3/12/2020,3/29/2020
+CIUDAD DE MÉXICO,F,30,3/12/2020,confirmado,Contacto,,3/28/2020
+HIDALGO,M,29,3/23/2020,confirmado,España,3/23/2020,3/29/2020
+GUANAJUATO,M,29,3/16/2020,confirmado,Contacto,,3/28/2020
+CIUDAD DE MÉXICO,M,33,3/19/2020,confirmado,Francia,3/17/2020,3/28/2020
+HIDALGO,M,41,3/18/2020,confirmado,Estados Unidos,3/16/2020,3/29/2020
+CIUDAD DE MÉXICO,M,41,3/17/2020,confirmado,Contacto,3/17/2020,3/28/2020
+MÉXICO,F,34,3/25/2020,confirmado,Contacto,,3/29/2020
+MÉXICO,M,52,3/24/2020,confirmado,Contacto,3/18/2020,3/29/2020
+CIUDAD DE MÉXICO,M,24,3/15/2020,confirmado,Francia,3/11/2020,3/28/2020
+CIUDAD DE MÉXICO,F,31,3/19/2020,confirmado,Francia,3/4/2020,3/28/2020
+COAHUILA,F,61,3/21/2020,confirmado,Contacto,,3/28/2020
+CIUDAD DE MÉXICO,M,40,3/19/2020,confirmado,Contacto,,3/28/2020
+CIUDAD DE MÉXICO,M,36,3/15/2020,confirmado,Contacto,,3/28/2020
+CIUDAD DE MÉXICO,F,54,3/15/2020,confirmado,España,3/18/2020,3/28/2020
+MÉXICO,M,58,3/24/2020,confirmado,Contacto,,3/29/2020
+MÉXICO,M,21,3/20/2020,confirmado,Contacto,,3/28/2020
+BAJA CALIFORNIA,M,43,3/18/2020,confirmado,Contacto,,3/29/2020
+HIDALGO,M,61,3/16/2020,confirmado,España,3/16/2020,3/29/2020
+TABASCO,F,60,3/24/2020,confirmado,Contacto,,3/28/2020
+MÉXICO,F,46,3/25/2020,confirmado,Contacto,,3/29/2020
+MÉXICO,F,70,3/26/2020,confirmado,Contacto,,3/29/2020
+HIDALGO,M,46,3/21/2020,confirmado,Contacto,,3/29/2020
+CIUDAD DE MÉXICO,M,34,3/14/2020,confirmado,Estados Unidos,3/13/2020,3/28/2020
+GUERRERO,M,36,3/21/2020,confirmado,Contacto,,3/29/2020
+MÉXICO,F,3,3/23/2020,confirmado,Estados Unidos,3/16/2020,3/29/2020
+GUERRERO,M,53,3/20/2020,confirmado,Estados Unidos,3/11/2020,3/28/2020
+CIUDAD DE MÉXICO,M,53,3/15/2020,confirmado,Contacto,,3/28/2020
+GUANAJUATO,M,54,3/19/2020,confirmado,Contacto,,3/28/2020
+CIUDAD DE MÉXICO,M,48,3/20/2020,confirmado,Contacto,,3/29/2020
+GUANAJUATO,M,33,3/21/2020,confirmado,Italia,3/16/2020,3/28/2020
+AGUASCALIENTES,M,40,3/23/2020,confirmado,Contacto,,3/29/2020
+GUANAJUATO,M,30,3/25/2020,confirmado,Contacto,,3/28/2020
+CAMPECHE,M,18,3/18/2020,confirmado,Estados Unidos,2/25/2020,3/28/2020
+GUERRERO,M,63,3/20/2020,confirmado,Contacto,,3/28/2020
+TABASCO,F,49,3/19/2020,confirmado,Contacto,,3/28/2020
+SAN LUIS POTOSÍ,F,24,3/21/2020,confirmado,Contacto,,3/28/2020
+TABASCO,M,36,3/20/2020,confirmado,Contacto,,3/28/2020
+TABASCO,F,65,3/20/2020,confirmado,Contacto,,3/29/2020
+PUEBLA,F,23,3/20/2020,confirmado,Contacto,,3/29/2020
+TAMAULIPAS,M,50,3/21/2020,confirmado,Estados Unidos,3/16/2020,3/29/2020
+MÉXICO,M,18,3/7/2020,confirmado,Contacto,,3/29/2020
+MICHOACÁN,F,63,3/22/2020,confirmado,Contacto,,3/28/2020
+GUANAJUATO,M,30,3/22/2020,confirmado,España,3/22/2020,3/28/2020
+COAHUILA,F,41,3/22/2020,confirmado,Contacto,,3/29/2020
+GUANAJUATO,F,35,3/14/2020,confirmado,Contacto,,3/28/2020
+PUEBLA,M,55,3/26/2020,confirmado,Contacto,,3/29/2020
+YUCATÁN,F,59,3/17/2020,confirmado,Contacto,3/24/2020,3/28/2020
+YUCATÁN,F,31,3/17/2020,confirmado,Contacto,,3/29/2020
+CIUDAD DE MÉXICO,F,28,3/16/2020,confirmado,Contacto,,3/28/2020
+MÉXICO,F,54,3/14/2020,confirmado,Contacto,3/9/2020,3/29/2020
+CIUDAD DE MÉXICO,M,40,3/16/2020,confirmado,Contacto,2/29/2020,3/28/2020
+CIUDAD DE MÉXICO,F,43,3/23/2020,confirmado,Contacto,,3/28/2020
+CIUDAD DE MÉXICO,F,33,3/24/2020,confirmado,Contacto,,3/28/2020
+CIUDAD DE MÉXICO,M,29,3/18/2020,confirmado,Contacto,,3/28/2020
+PUEBLA,M,26,3/22/2020,confirmado,Contacto,,3/29/2020
+CIUDAD DE MÉXICO,M,65,3/19/2020,confirmado,España,3/9/2020,3/28/2020
+CIUDAD DE MÉXICO,M,40,3/19/2020,confirmado,Contacto,,3/28/2020
+CIUDAD DE MÉXICO,M,43,3/20/2020,confirmado,Contacto,,3/28/2020
+CIUDAD DE MÉXICO,F,53,3/23/2020,confirmado,Contacto,,3/28/2020
+CIUDAD DE MÉXICO,F,35,3/25/2020,confirmado,Contacto,,3/28/2020
+CIUDAD DE MÉXICO,F,60,3/20/2020,confirmado,Estados Unidos,3/20/2020,3/29/2020
+CIUDAD DE MÉXICO,M,36,3/24/2020,confirmado,Contacto,,3/29/2020
+CIUDAD DE MÉXICO,M,41,3/23/2020,confirmado,Contacto,,3/28/2020
+MÉXICO,F,41,3/18/2020,confirmado,Contacto,,3/29/2020
+CIUDAD DE MÉXICO,M,49,3/26/2020,confirmado,Contacto,,3/29/2020
+PUEBLA,M,67,3/20/2020,confirmado,Contacto,,3/29/2020
+SAN LUIS POTOSÍ,F,33,3/27/2020,confirmado,Contacto,3/23/2020,3/29/2020
+TABASCO,F,42,3/23/2020,confirmado,Contacto,,3/28/2020
+TABASCO,F,57,3/19/2020,confirmado,Contacto,,3/28/2020
+CIUDAD DE MÉXICO,M,65,3/12/2020,confirmado,Contacto,3/14/2020,3/29/2020
+SINALOA,F,44,3/26/2020,confirmado,Contacto,,3/29/2020
+SONORA,F,30,3/16/2020,confirmado,Estados Unidos,3/26/2020,3/29/2020
+GUERRERO,F,43,3/21/2020,confirmado,Contacto,,3/29/2020
+PUEBLA,F,51,3/24/2020,confirmado,Estados Unidos,3/21/2020,3/29/2020
+SINALOA,M,32,3/23/2020,confirmado,Contacto,,3/29/2020
+MÉXICO,M,35,3/18/2020,confirmado,Contacto,,3/28/2020
+MÉXICO,M,39,3/23/2020,confirmado,Contacto,,3/28/2020
+MÉXICO,F,51,3/19/2020,confirmado,Contacto,,3/28/2020
+COAHUILA,M,24,3/20/2020,confirmado,Contacto,,3/29/2020
+MÉXICO,M,25,3/16/2020,confirmado,Contacto,3/16/2020,3/28/2020
+TABASCO,M,27,3/20/2020,confirmado,Contacto,,3/29/2020
+NUEVO LEÓN,F,26,3/17/2020,confirmado,Contacto,,3/29/2020
+SINALOA,F,75,3/23/2020,confirmado,Contacto,,3/29/2020
+SAN LUIS POTOSÍ,M,43,3/22/2020,confirmado,Contacto,,3/29/2020
+SONORA,F,27,3/24/2020,confirmado,Contacto,,3/29/2020
+SINALOA,M,55,3/22/2020,confirmado,Contacto,,3/29/2020
+COAHUILA,M,53,3/21/2020,confirmado,Contacto,,3/29/2020
+SINALOA,M,43,3/22/2020,confirmado,Contacto,,3/29/2020
+MÉXICO,F,42,3/22/2020,confirmado,Contacto,3/14/2020,3/28/2020
+NUEVO LEÓN,M,56,3/23/2020,confirmado,Estados Unidos,3/15/2020,3/29/2020
+QUERETARO,F,67,3/20/2020,confirmado,Contacto,3/23/2020,3/29/2020
+VERACRUZ,M,53,3/20/2020,confirmado,Contacto,,3/29/2020
+MÉXICO,M,29,3/24/2020,confirmado,Contacto,3/16/2020,3/28/2020
+COAHUILA,M,42,3/25/2020,confirmado,Contacto,,3/29/2020
+COAHUILA,M,42,3/24/2020,confirmado,Contacto,,3/29/2020
+MORELOS,M,44,3/23/2020,confirmado,Contacto,,3/29/2020
+MÉXICO,M,43,3/24/2020,confirmado,Contacto,3/10/2020,3/28/2020
+COAHUILA,F,28,3/19/2020,confirmado,Contacto,,3/29/2020
+MÉXICO,F,73,3/26/2020,confirmado,Contacto,,3/28/2020
+PUEBLA,M,45,3/21/2020,confirmado,Contacto,,3/29/2020
+CHIAPAS,M,22,3/24/2020,confirmado,España,3/19/2020,3/29/2020
+MÉXICO,M,46,3/20/2020,confirmado,Contacto,,3/28/2020
+SONORA,F,21,3/16/2020,confirmado,España,3/19/2020,3/29/2020
+SAN LUIS POTOSÍ,F,26,3/25/2020,confirmado,Contacto,,3/29/2020
+MÉXICO,M,56,3/23/2020,confirmado,Contacto,,3/29/2020
+CHIAPAS,F,38,3/20/2020,confirmado,Contacto,,3/29/2020
+SONORA,F,82,3/26/2020,confirmado,Contacto,,3/29/2020
+TABASCO,M,58,3/26/2020,confirmado,Contacto,,3/28/2020
+SAN LUIS POTOSÍ,M,21,3/24/2020,confirmado,España,3/14/2020,3/29/2020
+COAHUILA,M,41,3/20/2020,confirmado,Contacto,,3/29/2020
+COAHUILA,M,39,3/21/2020,confirmado,Contacto,,3/29/2020
+CHIAPAS,M,81,3/25/2020,confirmado,España,3/13/2020,3/29/2020
+COAHUILA,F,34,3/20/2020,confirmado,Contacto,,3/29/2020
+QUINTANA ROO,F,26,3/22/2020,confirmado,Contacto,3/18/2020,3/28/2020
+COAHUILA,F,26,3/24/2020,confirmado,Contacto,,3/29/2020
+CIUDAD DE MÉXICO,M,42,3/11/2020,confirmado,Estados Unidos,3/10/2020,3/28/2020
+QUINTANA ROO,M,38,3/22/2020,confirmado,Contacto,3/18/2020,3/28/2020
+COAHUILA,F,44,3/22/2020,confirmado,Contacto,,3/29/2020
+CIUDAD DE MÉXICO,M,33,3/12/2020,confirmado,Estados Unidos,3/6/2020,3/28/2020
+COAHUILA,M,30,3/26/2020,confirmado,Contacto,,3/29/2020
+COAHUILA,M,30,3/26/2020,confirmado,Contacto,,3/29/2020
+COAHUILA,F,44,3/23/2020,confirmado,Contacto,,3/29/2020
+GUERRERO,M,52,3/21/2020,confirmado,Contacto,,3/29/2020
+COAHUILA,M,39,3/24/2020,confirmado,Contacto,,3/29/2020
+QUINTANA ROO,M,35,3/23/2020,confirmado,Contacto,,3/29/2020
+CHIAPAS,F,45,3/22/2020,confirmado,Contacto,,3/29/2020
+CIUDAD DE MÉXICO,M,41,3/12/2020,confirmado,España,3/13/2020,3/28/2020
+CIUDAD DE MÉXICO,F,43,3/15/2020,confirmado,Contacto,,3/28/2020
+CIUDAD DE MÉXICO,M,27,3/14/2020,confirmado,Estados Unidos,3/15/2020,3/28/2020
+MÉXICO,M,35,3/26/2020,confirmado,Estados Unidos,3/15/2020,3/28/2020
+CIUDAD DE MÉXICO,M,43,3/11/2020,confirmado,Estados Unidos,3/8/2020,3/28/2020
+MÉXICO,F,61,3/26/2020,confirmado,Estados Unidos,3/15/2020,3/28/2020
+QUINTANA ROO,F,52,3/24/2020,confirmado,Contacto,3/12/2020,3/29/2020
+JALISCO,F,32,3/24/2020,confirmado,Contacto,,3/29/2020
+MÉXICO,M,46,3/22/2020,confirmado,Contacto,,3/29/2020
+MÉXICO,F,69,3/26/2020,confirmado,Contacto,,3/29/2020
+HIDALGO,M,57,3/24/2020,confirmado,Contacto,,3/29/2020
+YUCATÁN,F,78,3/22/2020,confirmado,Contacto,3/21/2020,3/29/2020
+NUEVO LEÓN,M,54,3/20/2020,confirmado,Contacto,,3/29/2020
+PUEBLA,M,63,3/21/2020,confirmado,Contacto,,3/29/2020
+PUEBLA,F,67,3/22/2020,confirmado,Francia,2/22/2020,3/29/2020
+PUEBLA,F,69,3/22/2020,confirmado,Contacto,,3/29/2020
+COAHUILA,F,48,3/23/2020,confirmado,Contacto,,3/29/2020
+CIUDAD DE MÉXICO,M,34,3/11/2020,confirmado,Contacto,,3/29/2020
+CIUDAD DE MÉXICO,F,52,3/18/2020,confirmado,Contacto,,3/29/2020
+CIUDAD DE MÉXICO,M,32,3/18/2020,confirmado,Contacto,,3/29/2020
+CIUDAD DE MÉXICO,M,31,3/14/2020,confirmado,España,3/13/2020,3/29/2020
+CIUDAD DE MÉXICO,M,50,3/14/2020,confirmado,Contacto,,3/29/2020
+MÉXICO,M,27,3/15/2020,confirmado,Contacto,2/25/2020,3/29/2020
+MÉXICO,M,40,3/14/2020,confirmado,Estados Unidos,2/26/2020,3/29/2020
+MÉXICO,M,24,3/16/2020,confirmado,Estados Unidos,3/12/2020,3/29/2020
+MÉXICO,F,21,3/17/2020,confirmado,España,3/16/2020,3/29/2020
+MÉXICO,M,61,3/20/2020,confirmado,Estados Unidos,3/21/2020,3/29/2020
+MÉXICO,M,40,3/9/2020,confirmado,Contacto,,3/29/2020
+CIUDAD DE MÉXICO,M,43,3/16/2020,confirmado,España,3/8/2020,3/29/2020
+MÉXICO,M,25,3/22/2020,confirmado,España,3/20/2020,3/29/2020
+MÉXICO,F,44,3/21/2020,confirmado,Contacto,,3/30/2020
+ZACATECAS,F,52,3/13/2020,confirmado,Contacto,,3/29/2020
+BAJA CALIFORNIA,M,50,3/19/2020,confirmado,Contacto,,3/29/2020
+AGUASCALIENTES,F,58,3/25/2020,confirmado,España,3/23/2020,3/29/2020
+AGUASCALIENTES,F,41,3/17/2020,confirmado,Contacto,3/16/2020,3/29/2020
+AGUASCALIENTES,F,24,3/19/2020,confirmado,España,3/23/2020,3/29/2020
+AGUASCALIENTES,F,37,3/18/2020,confirmado,España,3/17/2020,3/29/2020
+PUEBLA,M,42,3/22/2020,confirmado,Contacto,,3/29/2020
+MORELOS,F,57,3/20/2020,confirmado,Contacto,3/22/2020,3/29/2020
+PUEBLA,M,24,3/16/2020,confirmado,Contacto,,3/29/2020
+CIUDAD DE MÉXICO,F,67,3/21/2020,confirmado,Contacto,,3/29/2020
+MÉXICO,M,21,3/18/2020,confirmado,Contacto,,3/29/2020
+CIUDAD DE MÉXICO,M,31,3/17/2020,confirmado,Contacto,,3/29/2020
+BAJA CALIFORNIA,M,56,3/23/2020,confirmado,Contacto,3/24/2020,3/30/2020
+PUEBLA,M,46,3/20/2020,confirmado,Contacto,,3/29/2020
+VERACRUZ,M,43,3/20/2020,confirmado,Contacto,,3/30/2020
+TABASCO,M,23,3/19/2020,confirmado,Contacto,,3/29/2020
+CIUDAD DE MÉXICO,M,33,3/21/2020,confirmado,Contacto,,3/29/2020
+CIUDAD DE MÉXICO,F,68,3/10/2020,confirmado,Contacto,,3/29/2020
+COAHUILA,F,25,3/19/2020,confirmado,Contacto,,3/30/2020
+CIUDAD DE MÉXICO,M,60,3/21/2020,confirmado,Contacto,,3/29/2020
+TABASCO,M,50,3/25/2020,confirmado,Contacto,,3/29/2020
+SINALOA,F,40,3/25/2020,confirmado,Contacto,,3/30/2020
+TABASCO,F,59,3/19/2020,confirmado,Contacto,,3/29/2020
+BAJA CALIFORNIA,M,18,3/20/2020,confirmado,Contacto,3/27/2020,3/30/2020
+BAJA CALIFORNIA,F,50,3/20/2020,confirmado,Contacto,3/20/2020,3/30/2020
+BAJA CALIFORNIA SUR,M,40,3/26/2020,confirmado,Contacto,,3/29/2020
+TABASCO,M,59,3/25/2020,confirmado,Contacto,,3/29/2020
+MÉXICO,M,49,3/18/2020,confirmado,Contacto,,3/29/2020
+MÉXICO,M,56,3/25/2020,confirmado,Contacto,,3/29/2020
+MÉXICO,M,40,3/27/2020,confirmado,Contacto,,3/29/2020
+YUCATÁN,F,30,3/18/2020,confirmado,Estados Unidos,3/17/2020,3/30/2020
+YUCATÁN,M,34,3/16/2020,confirmado,Contacto,,3/30/2020
+YUCATÁN,F,72,3/21/2020,confirmado,Contacto,,3/30/2020
+MÉXICO,F,33,3/26/2020,confirmado,Contacto,,3/29/2020
+MÉXICO,F,59,3/25/2020,confirmado,Contacto,,3/29/2020
+MÉXICO,F,31,3/20/2020,confirmado,Contacto,,3/29/2020
+ZACATECAS,F,39,3/21/2020,confirmado,Estados Unidos,3/27/2020,3/30/2020
+OAXACA,F,52,3/27/2020,confirmado,Contacto,3/21/2020,3/29/2020
+OAXACA,M,44,3/26/2020,confirmado,Estados Unidos,3/15/2020,3/29/2020
+CIUDAD DE MÉXICO,M,69,3/15/2020,confirmado,Alemania,3/14/2020,3/30/2020
+BAJA CALIFORNIA SUR,M,50,3/21/2020,confirmado,España,3/16/2020,3/29/2020
+COAHUILA,M,45,3/21/2020,confirmado,Contacto,,3/30/2020
+SINALOA,F,54,3/14/2020,confirmado,Contacto,,3/30/2020
+COAHUILA,M,47,3/16/2020,confirmado,Contacto,,3/29/2020
+MÉXICO,F,54,3/23/2020,confirmado,Contacto,,3/31/2020
+MÉXICO,F,53,3/26/2020,confirmado,Contacto,,3/31/2020
+JALISCO,F,53,3/9/2020,confirmado,España,3/12/2020,3/30/2020
+CIUDAD DE MÉXICO,F,73,3/16/2020,confirmado,Italia,3/15/2020,3/31/2020
+CIUDAD DE MÉXICO,M,26,3/18/2020,confirmado,España,3/15/2020,3/31/2020
+VERACRUZ,F,22,3/20/2020,confirmado,España,3/11/2020,3/31/2020
+CIUDAD DE MÉXICO,F,38,3/14/2020,confirmado,Italia,3/15/2020,3/31/2020
+MÉXICO,M,22,3/15/2020,confirmado,Contacto,,3/31/2020
+QUINTANA ROO,F,26,3/20/2020,confirmado,Contacto,,3/30/2020
+AGUASCALIENTES,M,38,3/18/2020,confirmado,España,3/17/2020,3/31/2020
+AGUASCALIENTES,M,23,3/25/2020,confirmado,Estados Unidos,3/23/2020,3/31/2020
+AGUASCALIENTES,F,60,3/12/2020,confirmado,España,,3/31/2020
+BAJA CALIFORNIA,F,32,3/19/2020,confirmado,Contacto,,3/31/2020
+AGUASCALIENTES,M,43,3/22/2020,confirmado,Contacto,,3/31/2020
+AGUASCALIENTES,M,75,3/26/2020,confirmado,Contacto,,3/31/2020
+AGUASCALIENTES,M,27,3/16/2020,confirmado,Contacto,,3/31/2020
+SONORA,M,59,3/17/2020,confirmado,Contacto,,3/30/2020
+MICHOACÁN,F,62,3/20/2020,confirmado,Contacto,3/23/2020,3/31/2020
+CIUDAD DE MÉXICO,F,64,3/23/2020,confirmado,Contacto,,3/30/2020
+MÉXICO,M,51,3/23/2020,confirmado,Contacto,,3/30/2020
+BAJA CALIFORNIA SUR,F,35,3/16/2020,confirmado,Contacto,,3/30/2020
+VERACRUZ,M,48,3/20/2020,confirmado,Contacto,,3/30/2020
+JALISCO,M,25,3/23/2020,confirmado,Contacto,3/23/2020,3/30/2020
+AGUASCALIENTES,F,30,3/23/2020,confirmado,Contacto,,3/31/2020
+COAHUILA,M,54,3/23/2020,confirmado,Contacto,,3/30/2020
+PUEBLA,M,22,3/23/2020,confirmado,Contacto,,3/30/2020
+PUEBLA,F,38,3/22/2020,confirmado,Estados Unidos,3/25/2020,3/30/2020
+TAMAULIPAS,M,70,3/24/2020,confirmado,Estados Unidos,3/24/2020,3/30/2020
+SINALOA,F,69,3/19/2020,confirmado,Contacto,,3/30/2020
+JALISCO,M,46,3/18/2020,confirmado,Contacto,,3/30/2020
+GUANAJUATO,F,72,3/25/2020,confirmado,Contacto,,3/30/2020
+MICHOACÁN,F,28,3/22/2020,confirmado,Contacto,,3/31/2020
+CHIAPAS,F,28,3/22/2020,confirmado,Contacto,3/16/2020,3/30/2020
+GUERRERO,M,70,3/20/2020,confirmado,Estados Unidos,3/20/2020,3/31/2020
+MICHOACÁN,M,30,3/22/2020,confirmado,Contacto,,3/31/2020
+JALISCO,M,16,3/22/2020,confirmado,Contacto,,3/30/2020
+BAJA CALIFORNIA,M,54,3/24/2020,confirmado,Contacto,3/27/2020,3/31/2020
+BAJA CALIFORNIA,M,51,3/18/2020,confirmado,Contacto,3/27/2020,3/30/2020
+COAHUILA,F,45,3/21/2020,confirmado,Contacto,,3/30/2020
+MÉXICO,F,32,3/15/2020,confirmado,Contacto,,3/30/2020
+MÉXICO,F,41,3/19/2020,confirmado,Contacto,,3/30/2020
+QUERETARO,M,60,3/26/2020,confirmado,Contacto,,3/30/2020
+QUINTANA ROO,M,29,3/21/2020,confirmado,Contacto,,3/30/2020
+GUANAJUATO,M,24,3/22/2020,confirmado,Estados Unidos,3/27/2020,3/30/2020
+QUINTANA ROO,F,30,3/18/2020,confirmado,Contacto,,3/30/2020
+GUANAJUATO,F,25,3/26/2020,confirmado,Estados Unidos,3/27/2020,3/30/2020
+GUANAJUATO,M,15,3/26/2020,confirmado,Contacto,,3/30/2020
+MÉXICO,M,48,3/20/2020,confirmado,Contacto,3/19/2020,3/30/2020
+MÉXICO,F,28,3/22/2020,confirmado,Contacto,,3/30/2020
+TABASCO,F,6,3/27/2020,confirmado,Contacto,,3/30/2020
+SAN LUIS POTOSÍ,M,55,3/24/2020,confirmado,Contacto,,3/30/2020
+TABASCO,F,29,3/25/2020,confirmado,Contacto,,3/31/2020
+MÉXICO,M,42,3/24/2020,confirmado,Contacto,3/17/2020,3/30/2020
+NUEVO LEÓN,M,63,3/22/2020,confirmado,Contacto,3/21/2020,3/30/2020
+TABASCO,F,61,3/18/2020,confirmado,Contacto,,3/31/2020
+TABASCO,M,59,3/21/2020,confirmado,Contacto,,3/30/2020
+NUEVO LEÓN,M,29,3/23/2020,confirmado,Contacto,,3/30/2020
+COAHUILA,F,46,3/24/2020,confirmado,Estados Unidos,3/22/2020,3/30/2020
+NUEVO LEÓN,M,21,3/13/2020,confirmado,España,3/18/2020,3/30/2020
+SONORA,F,47,3/22/2020,confirmado,Contacto,,3/30/2020
+MICHOACÁN,M,44,3/25/2020,confirmado,Contacto,,3/31/2020
+MÉXICO,F,57,3/23/2020,confirmado,Estados Unidos,3/17/2020,3/30/2020
+SONORA,F,57,3/17/2020,confirmado,Contacto,,3/30/2020
+BAJA CALIFORNIA,F,59,3/19/2020,confirmado,Contacto,3/12/2020,3/31/2020
+MÉXICO,F,31,3/27/2020,confirmado,Contacto,,3/30/2020
+SINALOA,M,62,3/21/2020,confirmado,Estados Unidos,,3/30/2020
+MÉXICO,M,36,3/26/2020,confirmado,Contacto,,3/30/2020
+GUANAJUATO,M,52,3/21/2020,confirmado,España,3/15/2020,3/30/2020
+PUEBLA,M,24,3/28/2020,confirmado,Contacto,,3/30/2020
+PUEBLA,F,49,3/28/2020,confirmado,Contacto,,3/30/2020
+PUEBLA,F,72,3/23/2020,confirmado,Contacto,,3/30/2020
+PUEBLA,F,30,3/28/2020,confirmado,Contacto,,3/30/2020
+PUEBLA,F,24,3/28/2020,confirmado,Contacto,,3/30/2020
+TABASCO,M,43,3/24/2020,confirmado,Contacto,,3/30/2020
+GUANAJUATO,M,46,3/22/2020,confirmado,Contacto,,3/30/2020
+YUCATÁN,M,37,3/19/2020,confirmado,Contacto,,3/30/2020
+SINALOA,M,60,3/25/2020,confirmado,Contacto,,3/30/2020
+PUEBLA,F,29,3/25/2020,Confirmado,Contacto,,4/1/2020
+PUEBLA,M,32,3/27/2020,confirmado,Contacto,,3/30/2020
+YUCATÁN,M,38,3/20/2020,confirmado,Contacto,,3/30/2020
+JALISCO,M,25,3/17/2020,confirmado,Contacto,,3/30/2020
+MÉXICO,M,34,3/19/2020,confirmado,Contacto,,3/30/2020
+TABASCO,M,68,3/25/2020,confirmado,España,3/22/2020,3/31/2020
+MÉXICO,F,54,3/27/2020,confirmado,Contacto,,3/30/2020
+TABASCO,F,49,3/28/2020,confirmado,Contacto,,3/30/2020
+TABASCO,F,67,3/28/2020,confirmado,España,3/22/2020,3/31/2020
+BAJA CALIFORNIA SUR,M,33,3/25/2020,confirmado,Contacto,,3/30/2020
+NAYARIT,M,71,3/23/2020,confirmado,Contacto,3/16/2020,3/30/2020
+TABASCO,F,20,3/18/2020,confirmado,Contacto,,3/31/2020
+PUEBLA,F,43,3/24/2020,confirmado,Contacto,3/22/2020,3/30/2020
+PUEBLA,F,75,3/23/2020,confirmado,Contacto,,3/30/2020
+TABASCO,M,46,3/16/2020,confirmado,Contacto,,3/31/2020
+TABASCO,F,50,3/23/2020,confirmado,Contacto,,3/30/2020
+MÉXICO,F,30,3/20/2020,confirmado,Estados Unidos,3/23/2020,3/30/2020
+NUEVO LEÓN,F,22,3/19/2020,confirmado,España,3/18/2020,3/30/2020
+NUEVO LEÓN,F,21,3/20/2020,confirmado,España,3/16/2020,3/30/2020
+NUEVO LEÓN,M,34,3/18/2020,confirmado,Contacto,3/16/2020,3/30/2020
+NUEVO LEÓN,M,35,3/25/2020,confirmado,Contacto,,3/30/2020
+BAJA CALIFORNIA,M,54,3/18/2020,confirmado,Estados Unidos,3/8/2020,3/31/2020
+CIUDAD DE MÉXICO,M,59,3/20/2020,confirmado,Contacto,,3/30/2020
+QUINTANA ROO,M,18,3/21/2020,confirmado,Contacto,,3/30/2020
+CIUDAD DE MÉXICO,M,26,3/20/2020,confirmado,Contacto,3/29/2020,3/30/2020
+CIUDAD DE MÉXICO,M,49,3/22/2020,confirmado,Contacto,,3/30/2020
+QUINTANA ROO,M,52,3/25/2020,confirmado,Contacto,,3/30/2020
+CIUDAD DE MÉXICO,M,34,3/26/2020,confirmado,Contacto,,3/30/2020
+NUEVO LEÓN,M,30,3/20/2020,confirmado,Contacto,3/16/2020,3/30/2020
+MÉXICO,M,41,3/25/2020,confirmado,Contacto,,3/30/2020
+JALISCO,M,35,3/23/2020,confirmado,Contacto,,3/30/2020
+TABASCO,M,26,3/23/2020,confirmado,Contacto,,3/31/2020
+MÉXICO,M,39,3/27/2020,confirmado,Contacto,,3/30/2020
+TABASCO,M,47,3/21/2020,confirmado,Contacto,3/22/2020,3/31/2020
+MÉXICO,F,57,3/23/2020,confirmado,Estados Unidos,3/4/2020,3/30/2020
+MÉXICO,M,57,3/22/2020,confirmado,Contacto,,3/30/2020
+COAHUILA,M,17,3/29/2020,confirmado,Contacto,,3/30/2020
+COAHUILA,M,48,3/29/2020,confirmado,Contacto,,3/30/2020
+TABASCO,F,70,3/29/2020,confirmado,Contacto,,3/31/2020
+CIUDAD DE MÉXICO,F,77,3/13/2020,confirmado,España,3/8/2020,3/30/2020
+CIUDAD DE MÉXICO,F,43,3/16/2020,confirmado,España,3/16/2020,3/30/2020
+NUEVO LEÓN,F,58,3/21/2020,confirmado,Contacto,,3/31/2020
+CIUDAD DE MÉXICO,M,47,3/14/2020,confirmado,Contacto,,3/30/2020
+JALISCO,M,37,3/20/2020,confirmado,Contacto,,3/30/2020
+BAJA CALIFORNIA,F,50,3/26/2020,confirmado,Contacto,,3/31/2020
+PUEBLA,M,30,3/26/2020,confirmado,Contacto,,3/31/2020
+CIUDAD DE MÉXICO,F,65,3/9/2020,confirmado,España,3/13/2019,3/31/2020
+CHIAPAS,M,71,3/25/2020,confirmado,Contacto,3/23/2020,3/31/2020
+MÉXICO,F,31,3/27/2020,confirmado,Contacto,,3/31/2020
+CIUDAD DE MÉXICO,M,47,3/13/2020,confirmado,Estados Unidos,2/29/2020,3/31/2020
+CIUDAD DE MÉXICO,F,51,3/23/2020,confirmado,Contacto,,3/31/2020
+CIUDAD DE MÉXICO,M,47,3/14/2020,confirmado,Estados Unidos,3/4/2020,3/31/2020
+CIUDAD DE MÉXICO,M,51,3/14/2020,confirmado,Contacto,,3/31/2020
+CIUDAD DE MÉXICO,M,48,3/15/2020,confirmado,Estados Unidos,3/7/2020,3/31/2020
+MÉXICO,M,36,3/23/2020,confirmado,Estados Unidos,3/13/2020,3/31/2020
+CIUDAD DE MÉXICO,M,71,3/19/2020,confirmado,Estados Unidos,3/19/2020,3/31/2020
+CIUDAD DE MÉXICO,M,59,3/17/2020,confirmado,España,3/2/2020,3/31/2020
+CIUDAD DE MÉXICO,F,33,3/16/2020,confirmado,Contacto,,3/31/2020
+MÉXICO,M,27,3/30/2020,confirmado,Contacto,,3/31/2020
+MÉXICO,M,44,3/17/2020,Confirmado,Estados Unidos,3/19/2020,4/1/2020
+MÉXICO,F,72,3/23/2020,Confirmado,Contacto,3/12/2020,4/1/2020
+BAJA CALIFORNIA SUR,F,26,3/23/2020,confirmado,Contacto,,3/31/2020
+CIUDAD DE MÉXICO,M,35,3/17/2020,confirmado,Contacto,,3/31/2020
+MÉXICO,M,69,3/27/2020,confirmado,Contacto,,3/31/2020
+CIUDAD DE MÉXICO,F,33,3/19/2020,confirmado,Contacto,,3/31/2020
+CIUDAD DE MÉXICO,M,56,3/11/2020,confirmado,España,3/6/2020,3/31/2020
+CIUDAD DE MÉXICO,M,44,3/16/2020,confirmado,Estados Unidos,3/14/2020,3/31/2020
+PUEBLA,F,42,3/28/2020,Confirmado,Contacto,,4/1/2020
+CIUDAD DE MÉXICO,F,76,3/15/2020,confirmado,Contacto,3/18/2020,3/31/2020
+PUEBLA,F,41,3/25/2020,Confirmado,Contacto,,4/1/2020
+CIUDAD DE MÉXICO,M,41,2/17/2020,confirmado,Contacto,2/17/2020,3/31/2020
+CIUDAD DE MÉXICO,M,32,3/18/2020,confirmado,Estados Unidos,2/17/2020,3/31/2020
+CIUDAD DE MÉXICO,M,55,3/17/2020,confirmado,España,3/12/2020,3/31/2020
+CIUDAD DE MÉXICO,F,32,3/17/2020,confirmado,Contacto,,3/31/2020
+CIUDAD DE MÉXICO,M,45,3/13/2020,confirmado,España,3/19/2020,3/31/2020
+PUEBLA,M,48,3/20/2020,confirmado,Contacto,,3/31/2020
+CIUDAD DE MÉXICO,F,43,3/10/2020,confirmado,Contacto,,3/31/2020
+AGUASCALIENTES,M,79,3/26/2020,confirmado,Contacto,,3/31/2020
+AGUASCALIENTES,M,8,3/27/2020,confirmado,Contacto,,3/31/2020
+AGUASCALIENTES,M,15,3/27/2020,confirmado,Contacto,,3/31/2020
+AGUASCALIENTES,M,43,3/23/2020,confirmado,Contacto,,3/31/2020
+JALISCO,M,24,3/27/2020,confirmado,Estados Unidos,3/15/2020,3/31/2020
+AGUASCALIENTES,M,31,3/22/2020,confirmado,Contacto,3/19/2020,3/31/2020
+HIDALGO,M,70,3/20/2020,confirmado,Contacto,,3/31/2020
+CIUDAD DE MÉXICO,M,40,3/19/2020,confirmado,Contacto,,3/31/2020
+MÉXICO,M,74,3/17/2020,confirmado,Contacto,,3/31/2020
+GUANAJUATO,M,16,3/24/2020,confirmado,Contacto,,3/31/2020
+CAMPECHE,M,40,3/20/2020,confirmado,Contacto,,3/31/2020
+CAMPECHE,F,60,2/23/2020,confirmado,Contacto,,3/31/2020
+MÉXICO,F,44,3/20/2020,confirmado,Contacto,3/2/2020,3/31/2020
+CIUDAD DE MÉXICO,F,52,3/25/2020,confirmado,Contacto,,3/31/2020
+MÉXICO,M,41,3/23/2020,confirmado,Contacto,3/13/2020,3/31/2020
+GUERRERO,M,44,3/18/2020,confirmado,Contacto,,3/31/2020
+MÉXICO,F,30,3/26/2020,confirmado,Contacto,,3/31/2020
+MÉXICO,M,24,3/23/2020,confirmado,Contacto,,3/31/2020
+QUINTANA ROO,M,42,3/24/2020,confirmado,Contacto,,3/31/2020
+SINALOA,F,25,3/20/2020,confirmado,Contacto,,3/31/2020
+BAJA CALIFORNIA SUR,M,39,3/22/2020,confirmado,Contacto,,3/31/2020
+QUINTANA ROO,M,47,3/18/2020,confirmado,Contacto,,3/31/2020
+MÉXICO,F,32,3/21/2020,confirmado,Contacto,,3/31/2020
+YUCATÁN,M,65,3/20/2020,confirmado,Contacto,,3/31/2020
+YUCATÁN,M,32,3/19/2020,confirmado,Contacto,,3/31/2020
+QUINTANA ROO,M,49,3/27/2020,confirmado,Contacto,,3/31/2020
+JALISCO,M,46,3/17/2020,confirmado,Contacto,,3/31/2020
+HIDALGO,M,56,3/27/2020,confirmado,Contacto,,3/31/2020
+CIUDAD DE MÉXICO,F,48,3/20/2020,confirmado,Contacto,,3/31/2020
+QUINTANA ROO,M,49,3/24/2020,confirmado,Contacto,,3/31/2020
+COAHUILA,F,0,3/28/2020,confirmado,Contacto,,3/31/2020
+BAJA CALIFORNIA,F,68,3/17/2020,confirmado,Estados Unidos,3/22/2020,3/31/2020
+COAHUILA,M,43,3/27/2020,confirmado,Contacto,,3/31/2020
+MORELOS,M,37,3/19/2020,confirmado,Estados Unidos,3/16/2020,3/31/2020
+COAHUILA,M,57,3/27/2020,confirmado,Contacto,,3/31/2020
+COAHUILA,M,43,3/28/2020,confirmado,Contacto,,3/31/2020
+COAHUILA,F,43,3/27/2020,confirmado,Contacto,,3/31/2020
+BAJA CALIFORNIA,F,49,3/24/2020,confirmado,Estados Unidos,3/17/2020,3/31/2020
+SINALOA,M,64,3/27/2020,confirmado,Contacto,,3/31/2020
+CHIAPAS,M,64,3/23/2020,confirmado,Contacto,,3/31/2020
+SINALOA,F,40,3/21/2020,confirmado,Contacto,,3/31/2020
+TABASCO,M,47,3/22/2020,confirmado,Contacto,,3/31/2020
+CHIHUAHUA,F,55,3/20/2020,confirmado,Contacto,,3/31/2020
+YUCATÁN,F,42,3/23/2020,confirmado,Contacto,,3/31/2020
+QUERETARO,M,46,3/26/2020,confirmado,Contacto,,3/31/2020
+MÉXICO,M,17,3/26/2020,Confirmado,Contacto,,4/1/2020
+PUEBLA,M,42,3/28/2020,confirmado,Contacto,,3/31/2020
+BAJA CALIFORNIA,M,70,3/26/2020,confirmado,Contacto,,3/31/2020
+QUERETARO,M,45,3/23/2020,confirmado,Contacto,,3/31/2020
+CIUDAD DE MÉXICO,M,56,3/26/2020,confirmado,Contacto,,3/31/2020
+PUEBLA,M,52,3/27/2020,confirmado,Contacto,,3/31/2020
+BAJA CALIFORNIA SUR,F,44,3/22/2020,confirmado,Contacto,,3/31/2020
+GUANAJUATO,F,46,3/24/2020,confirmado,España,,3/31/2020
+PUEBLA,F,64,3/27/2020,confirmado,Contacto,,3/31/2020
+BAJA CALIFORNIA SUR,F,29,3/23/2020,confirmado,Contacto,,3/31/2020
+GUANAJUATO,F,18,3/26/2020,confirmado,Contacto,,3/31/2020
+CIUDAD DE MÉXICO,M,49,3/14/2020,confirmado,Estados Unidos,3/9/2020,3/31/2020
+JALISCO,F,38,3/18/2020,confirmado,Estados Unidos,3/14/2020,3/31/2020
+JALISCO,M,39,3/21/2020,confirmado,Francia,3/16/2020,3/31/2020
+SINALOA,M,63,3/28/2020,Confirmado,Contacto,,4/1/2020
+COAHUILA,M,50,3/29/2020,Confirmado,Contacto,,4/1/2020
+COAHUILA,M,39,3/25/2020,Confirmado,Contacto,,4/1/2020
+HIDALGO,M,38,3/23/2020,Confirmado,Contacto,,4/1/2020
+SINALOA,F,89,3/26/2020,Confirmado,Contacto,,4/1/2020
+CIUDAD DE MÉXICO,M,69,3/25/2020,Confirmado,Contacto,,4/1/2020
+COAHUILA,F,33,3/29/2020,Confirmado,Contacto,,4/1/2020
+COAHUILA,F,56,3/24/2020,Confirmado,Contacto,,4/1/2020
+SINALOA,M,47,3/23/2020,Confirmado,Contacto,,4/1/2020
+TABASCO,F,26,3/26/2020,Confirmado,Contacto,,4/1/2020
+CHIHUAHUA,M,45,3/26/2020,Confirmado,Contacto,,4/1/2020
+CIUDAD DE MÉXICO,M,75,3/28/2020,Confirmado,Contacto,,4/1/2020
+OAXACA,F,32,3/28/2020,Confirmado,Contacto,,4/1/2020
+CHIAPAS,M,44,3/8/2020,Confirmado,Contacto,,4/1/2020
+PUEBLA,M,71,3/29/2020,Confirmado,Contacto,,4/1/2020
+TABASCO,M,25,3/23/2020,Confirmado,Contacto,,4/1/2020
+QUINTANA ROO,M,54,3/23/2020,Confirmado,Contacto,,4/1/2020
+COAHUILA,M,47,3/21/2020,Confirmado,Contacto,,4/1/2020
+COAHUILA,M,26,3/26/2020,Confirmado,Contacto,,4/1/2020
+YUCATÁN,F,65,3/12/2020,Confirmado,Contacto,,4/1/2020
+YUCATÁN,F,26,3/21/2020,Confirmado,Contacto,,4/1/2020
+QUINTANA ROO,M,44,3/23/2020,Confirmado,Contacto,,4/1/2020
+YUCATÁN,M,65,3/27/2020,Confirmado,Contacto,,4/1/2020
+OAXACA,M,54,3/24/2020,Confirmado,Contacto,,4/1/2020
+CIUDAD DE MÉXICO,M,71,3/21/2020,Confirmado,Contacto,,4/1/2020
+PUEBLA,F,49,3/23/2020,Confirmado,Contacto,3/31/2020,4/1/2020
+CIUDAD DE MÉXICO,F,30,3/27/2020,Confirmado,Contacto,,4/1/2020
+CIUDAD DE MÉXICO,M,11,3/24/2020,Confirmado,Contacto,,4/1/2020
+CIUDAD DE MÉXICO,F,13,3/24/2020,Confirmado,Contacto,,4/1/2020
+CIUDAD DE MÉXICO,F,52,3/19/2020,Confirmado,Contacto,,4/1/2020
+CIUDAD DE MÉXICO,M,59,3/22/2020,Confirmado,Contacto,,4/1/2020
+CIUDAD DE MÉXICO,M,59,3/26/2020,Confirmado,Contacto,,4/1/2020
+CIUDAD DE MÉXICO,M,49,3/24/2020,Confirmado,Contacto,,4/1/2020
+MÉXICO,M,66,3/21/2020,Confirmado,Contacto,,4/1/2020
+CIUDAD DE MÉXICO,M,54,3/25/2020,Confirmado,Contacto,,4/1/2020
+PUEBLA,F,21,3/23/2020,Confirmado,Contacto,,4/1/2020
+CHIHUAHUA,M,26,3/19/2020,Confirmado,Contacto,,4/1/2020
+PUEBLA,F,57,3/24/2020,Confirmado,Contacto,,4/1/2020
+PUEBLA,M,45,3/21/2020,Confirmado,Estados Unidos,3/18/2020,4/1/2020
+OAXACA,F,34,3/12/2020,Confirmado,Contacto,,4/1/2020
+CIUDAD DE MÉXICO,F,61,3/18/2020,Confirmado,Alemania,3/18/2020,4/1/2020
+MICHOACÁN,M,49,3/25/2020,Confirmado,Contacto,3/22/2020,4/1/2020
+CIUDAD DE MÉXICO,M,57,3/26/2020,Confirmado,Contacto,,4/1/2020
+NAYARIT,F,47,3/27/2020,Confirmado,Contacto,3/23/2020,4/1/2020
+CHIHUAHUA,F,57,3/24/2020,Confirmado,Contacto,,4/1/2020
+PUEBLA,M,67,3/30/2020,Confirmado,Contacto,3/13/2020,4/1/2020
+CIUDAD DE MÉXICO,M,86,3/15/2020,Confirmado,Contacto,,4/1/2020
+CIUDAD DE MÉXICO,M,50,3/13/2020,Confirmado,España,3/13/2020,4/1/2020
+CIUDAD DE MÉXICO,F,29,3/12/2020,Confirmado,Estados Unidos,3/14/2020,4/1/2020
+PUEBLA,M,40,3/20/2020,Confirmado,Contacto,,4/1/2020
+CIUDAD DE MÉXICO,F,34,3/14/2020,Confirmado,Estados Unidos,3/7/2020,4/1/2020
+PUEBLA,M,68,3/22/2020,Confirmado,Contacto,,4/1/2020
+CIUDAD DE MÉXICO,M,47,3/27/2020,Confirmado,Contacto,,4/1/2020
+PUEBLA,M,49,3/27/2020,Confirmado,Contacto,,4/1/2020
+TABASCO,M,13,3/30/2020,Confirmado,Contacto,,4/1/2020
+PUEBLA,F,59,3/24/2020,Confirmado,Contacto,,4/1/2020
+QUINTANA ROO,M,44,3/26/2020,Confirmado,Contacto,,4/1/2020
+CIUDAD DE MÉXICO,M,33,3/24/2020,Confirmado,Contacto,,4/1/2020
+CIUDAD DE MÉXICO,F,56,3/16/2020,Confirmado,Contacto,,4/1/2020
+CIUDAD DE MÉXICO,F,39,3/13/2020,Confirmado,Contacto,3/7/2020,4/1/2020
+CIUDAD DE MÉXICO,M,38,3/13/2020,Confirmado,España,3/7/2020,4/1/2020
+CIUDAD DE MÉXICO,M,30,3/13/2020,Confirmado,Contacto,3/6/2020,4/1/2020
+CIUDAD DE MÉXICO,M,67,3/15/2020,Confirmado,Estados Unidos,3/14/2020,4/1/2020
+CIUDAD DE MÉXICO,F,25,3/16/2020,Confirmado,Contacto,3/16/2020,4/1/2020
+OAXACA,F,22,3/31/2020,Confirmado,Contacto,3/26/2020,4/1/2020
+JALISCO,F,45,3/24/2020,Confirmado,Contacto,,4/1/2020
+JALISCO,F,76,3/27/2020,Confirmado,Contacto,,4/1/2020
+CIUDAD DE MÉXICO,M,80,3/20/2020,Confirmado,Contacto,,4/1/2020
+MÉXICO,F,47,3/15/2020,Confirmado,Estados Unidos,3/16/2020,4/1/2020
+CIUDAD DE MÉXICO,F,42,3/9/2020,Confirmado,Contacto,,4/1/2020
+MÉXICO,F,50,3/18/2020,Confirmado,Contacto,,4/1/2020
+MÉXICO,F,33,3/19/2020,Confirmado,Contacto,,4/1/2020
+MORELOS,M,68,3/20/2020,Confirmado,Contacto,,4/1/2020
+OAXACA,F,61,3/23/2020,Confirmado,Contacto,,4/1/2020
+MORELOS,M,72,3/20/2020,Confirmado,Contacto,3/16/2020,4/1/2020
+PUEBLA,M,39,3/17/2020,Confirmado,Contacto,,4/1/2020
+BAJA CALIFORNIA,M,53,3/23/2020,Confirmado,Contacto,,4/1/2020
+TLAXCALA,M,29,3/24/2020,Confirmado,Contacto,,4/1/2020
+CIUDAD DE MÉXICO,M,45,3/14/2020,Confirmado,Contacto,,4/1/2020
+MÉXICO,F,54,3/23/2020,Confirmado,Contacto,,4/1/2020
+MÉXICO,M,34,3/23/2020,Confirmado,Contacto,,4/1/2020
+MÉXICO,F,53,3/26/2020,Confirmado,Contacto,,4/1/2020
+MÉXICO,M,42,3/25/2020,Confirmado,Contacto,,4/1/2020
+MÉXICO,F,31,3/27/2020,Confirmado,Contacto,,4/1/2020
+GUANAJUATO,M,66,3/14/2020,Confirmado,Contacto,,4/1/2020
+MÉXICO,M,29,3/22/2020,Confirmado,Contacto,,4/1/2020
+COAHUILA,M,34,3/28/2020,Confirmado,Contacto,,4/1/2020
+HIDALGO,M,47,3/24/2020,Confirmado,Contacto,,4/1/2020
+SAN LUIS POTOSÍ,M,7,3/25/2020,Confirmado,Contacto,,4/1/2020
+SONORA,F,65,3/22/2020,Confirmado,Estados Unidos,3/16/2020,4/1/2020
+SAN LUIS POTOSÍ,F,8,3/24/2020,Confirmado,Contacto,,4/1/2020
+SAN LUIS POTOSÍ,F,58,3/24/2020,Confirmado,Contacto,,4/1/2020
+GUERRERO,M,59,3/19/2020,Confirmado,Contacto,,4/1/2020
+GUERRERO,M,62,3/18/2020,Confirmado,Contacto,,4/1/2020
+JALISCO,M,32,3/25/2020,Confirmado,Contacto,,4/1/2020
+COAHUILA,M,58,3/26/2020,Confirmado,Contacto,,4/1/2020
+TAMAULIPAS,M,52,3/20/2020,Confirmado,Estados Unidos,3/28/2020,4/1/2020
+MICHOACÁN,M,62,3/27/2020,Confirmado,Estados Unidos,3/24/2020,4/1/2020
+QUINTANA ROO,M,45,3/19/2020,Confirmado,Contacto,,4/1/2020
+MÉXICO,F,58,3/24/2020,Confirmado,Contacto,,4/1/2020
+CIUDAD DE MÉXICO,F,74,3/15/2020,Confirmado,Contacto,,4/1/2020
+CIUDAD DE MÉXICO,F,26,3/24/2020,Confirmado,Contacto,,4/1/2020
+CIUDAD DE MÉXICO,M,36,3/19/2020,Confirmado,Contacto,,4/1/2020
+CIUDAD DE MÉXICO,M,36,3/22/2020,Confirmado,España,3/20/2020,4/1/2020
+TABASCO,F,27,3/19/2020,Confirmado,Francia,3/25/2020,4/1/2020
+CIUDAD DE MÉXICO,M,50,3/14/2020,Confirmado,Contacto,,4/1/2020
+CIUDAD DE MÉXICO,F,39,3/24/2020,Confirmado,Contacto,,4/1/2020
+OAXACA,F,35,3/27/2020,Confirmado,Contacto,,4/1/2020
+CIUDAD DE MÉXICO,M,40,3/24/2020,Confirmado,Contacto,,4/1/2020
+JALISCO,M,58,3/23/2020,Confirmado,Contacto,3/23/2020,4/1/2020
+CIUDAD DE MÉXICO,M,28,3/15/2020,Confirmado,Contacto,,4/1/2020
+CIUDAD DE MÉXICO,F,64,3/24/2020,Confirmado,Contacto,,4/1/2020
+CIUDAD DE MÉXICO,F,50,3/27/2020,Confirmado,Contacto,,4/1/2020
+CIUDAD DE MÉXICO,M,46,3/17/2020,Confirmado,Contacto,,4/1/2020
+CIUDAD DE MÉXICO,M,41,3/27/2020,Confirmado,Contacto,,4/1/2020
+CIUDAD DE MÉXICO,F,27,3/26/2020,Confirmado,Contacto,,4/1/2020
+CIUDAD DE MÉXICO,M,33,3/18/2020,Confirmado,Contacto,,4/1/2020
+CIUDAD DE MÉXICO,F,29,3/25/2020,Confirmado,Contacto,,4/1/2020
+CIUDAD DE MÉXICO,M,30,3/19/2020,Confirmado,Contacto,,4/1/2020
+COAHUILA,F,34,3/27/2020,Confirmado,Contacto,,4/1/2020
+CIUDAD DE MÉXICO,F,26,3/25/2020,Confirmado,Contacto,,4/1/2020
+CIUDAD DE MÉXICO,M,44,3/20/2020,Confirmado,Contacto,,4/1/2020
+GUANAJUATO,M,21,3/26/2020,Confirmado,España,3/28/2020,4/1/2020
+COLIMA,M,66,3/25/2020,Confirmado,Contacto,,4/1/2020
+CIUDAD DE MÉXICO,M,27,3/19/2020,Confirmado,Contacto,,4/1/2020
+CIUDAD DE MÉXICO,M,41,3/16/2020,Confirmado,Contacto,,4/1/2020
+CIUDAD DE MÉXICO,M,32,3/23/2020,Confirmado,Contacto,,4/1/2020
+CIUDAD DE MÉXICO,F,40,3/23/2020,Confirmado,Contacto,,4/1/2020
+COAHUILA,M,58,3/28/2020,Confirmado,Contacto,,4/1/2020
+CIUDAD DE MÉXICO,F,33,3/25/2020,Confirmado,Contacto,,4/1/2020
+SAN LUIS POTOSÍ,F,37,3/28/2020,Confirmado,Estados Unidos,3/27/2020,4/1/2020
+SINALOA,F,62,3/24/2020,Confirmado,Contacto,,4/1/2020
+PUEBLA,F,29,3/23/2020,Confirmado,Contacto,,4/1/2020
+VERACRUZ,M,36,3/27/2020,Confirmado,Contacto,3/27/2020,4/1/2020
+CIUDAD DE MÉXICO,F,22,3/27/2020,Confirmado,Contacto,,4/1/2020
+BAJA CALIFORNIA SUR,F,79,3/23/2020,Confirmado,Contacto,3/30/2020,4/1/2020
+CIUDAD DE MÉXICO,F,55,3/25/2020,Confirmado,Contacto,,4/1/2020
+CIUDAD DE MÉXICO,F,38,3/17/2020,Confirmado,Contacto,,4/1/2020
+CIUDAD DE MÉXICO,M,33,3/21/2020,Confirmado,Contacto,,4/1/2020
+CIUDAD DE MÉXICO,F,55,3/26/2020,Confirmado,Contacto,,4/1/2020
+CHIAPAS,M,71,3/25/2020,Confirmado,Contacto,3/23/2020,4/1/2020
+BAJA CALIFORNIA,M,66,3/28/2020,Confirmado,Estados Unidos,3/22/2020,4/1/2020
+CIUDAD DE MÉXICO,F,42,3/14/2020,Confirmado,Contacto,,4/1/2020
+SAN LUIS POTOSÍ,F,37,3/25/2020,Confirmado,Estados Unidos,3/22/2020,4/1/2020
+COAHUILA,F,43,3/26/2020,Confirmado,Contacto,,4/1/2020
+MICHOACÁN,M,45,3/25/2020,Confirmado,Contacto,3/16/2020,4/1/2020
+CHIHUAHUA,M,35,3/24/2020,Confirmado,Contacto,,4/1/2020
+OAXACA,M,22,3/28/2020,Confirmado,Contacto,,4/1/2020
+COAHUILA,F,10,3/28/2020,Confirmado,Contacto,,4/1/2020
+NUEVO LEÓN,M,35,3/29/2020,Confirmado,Contacto,,4/1/2020
+JALISCO,M,35,3/21/2020,Confirmado,Contacto,3/19/2020,4/1/2020
+OAXACA,M,43,3/29/2020,Confirmado,Contacto,,4/1/2020
+COAHUILA,M,11,3/24/2020,Confirmado,Contacto,,4/1/2020
+SINALOA,F,50,3/27/2020,Confirmado,Contacto,,4/1/2020
+JALISCO,F,44,3/25/2020,Confirmado,Estados Unidos,3/15/2020,4/1/2020
+CIUDAD DE MÉXICO,F,65,3/19/2020,Confirmado,España,3/17/2020,4/1/2020
+GUANAJUATO,M,37,3/27/2020,Confirmado,Contacto,,4/1/2020
+CIUDAD DE MÉXICO,M,29,3/26/2020,Confirmado,Contacto,,4/1/2020
+CIUDAD DE MÉXICO,F,54,3/25/2020,Confirmado,Contacto,,4/1/2020
+NAYARIT,F,79,3/24/2020,Confirmado,Contacto,,4/1/2020
+NUEVO LEÓN,F,46,3/28/2020,Confirmado,Contacto,,4/1/2020
+PUEBLA,M,49,3/23/2020,Confirmado,Contacto,,4/1/2020
+SAN LUIS POTOSÍ,F,41,3/27/2020,Confirmado,Estados Unidos,3/17/2020,4/1/2020
