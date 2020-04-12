@@ -2100,7 +2100,6 @@ Case_ID,Region,Sex,Age,Date_Symptoms,Tested,Origin,Date_Arrival,Date_Confirmed
 2099,MÉXICO,F,61,31/03/2020,Confirmado,Contacto,NA,05/04/2020
 2100,CIUDAD DE MÉXICO,M,47,26/03/2020,Confirmado,Contacto,NA,05/04/2020
 2101,NUEVO LEÓN,M,26,02/04/2020,Confirmado,Contacto,NA,05/04/2020
-Case_ID,Region,Sex,Age,Date_Symptoms,Tested,Origin,Date_Arrival,Date_Confirmed
 2102,CIUDAD DE MÉXICO,F,35,31/03/2020,Confirmado,Contacto,NA,05/04/2020
 2103,MÉXICO,M,69,28/03/2020,Confirmado,Contacto,NA,05/04/2020
 2104,COAHUILA,M,50,28/03/2020,Confirmado,Contacto,NA,05/04/2020
