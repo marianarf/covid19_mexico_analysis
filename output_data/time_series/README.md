@@ -1,20 +1,11 @@
-# covid-19_mex
+# COVID-19 series de tiempo y datos diarios
 
-Elaborados con los datos más reciente del reporte diario de la Secretaría de Salud.
+**Last Updated (12/04/2020)**
 
-_Última actualización: 01/04/2020_
+Esta carpeta contiene las series de tiempo y datos diarios procesados a partir de los reportes diarios de la Secretaría de Salud (por cada estado en México) y el Hospital John Hopkins (para cada país/región mundial). El prefijo `ts` se refiere a "time series" (datos acumulados), mientras que el prefijo `delta` se refiere al número de casos nuevos diarios.
 
-### Casos confirmados
+**Nota:** En los siguientes días, el campo `Date_Confirmed` en los archivos para México corresponderá a la fecha de inicio de síntomas y no a la fecha de dentificación de COVID-19 por RT-PCR en tiempo real. Más info en este excelente [(post de Tim Churches)](https://timchurches.github.io/blog/posts/2020-03-01-analysing-covid-19-2019-ncov-outbreak-data-with-r-part-2/#data-limitations). El problema es que para los días 07/marzo y 08/marzo **no** tienen los campos de síntomas - en cambio, contiene úmeros arbitrarios (ejemplo: `43912`, `43914`, `43916`), en vez de fechas.
 
-##### Por fecha de RT-PCT
-* `confirmed_cases_by_date.csv` - Casos confirmados, registrados de acuerdo a la fecha en que fueron confirmados mediante una pueba RT-PCR en tiempo real.
-* `daily_confirmed_cases_by_date.csv` - Nuevos casos confirmados (diariamente), registrados de acuerdo a la fecha en que fueron confirmados mediante una pueba RT-PCR en tiempo real.
-* `daily_confirmed_cases_by_date.csv` - Casos confirmados, registrados de acuerdo a la fecha en que fueron confirmados mediante una pueba RT-PCR en tiempo real *en formato long*, esto es, cada estado tiene su propia fila (tanto acumulados como los diarios). TL;DR junta los archivos anteriores en otro formato.
-
-##### Por fecha de inicio de síntomas
-* `confirmed_cases_by_symptoms_date.csv` - Casos confirmados, registrados de acuerdo a la fecha en que iniciaron síntomas.
-* `daily_confirmed_cases_by_symptoms_date.csv` - Nuevos casos confirmados (diariamente), registrados de acuerdo a la fecha en que iniciaron síntomas.
-
-##### Por número mínimo de casos
-`start_at_min_cases.csv` - Casos confirmados, comenzando la serie de tiempo por el momento en que cada región tuviera un mínimo acumulado de n=15 casos.
-`start_at_min_cases_daily.` - Nuevos casos confirmados, comenzando la serie de tiempo por el momento en que cada región tuviera un mínimo acumulado de n=15 casos.
+### Formato de fechas
+* `ts_world_covid_19.csv`, `delta_world_covid19.csv` - MM-DD-YYYY
+* `ts_mexico_covid_19.csv`, `delta_mexico_covid19.csv` - MM/DD/YYYY

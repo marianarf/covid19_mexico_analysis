@@ -1,6 +1,6 @@
 # covid-19_mex
 
-_Última actualización: 10/04/2020_
+**Last Updated (12/04/2020)**
 
 Los archivos en esta carpeta contienen los datos utilizados para generar [(las series de tiempo con código abierto localizadas aquí)](https://github.com/marianarf/covid19_mexico_analysis/tree/master/output_data).
 
