@@ -8,4 +8,4 @@ Todos mis comentarios anotados por fecha en los README de este repo están en fo
 
 **_Todos mis comentarios anotados por fecha en los README de este repo están en formato DD/MM/YYYY_**. 
 
-![Log trend of COVID-19](https://imgur.com/a/yMyCVOM.png)
+![Log trend of COVID-19](https://i.imgur.com/Pkr373m.png)
