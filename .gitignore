@@ -1,4 +1,7 @@
 _fun/
 _old/
+_maps/
 .ipynb_checkpoints/
 .DS_Store
+.Rapp.history
+.Rhistory
