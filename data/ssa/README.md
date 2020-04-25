@@ -1,19 +1,20 @@
 # covid-19_mex
 
+### Datos
+Los archivos en esta carpeta contienen los archivos pre-procesados de la Secretaría de Salud (InDRE) [(publicados diariamente aquí)])https://www.gob.mx/salud/documentos/coronavirus-covid-19-comunicado-tecnico-diario-238449) en formato `pdf`. El pre-procesamiento de datos consiste en convertir cada `pdf` a `csv` usando servicios como [(ZAMAR)](https://www.zamzar.com) y [(ILovePDF)](https://www.ilovepdf.com).
+
 **Update - 2020-04-24**
 <br>
-Para datos y procesamiento de los datos oficiales, referirse a la carpeta
+A partir del día``2020-04-24``  los reportes de datos oficiales de la SSA han sido descontinuados. Por lo tanto, los datos y análisis en este repositorio tomarán como fuente la  [(Dirección General de Epidemiología)](https://www.gob.mx/salud/documentos/datos-abiertos-152127). Presumiblemente, los datos de la SSA a partir del día  `2020-04-19` (que documentan los casos del día previo) fueron asimilados por la DGE.
 
 **Update - 2020-04-21**
 <br>
-La Secretaría de Salud **dejó de publicar los reportes diarios** a partir del día `2020-04-19` (esto es, los últimos casos confirmados son para el día `2020-04-18`, pues el reporte lo publican al día siguiente).
+La Secretaría de Salud **dejó de publicar los reportes diarios** a partir del día `2020-04-19` (ie, corte al día ``2020-04-18´´), sin embargo, aún se puede consultar el el [(Comunicado Técnico Diario)](https://www.go..mx/salud/documentos/coronavirus-covid-19-comunicado-tecnico-diario-238449).
 
 **Update - 2020-04-13**
 <br>
 La Dirección General de Epidemiología [(acaba de anunciar)](https://twitter.com/RicardoDGPS/status/1249864573936644096) el release de datos que se publicará diariamente [(aquí)](https://www.gob.mx/salud/documentos/datos-abiertos-152127). 
 <br>
-
-Los archivos en esta carpeta contienen los archivos pre-procesados de la Secretaría de Salud (InDRE) [(publicados diariamente aquí)])https://www.gob.mx/salud/documentos/coronavirus-covid-19-comunicado-tecnico-diario-238449) en formato `pdf`. El pre-procesamiento de datos consiste en convertir cada `pdf` a `csv` usando servicios como [(ZAMAR)](https://www.zamzar.com) y [(ILovePDF)](https://www.ilovepdf.com).
 
 ### Observaciones
 * `2020-04-19` - La secretaría
