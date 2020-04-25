@@ -25,6 +25,6 @@ La Dirección General de Epidemiología [(acaba de anunciar)](https://twitter.co
 <br>
 
 ### Notas
-* La Secretaría de Salud **no archiva** las publicaciones diarias.
+* La Secretaría de Salud **nunca archivó** las publicaciones diarias.
 * Los casos (hasta el día `2020-04-09`) se muestran como filas resaltadas en color azul.
-* Existen diferentes erroes, omisiones e inconsitencias en los datos. Consultar [(este artículo)](https://serendipia.digital/2020/04/secretaria-de-salud-publica-datos-abiertos-sobre-casos-de-covid-19-en-mexico) de Serendipia.
+* Existen diferentes erroes, omisiones e inconsitencias en los datos. Consultar [(este artículo en Serendipia)](https://serendipia.digital/2020/04/secretaria-de-salud-publica-datos-abiertos-sobre-casos-de-covid-19-en-mexico) de Serendipia.
