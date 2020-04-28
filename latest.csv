@@ -1,4 +1,4 @@
-Date_Confirmed,Date_Sympsoms,Region_ID,Case_ID,Status,Region,Region_Key
+Date_Confirmed,Date_Symptoms,Region_ID,Case_ID,Status,Region,Region_Key
 2020-01-06,2020-01-06,18,09f6d9,1,NAYARIT,NT
 2020-03-18,2020-03-17,18,06ae89,1,NAYARIT,NT
 2020-03-19,2020-03-10,18,0dceb6,1,NAYARIT,NT
