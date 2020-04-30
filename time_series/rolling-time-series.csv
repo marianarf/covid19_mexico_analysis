@@ -2,6 +2,7 @@ Date_Confirmed,Region,total,daily
 2020-01-28,US,3.0,1.0
 2020-01-28,United Kingdom,0.0,0.0
 2020-01-28,Switzerland,0.0,0.0
+2020-01-28,"Korea, South",2.0,0.0
 2020-01-28,Italy,0.0,0.0
 2020-01-28,India,0.0,0.0
 2020-01-28,Australia,0.0,0.0
@@ -9,6 +10,7 @@ Date_Confirmed,Region,total,daily
 2020-01-29,US,4.0,1.0
 2020-01-29,United Kingdom,0.0,0.0
 2020-01-29,Switzerland,0.0,0.0
+2020-01-29,"Korea, South",3.0,0.0
 2020-01-29,Italy,0.0,0.0
 2020-01-29,India,0.0,0.0
 2020-01-29,Australia,0.0,0.0
@@ -16,6 +18,7 @@ Date_Confirmed,Region,total,daily
 2020-01-30,US,4.0,1.0
 2020-01-30,United Kingdom,0.0,0.0
 2020-01-30,Switzerland,0.0,0.0
+2020-01-30,"Korea, South",3.0,0.0
 2020-01-30,Italy,0.0,0.0
 2020-01-30,India,0.0,0.0
 2020-01-30,Australia,1.0,0.0
@@ -23,6 +26,7 @@ Date_Confirmed,Region,total,daily
 2020-01-31,US,5.0,1.0
 2020-01-31,United Kingdom,0.0,0.0
 2020-01-31,Switzerland,0.0,0.0
+2020-01-31,"Korea, South",5.0,1.0
 2020-01-31,Italy,0.0,0.0
 2020-01-31,India,0.0,0.0
 2020-01-31,Australia,1.0,0.0
@@ -30,6 +34,7 @@ Date_Confirmed,Region,total,daily
 2020-02-01,US,6.0,1.0
 2020-02-01,United Kingdom,0.0,0.0
 2020-02-01,Switzerland,0.0,0.0
+2020-02-01,"Korea, South",6.0,1.0
 2020-02-01,Italy,1.0,0.0
 2020-02-01,India,0.0,0.0
 2020-02-01,Australia,1.0,0.0
@@ -37,6 +42,7 @@ Date_Confirmed,Region,total,daily
 2020-02-02,US,6.0,0.0
 2020-02-02,United Kingdom,0.0,0.0
 2020-02-02,Switzerland,0.0,0.0
+2020-02-02,"Korea, South",8.0,2.0
 2020-02-02,Italy,1.0,0.0
 2020-02-02,India,1.0,0.0
 2020-02-02,Australia,1.0,0.0
@@ -44,6 +50,7 @@ Date_Confirmed,Region,total,daily
 2020-02-03,US,7.0,1.0
 2020-02-03,United Kingdom,0.0,0.0
 2020-02-03,Switzerland,0.0,0.0
+2020-02-03,"Korea, South",9.0,2.0
 2020-02-03,Italy,1.0,0.0
 2020-02-03,India,1.0,0.0
 2020-02-03,Australia,1.0,0.0
@@ -51,6 +58,7 @@ Date_Confirmed,Region,total,daily
 2020-02-04,US,8.0,1.0
 2020-02-04,United Kingdom,0.0,0.0
 2020-02-04,Switzerland,0.0,0.0
+2020-02-04,"Korea, South",11.0,2.0
 2020-02-04,Italy,1.0,0.0
 2020-02-04,India,2.0,0.0
 2020-02-04,Australia,2.0,0.0
@@ -58,6 +66,7 @@ Date_Confirmed,Region,total,daily
 2020-02-05,US,9.0,1.0
 2020-02-05,United Kingdom,0.0,0.0
 2020-02-05,Switzerland,0.0,0.0
+2020-02-05,"Korea, South",13.0,2.0
 2020-02-05,Italy,2.0,0.0
 2020-02-05,India,2.0,0.0
 2020-02-05,Australia,2.0,0.0
@@ -65,6 +74,7 @@ Date_Confirmed,Region,total,daily
 2020-02-06,US,10.0,1.0
 2020-02-06,United Kingdom,0.0,0.0
 2020-02-06,Switzerland,0.0,0.0
+2020-02-06,"Korea, South",16.0,3.0
 2020-02-06,Italy,2.0,0.0
 2020-02-06,India,2.0,0.0
 2020-02-06,Australia,2.0,0.0
@@ -72,6 +82,7 @@ Date_Confirmed,Region,total,daily
 2020-02-07,US,10.0,1.0
 2020-02-07,United Kingdom,0.0,0.0
 2020-02-07,Switzerland,0.0,0.0
+2020-02-07,"Korea, South",18.0,2.0
 2020-02-07,Italy,2.0,0.0
 2020-02-07,India,3.0,0.0
 2020-02-07,Australia,2.0,0.0
@@ -79,6 +90,7 @@ Date_Confirmed,Region,total,daily
 2020-02-08,US,11.0,0.0
 2020-02-08,United Kingdom,0.0,0.0
 2020-02-08,Switzerland,0.0,0.0
+2020-02-08,"Korea, South",19.0,2.0
 2020-02-08,Italy,2.0,0.0
 2020-02-08,India,3.0,0.0
 2020-02-08,Australia,2.0,0.0
@@ -86,6 +98,7 @@ Date_Confirmed,Region,total,daily
 2020-02-09,US,11.0,0.0
 2020-02-09,United Kingdom,0.0,0.0
 2020-02-09,Switzerland,0.0,0.0
+2020-02-09,"Korea, South",21.0,1.0
 2020-02-09,Italy,2.0,0.0
 2020-02-09,India,3.0,0.0
 2020-02-09,Australia,2.0,0.0
@@ -93,6 +106,7 @@ Date_Confirmed,Region,total,daily
 2020-02-10,US,11.0,0.0
 2020-02-10,United Kingdom,0.0,0.0
 2020-02-10,Switzerland,0.0,0.0
+2020-02-10,"Korea, South",23.0,2.0
 2020-02-10,Italy,3.0,0.0
 2020-02-10,India,3.0,0.0
 2020-02-10,Australia,2.0,0.0
@@ -100,6 +114,7 @@ Date_Confirmed,Region,total,daily
 2020-02-11,US,11.0,0.0
 2020-02-11,United Kingdom,0.0,0.0
 2020-02-11,Switzerland,0.0,0.0
+2020-02-11,"Korea, South",24.0,2.0
 2020-02-11,Italy,3.0,0.0
 2020-02-11,India,3.0,0.0
 2020-02-11,Australia,2.0,0.0
@@ -107,6 +122,7 @@ Date_Confirmed,Region,total,daily
 2020-02-12,US,11.0,0.0
 2020-02-12,United Kingdom,0.0,0.0
 2020-02-12,Switzerland,0.0,0.0
+2020-02-12,"Korea, South",26.0,1.0
 2020-02-12,Italy,3.0,0.0
 2020-02-12,India,3.0,0.0
 2020-02-12,Australia,2.0,0.0
@@ -114,6 +130,7 @@ Date_Confirmed,Region,total,daily
 2020-02-13,US,12.0,0.0
 2020-02-13,United Kingdom,1.0,0.0
 2020-02-13,Switzerland,0.0,0.0
+2020-02-13,"Korea, South",26.0,1.0
 2020-02-13,Italy,3.0,0.0
 2020-02-13,India,3.0,0.0
 2020-02-13,Australia,2.0,0.0
@@ -121,6 +138,7 @@ Date_Confirmed,Region,total,daily
 2020-02-14,US,12.0,0.0
 2020-02-14,United Kingdom,1.0,0.0
 2020-02-14,Switzerland,0.0,0.0
+2020-02-14,"Korea, South",27.0,1.0
 2020-02-14,Italy,3.0,0.0
 2020-02-14,India,3.0,0.0
 2020-02-14,Australia,2.0,0.0
@@ -128,6 +146,7 @@ Date_Confirmed,Region,total,daily
 2020-02-15,US,12.0,0.0
 2020-02-15,United Kingdom,1.0,0.0
 2020-02-15,Switzerland,0.0,0.0
+2020-02-15,"Korea, South",27.0,1.0
 2020-02-15,Italy,3.0,0.0
 2020-02-15,India,3.0,0.0
 2020-02-15,Australia,2.0,0.0
@@ -135,6 +154,7 @@ Date_Confirmed,Region,total,daily
 2020-02-16,US,12.0,0.0
 2020-02-16,United Kingdom,1.0,0.0
 2020-02-16,Switzerland,0.0,0.0
+2020-02-16,"Korea, South",28.0,1.0
 2020-02-16,Italy,3.0,0.0
 2020-02-16,India,3.0,0.0
 2020-02-16,Australia,2.0,0.0
@@ -142,6 +162,7 @@ Date_Confirmed,Region,total,daily
 2020-02-17,US,13.0,0.0
 2020-02-17,United Kingdom,1.0,0.0
 2020-02-17,Switzerland,0.0,0.0
+2020-02-17,"Korea, South",28.0,0.0
 2020-02-17,Italy,3.0,0.0
 2020-02-17,India,3.0,0.0
 2020-02-17,Australia,2.0,0.0
@@ -149,6 +170,7 @@ Date_Confirmed,Region,total,daily
 2020-02-18,US,13.0,0.0
 2020-02-18,United Kingdom,1.0,0.0
 2020-02-18,Switzerland,0.0,0.0
+2020-02-18,"Korea, South",29.0,0.0
 2020-02-18,Italy,3.0,0.0
 2020-02-18,India,3.0,0.0
 2020-02-18,Australia,2.0,0.0
@@ -156,6 +178,7 @@ Date_Confirmed,Region,total,daily
 2020-02-19,US,13.0,0.0
 2020-02-19,United Kingdom,1.0,0.0
 2020-02-19,Switzerland,0.0,0.0
+2020-02-19,"Korea, South",29.0,0.0
 2020-02-19,Italy,3.0,0.0
 2020-02-19,India,3.0,0.0
 2020-02-19,Australia,2.0,0.0
@@ -163,6 +186,7 @@ Date_Confirmed,Region,total,daily
 2020-02-20,US,13.0,0.0
 2020-02-20,United Kingdom,1.0,0.0
 2020-02-20,Switzerland,0.0,0.0
+2020-02-20,"Korea, South",40.0,11.0
 2020-02-20,Italy,3.0,0.0
 2020-02-20,India,3.0,0.0
 2020-02-20,Australia,2.0,0.0
@@ -170,6 +194,7 @@ Date_Confirmed,Region,total,daily
 2020-02-21,US,13.0,0.0
 2020-02-21,United Kingdom,1.0,0.0
 2020-02-21,Switzerland,0.0,0.0
+2020-02-21,"Korea, South",65.0,25.0
 2020-02-21,Italy,5.0,2.0
 2020-02-21,India,3.0,0.0
 2020-02-21,Australia,2.0,0.0
@@ -177,6 +202,7 @@ Date_Confirmed,Region,total,daily
 2020-02-22,US,14.0,0.0
 2020-02-22,United Kingdom,1.0,0.0
 2020-02-22,Switzerland,0.0,0.0
+2020-02-22,"Korea, South",123.0,58.0
 2020-02-22,Italy,14.0,8.0
 2020-02-22,India,3.0,0.0
 2020-02-22,Australia,2.0,0.0
@@ -184,6 +210,7 @@ Date_Confirmed,Region,total,daily
 2020-02-23,US,14.0,0.0
 2020-02-23,United Kingdom,1.0,0.0
 2020-02-23,Switzerland,0.0,0.0
+2020-02-23,"Korea, South",205.0,82.0
 2020-02-23,Italy,36.0,22.0
 2020-02-23,India,3.0,0.0
 2020-02-23,Australia,2.0,0.0
@@ -191,6 +218,7 @@ Date_Confirmed,Region,total,daily
 2020-02-24,US,19.0,5.0
 2020-02-24,United Kingdom,1.0,0.0
 2020-02-24,Switzerland,0.0,0.0
+2020-02-24,"Korea, South",320.0,115.0
 2020-02-24,Italy,68.0,32.0
 2020-02-24,India,3.0,0.0
 2020-02-24,Australia,2.0,0.0
@@ -198,6 +226,7 @@ Date_Confirmed,Region,total,daily
 2020-02-25,US,25.0,5.0
 2020-02-25,United Kingdom,1.0,0.0
 2020-02-25,Switzerland,0.0,0.0
+2020-02-25,"Korea, South",455.0,135.0
 2020-02-25,Italy,113.0,46.0
 2020-02-25,India,3.0,0.0
 2020-02-25,Australia,2.0,0.0
@@ -205,6 +234,7 @@ Date_Confirmed,Region,total,daily
 2020-02-26,US,31.0,6.0
 2020-02-26,United Kingdom,1.0,0.0
 2020-02-26,Switzerland,0.0,0.0
+2020-02-26,"Korea, South",631.0,176.0
 2020-02-26,Italy,178.0,64.0
 2020-02-26,India,3.0,0.0
 2020-02-26,Australia,2.0,0.0
@@ -212,6 +242,7 @@ Date_Confirmed,Region,total,daily
 2020-02-27,US,37.0,6.0
 2020-02-27,United Kingdom,1.0,0.0
 2020-02-27,Switzerland,1.0,1.0
+2020-02-27,"Korea, South",868.0,237.0
 2020-02-27,Italy,271.0,93.0
 2020-02-27,India,3.0,0.0
 2020-02-27,Australia,2.0,0.0
@@ -219,6 +250,7 @@ Date_Confirmed,Region,total,daily
 2020-02-28,US,44.0,6.0
 2020-02-28,United Kingdom,1.0,0.0
 2020-02-28,Switzerland,3.0,1.0
+2020-02-28,"Korea, South",1173.0,305.0
 2020-02-28,Italy,395.0,124.0
 2020-02-28,India,3.0,0.0
 2020-02-28,Australia,2.0,0.0
@@ -226,6 +258,7 @@ Date_Confirmed,Region,total,daily
 2020-02-29,US,51.0,8.0
 2020-02-29,United Kingdom,1.0,0.0
 2020-02-29,Switzerland,5.0,3.0
+2020-02-29,"Korea, South",1561.0,388.0
 2020-02-29,Italy,547.0,152.0
 2020-02-29,India,3.0,0.0
 2020-02-29,Australia,2.0,0.0
@@ -233,6 +266,7 @@ Date_Confirmed,Region,total,daily
 2020-03-01,US,60.0,8.0
 2020-03-01,United Kingdom,2.0,0.0
 2020-03-01,Switzerland,9.0,4.0
+2020-03-01,"Korea, South",2009.0,448.0
 2020-03-01,Italy,767.0,220.0
 2020-03-01,India,3.0,0.0
 2020-03-01,Australia,2.0,0.0
@@ -240,6 +274,7 @@ Date_Confirmed,Region,total,daily
 2020-03-02,US,67.0,7.0
 2020-03-02,United Kingdom,2.0,0.0
 2020-03-02,Switzerland,15.0,6.0
+2020-03-02,"Korea, South",2509.0,500.0
 2020-03-02,Italy,1025.0,258.0
 2020-03-02,India,3.0,0.0
 2020-03-02,Australia,3.0,0.0
@@ -247,6 +282,7 @@ Date_Confirmed,Region,total,daily
 2020-03-03,US,76.0,10.0
 2020-03-03,United Kingdom,3.0,1.0
 2020-03-03,Switzerland,23.0,8.0
+2020-03-03,"Korea, South",3110.0,601.0
 2020-03-03,Italy,1337.0,311.0
 2020-03-03,India,4.0,0.0
 2020-03-03,Australia,3.0,0.0
@@ -254,6 +290,7 @@ Date_Confirmed,Region,total,daily
 2020-03-04,US,89.0,13.0
 2020-03-04,United Kingdom,4.0,1.0
 2020-03-04,Switzerland,36.0,13.0
+2020-03-04,"Korea, South",3733.0,623.0
 2020-03-04,Italy,1713.0,377.0
 2020-03-04,India,7.0,4.0
 2020-03-04,Australia,4.0,1.0
@@ -261,6 +298,7 @@ Date_Confirmed,Region,total,daily
 2020-03-05,US,112.0,23.0
 2020-03-05,United Kingdom,5.0,1.0
 2020-03-05,Switzerland,51.0,15.0
+2020-03-05,"Korea, South",4350.0,617.0
 2020-03-05,Italy,2171.0,458.0
 2020-03-05,India,11.0,4.0
 2020-03-05,Australia,4.0,1.0
@@ -268,6 +306,7 @@ Date_Confirmed,Region,total,daily
 2020-03-06,US,141.0,29.0
 2020-03-06,United Kingdom,7.0,2.0
 2020-03-06,Switzerland,80.0,29.0
+2020-03-06,"Korea, South",4958.0,608.0
 2020-03-06,Italy,2706.0,535.0
 2020-03-06,India,15.0,4.0
 2020-03-06,Australia,5.0,1.0
@@ -275,6 +314,7 @@ Date_Confirmed,Region,total,daily
 2020-03-07,US,189.0,48.0
 2020-03-07,United Kingdom,9.0,2.0
 2020-03-07,Switzerland,116.0,36.0
+2020-03-07,"Korea, South",5514.0,556.0
 2020-03-07,Italy,3385.0,679.0
 2020-03-07,India,19.0,4.0
 2020-03-07,Australia,6.0,1.0
@@ -282,6 +322,7 @@ Date_Confirmed,Region,total,daily
 2020-03-08,US,252.0,63.0
 2020-03-08,United Kingdom,12.0,3.0
 2020-03-08,Switzerland,160.0,44.0
+2020-03-08,"Korea, South",6025.0,511.0
 2020-03-08,Italy,4197.0,812.0
 2020-03-08,India,25.0,5.0
 2020-03-08,Australia,7.0,1.0
@@ -289,6 +330,7 @@ Date_Confirmed,Region,total,daily
 2020-03-09,US,321.0,69.0
 2020-03-09,United Kingdom,16.0,4.0
 2020-03-09,Switzerland,208.0,47.0
+2020-03-09,"Korea, South",6474.0,449.0
 2020-03-09,Italy,5216.0,1019.0
 2020-03-09,India,30.0,5.0
 2020-03-09,Australia,8.0,1.0
@@ -296,6 +338,7 @@ Date_Confirmed,Region,total,daily
 2020-03-10,US,441.0,120.0
 2020-03-10,United Kingdom,20.0,4.0
 2020-03-10,Switzerland,270.0,62.0
+2020-03-10,"Korea, South",6807.0,332.0
 2020-03-10,Italy,6309.0,1092.0
 2020-03-10,India,37.0,7.0
 2020-03-10,Australia,9.0,1.0
@@ -303,6 +346,7 @@ Date_Confirmed,Region,total,daily
 2020-03-11,US,603.0,162.0
 2020-03-11,United Kingdom,25.0,5.0
 2020-03-11,Switzerland,350.0,80.0
+2020-03-11,"Korea, South",7112.0,305.0
 2020-03-11,Italy,7648.0,1339.0
 2020-03-11,India,42.0,5.0
 2020-03-11,Australia,10.0,1.0
@@ -310,6 +354,7 @@ Date_Confirmed,Region,total,daily
 2020-03-12,US,810.0,207.0
 2020-03-12,United Kingdom,30.0,4.0
 2020-03-12,Switzerland,427.0,77.0
+2020-03-12,"Korea, South",7366.0,254.0
 2020-03-12,Italy,8877.0,1229.0
 2020-03-12,India,48.0,6.0
 2020-03-12,Australia,12.0,1.0
@@ -317,6 +362,7 @@ Date_Confirmed,Region,total,daily
 2020-03-13,US,1084.0,274.0
 2020-03-13,United Kingdom,38.0,8.0
 2020-03-13,Switzerland,559.0,132.0
+2020-03-13,"Korea, South",7564.0,198.0
 2020-03-13,Italy,10738.0,1861.0
 2020-03-13,India,56.0,7.0
 2020-03-13,Australia,14.0,2.0
@@ -324,6 +370,7 @@ Date_Confirmed,Region,total,daily
 2020-03-14,US,1416.0,332.0
 2020-03-14,United Kingdom,50.0,12.0
 2020-03-14,Switzerland,715.0,156.0
+2020-03-14,"Korea, South",7713.0,149.0
 2020-03-14,Italy,12920.0,2182.0
 2020-03-14,India,65.0,10.0
 2020-03-14,Australia,17.0,3.0
@@ -331,6 +378,7 @@ Date_Confirmed,Region,total,daily
 2020-03-15,US,1842.0,426.0
 2020-03-15,United Kingdom,61.0,11.0
 2020-03-15,Switzerland,981.0,266.0
+2020-03-15,"Korea, South",7835.0,121.0
 2020-03-15,Italy,15401.0,2482.0
 2020-03-15,India,76.0,11.0
 2020-03-15,Australia,21.0,4.0
@@ -338,6 +386,7 @@ Date_Confirmed,Region,total,daily
 2020-03-16,US,2420.0,578.0
 2020-03-16,United Kingdom,77.0,16.0
 2020-03-16,Switzerland,1242.0,261.0
+2020-03-16,"Korea, South",7943.0,108.0
 2020-03-16,Italy,18088.0,2687.0
 2020-03-16,India,87.0,11.0
 2020-03-16,Australia,26.0,5.0
@@ -345,6 +394,7 @@ Date_Confirmed,Region,total,daily
 2020-03-17,US,3200.0,780.0
 2020-03-17,United Kingdom,98.0,20.0
 2020-03-17,Switzerland,1557.0,316.0
+2020-03-17,"Korea, South",8058.0,115.0
 2020-03-17,Italy,21139.0,3051.0
 2020-03-17,India,99.0,12.0
 2020-03-17,Australia,33.0,6.0
@@ -352,6 +402,7 @@ Date_Confirmed,Region,total,daily
 2020-03-18,US,4129.0,929.0
 2020-03-18,United Kingdom,126.0,28.0
 2020-03-18,Switzerland,1897.0,339.0
+2020-03-18,"Korea, South",8152.0,94.0
 2020-03-18,Italy,24461.0,3322.0
 2020-03-18,India,112.0,13.0
 2020-03-18,Australia,40.0,8.0
@@ -359,6 +410,7 @@ Date_Confirmed,Region,total,daily
 2020-03-19,US,5855.0,1726.0
 2020-03-19,United Kingdom,155.0,29.0
 2020-03-19,Switzerland,2386.0,489.0
+2020-03-19,"Korea, South",8252.0,99.0
 2020-03-19,Italy,28543.0,4082.0
 2020-03-19,India,130.0,17.0
 2020-03-19,Australia,50.0,10.0
@@ -366,6 +418,7 @@ Date_Confirmed,Region,total,daily
 2020-03-20,US,8297.0,2442.0
 2020-03-20,United Kingdom,197.0,42.0
 2020-03-20,Switzerland,2979.0,594.0
+2020-03-20,"Korea, South",8348.0,96.0
 2020-03-20,Italy,32737.0,4194.0
 2020-03-20,India,153.0,23.0
 2020-03-20,Australia,61.0,11.0
@@ -373,6 +426,7 @@ Date_Confirmed,Region,total,daily
 2020-03-21,US,11565.0,3268.0
 2020-03-21,United Kingdom,248.0,51.0
 2020-03-21,Switzerland,3725.0,745.0
+2020-03-21,"Korea, South",8450.0,102.0
 2020-03-21,Italy,37369.0,4632.0
 2020-03-21,India,185.0,33.0
 2020-03-21,Australia,76.0,15.0
@@ -380,6 +434,7 @@ Date_Confirmed,Region,total,daily
 2020-03-22,US,15819.0,4254.0
 2020-03-22,United Kingdom,308.0,60.0
 2020-03-22,Switzerland,4478.0,753.0
+2020-03-22,"Korea, South",8564.0,114.0
 2020-03-22,Italy,42282.0,4913.0
 2020-03-22,India,226.0,40.0
 2020-03-22,Australia,98.0,22.0
@@ -387,6 +442,7 @@ Date_Confirmed,Region,total,daily
 2020-03-23,US,21420.0,5602.0
 2020-03-23,United Kingdom,375.0,67.0
 2020-03-23,Switzerland,5420.0,942.0
+2020-03-23,"Korea, South",8667.0,104.0
 2020-03-23,Italy,47417.0,5135.0
 2020-03-23,India,280.0,54.0
 2020-03-23,Australia,121.0,23.0
@@ -394,6 +450,7 @@ Date_Confirmed,Region,total,daily
 2020-03-24,US,28180.0,6759.0
 2020-03-24,United Kingdom,455.0,81.0
 2020-03-24,Switzerland,6445.0,1025.0
+2020-03-24,"Korea, South",8770.0,102.0
 2020-03-24,Italy,52798.0,5381.0
 2020-03-24,India,336.0,56.0
 2020-03-24,Australia,150.0,29.0
@@ -401,6 +458,7 @@ Date_Confirmed,Region,total,daily
 2020-03-25,US,36465.0,8285.0
 2020-03-25,United Kingdom,546.0,91.0
 2020-03-25,Switzerland,7570.0,1124.0
+2020-03-25,"Korea, South",8873.0,103.0
 2020-03-25,Italy,58323.0,5525.0
 2020-03-25,India,408.0,72.0
 2020-03-25,Australia,182.0,32.0
@@ -408,6 +466,7 @@ Date_Confirmed,Region,total,daily
 2020-03-26,US,46477.0,10013.0
 2020-03-26,United Kingdom,664.0,118.0
 2020-03-26,Switzerland,8675.0,1105.0
+2020-03-26,"Korea, South",8970.0,97.0
 2020-03-26,Italy,63974.0,5651.0
 2020-03-26,India,484.0,76.0
 2020-03-26,Australia,220.0,38.0
@@ -415,6 +474,7 @@ Date_Confirmed,Region,total,daily
 2020-03-27,US,58247.0,11769.0
 2020-03-27,United Kingdom,804.0,139.0
 2020-03-27,Switzerland,9765.0,1091.0
+2020-03-27,"Korea, South",9067.0,97.0
 2020-03-27,Italy,69613.0,5640.0
 2020-03-27,India,576.0,92.0
 2020-03-27,Australia,262.0,42.0
@@ -422,6 +482,7 @@ Date_Confirmed,Region,total,daily
 2020-03-28,US,71942.0,13695.0
 2020-03-28,United Kingdom,963.0,159.0
 2020-03-28,Switzerland,10837.0,1072.0
+2020-03-28,"Korea, South",9164.0,97.0
 2020-03-28,Italy,75169.0,5556.0
 2020-03-28,India,670.0,94.0
 2020-03-28,Australia,308.0,46.0
@@ -429,6 +490,7 @@ Date_Confirmed,Region,total,daily
 2020-03-29,US,87318.0,15376.0
 2020-03-29,United Kingdom,1145.0,182.0
 2020-03-29,Switzerland,11888.0,1051.0
+2020-03-29,"Korea, South",9253.0,89.0
 2020-03-29,Italy,80677.0,5507.0
 2020-03-29,India,760.0,90.0
 2020-03-29,Australia,351.0,43.0
@@ -436,6 +498,7 @@ Date_Confirmed,Region,total,daily
 2020-03-30,US,104173.0,16855.0
 2020-03-30,United Kingdom,1349.0,204.0
 2020-03-30,Switzerland,12906.0,1018.0
+2020-03-30,"Korea, South",9353.0,100.0
 2020-03-30,Italy,86078.0,5402.0
 2020-03-30,India,867.0,107.0
 2020-03-30,Australia,399.0,48.0
@@ -443,6 +506,7 @@ Date_Confirmed,Region,total,daily
 2020-03-31,US,123378.0,19205.0
 2020-03-31,United Kingdom,1574.0,225.0
 2020-03-31,Switzerland,13867.0,961.0
+2020-03-31,"Korea, South",9460.0,107.0
 2020-03-31,Italy,91309.0,5231.0
 2020-03-31,India,990.0,123.0
 2020-03-31,Australia,444.0,45.0
@@ -450,6 +514,7 @@ Date_Confirmed,Region,total,daily
 2020-04-01,US,144445.0,21066.0
 2020-04-01,United Kingdom,1837.0,263.0
 2020-04-01,Switzerland,14848.0,982.0
+2020-04-01,"Korea, South",9567.0,107.0
 2020-04-01,Italy,96479.0,5170.0
 2020-04-01,India,1182.0,192.0
 2020-04-01,Australia,489.0,45.0
@@ -457,6 +522,7 @@ Date_Confirmed,Region,total,daily
 2020-04-02,US,167271.0,22827.0
 2020-04-02,United Kingdom,2127.0,290.0
 2020-04-02,Switzerland,15851.0,1002.0
+2020-04-02,"Korea, South",9672.0,105.0
 2020-04-02,Italy,101429.0,4950.0
 2020-04-02,India,1441.0,259.0
 2020-04-02,Australia,530.0,41.0
@@ -464,6 +530,7 @@ Date_Confirmed,Region,total,daily
 2020-04-03,US,192087.0,24816.0
 2020-04-03,United Kingdom,2438.0,311.0
 2020-04-03,Switzerland,16805.0,954.0
+2020-04-03,"Korea, South",9776.0,104.0
 2020-04-03,Italy,106191.0,4761.0
 2020-04-03,India,1681.0,240.0
 2020-04-03,Australia,569.0,39.0
@@ -471,6 +538,7 @@ Date_Confirmed,Region,total,daily
 2020-04-04,US,218828.0,26741.0
 2020-04-04,United Kingdom,2765.0,327.0
 2020-04-04,Switzerland,17723.0,918.0
+2020-04-04,"Korea, South",9873.0,97.0
 2020-04-04,Italy,110785.0,4594.0
 2020-04-04,India,1980.0,299.0
 2020-04-04,Australia,603.0,34.0
@@ -478,6 +546,7 @@ Date_Confirmed,Region,total,daily
 2020-04-05,US,246812.0,27985.0
 2020-04-05,United Kingdom,3137.0,372.0
 2020-04-05,Switzerland,18619.0,896.0
+2020-04-05,"Korea, South",9966.0,93.0
 2020-04-05,Italy,115251.0,4466.0
 2020-04-05,India,2347.0,366.0
 2020-04-05,Australia,633.0,30.0
@@ -485,6 +554,7 @@ Date_Confirmed,Region,total,daily
 2020-04-06,US,276025.0,29212.0
 2020-04-06,United Kingdom,3525.0,387.0
 2020-04-06,Switzerland,19438.0,819.0
+2020-04-06,"Korea, South",10055.0,89.0
 2020-04-06,Italy,119652.0,4401.0
 2020-04-06,India,2850.0,504.0
 2020-04-06,Australia,659.0,26.0
@@ -492,6 +562,7 @@ Date_Confirmed,Region,total,daily
 2020-04-07,US,305874.0,29850.0
 2020-04-07,United Kingdom,3920.0,396.0
 2020-04-07,Switzerland,20245.0,807.0
+2020-04-07,"Korea, South",10133.0,78.0
 2020-04-07,Italy,123908.0,4256.0
 2020-04-07,India,3410.0,559.0
 2020-04-07,Australia,683.0,24.0
@@ -499,6 +570,7 @@ Date_Confirmed,Region,total,daily
 2020-04-08,US,336648.0,30773.0
 2020-04-08,United Kingdom,4331.0,411.0
 2020-04-08,Switzerland,21033.0,787.0
+2020-04-08,"Korea, South",10204.0,71.0
 2020-04-08,Italy,128029.0,4121.0
 2020-04-08,India,3969.0,560.0
 2020-04-08,Australia,703.0,20.0
@@ -506,6 +578,7 @@ Date_Confirmed,Region,total,daily
 2020-04-09,US,367956.0,31308.0
 2020-04-09,United Kingdom,4743.0,412.0
 2020-04-09,Switzerland,21779.0,746.0
+2020-04-09,"Korea, South",10268.0,64.0
 2020-04-09,Italy,132084.0,4055.0
 2020-04-09,India,4567.0,597.0
 2020-04-09,Australia,721.0,18.0
@@ -513,6 +586,7 @@ Date_Confirmed,Region,total,daily
 2020-04-10,US,399551.0,31595.0
 2020-04-10,United Kingdom,5209.0,466.0
 2020-04-10,Switzerland,22485.0,706.0
+2020-04-10,"Korea, South",10324.0,55.0
 2020-04-10,Italy,136048.0,3964.0
 2020-04-10,India,5285.0,719.0
 2020-04-10,Australia,737.0,16.0
@@ -520,6 +594,7 @@ Date_Confirmed,Region,total,daily
 2020-04-11,US,430658.0,31107.0
 2020-04-11,United Kingdom,5695.0,486.0
 2020-04-11,Switzerland,23143.0,657.0
+2020-04-11,"Korea, South",10370.0,46.0
 2020-04-11,Italy,139997.0,3948.0
 2020-04-11,India,6052.0,766.0
 2020-04-11,Australia,750.0,13.0
@@ -527,6 +602,7 @@ Date_Confirmed,Region,total,daily
 2020-04-12,US,461874.0,31216.0
 2020-04-12,United Kingdom,6172.0,478.0
 2020-04-12,Switzerland,23759.0,616.0
+2020-04-12,"Korea, South",10409.0,39.0
 2020-04-12,Italy,143913.0,3916.0
 2020-04-12,India,6854.0,802.0
 2020-04-12,Australia,762.0,11.0
@@ -534,6 +610,7 @@ Date_Confirmed,Region,total,daily
 2020-04-13,US,492488.0,30615.0
 2020-04-13,United Kingdom,6656.0,484.0
 2020-04-13,Switzerland,24335.0,576.0
+2020-04-13,"Korea, South",10445.0,36.0
 2020-04-13,Italy,147766.0,3853.0
 2020-04-13,India,7665.0,811.0
 2020-04-13,Australia,771.0,10.0
@@ -541,6 +618,7 @@ Date_Confirmed,Region,total,daily
 2020-04-14,US,522567.0,30078.0
 2020-04-14,United Kingdom,7162.0,505.0
 2020-04-14,Switzerland,24861.0,526.0
+2020-04-14,"Korea, South",10479.0,33.0
 2020-04-14,Italy,151609.0,3843.0
 2020-04-14,India,8547.0,882.0
 2020-04-14,Australia,781.0,9.0
@@ -548,6 +626,7 @@ Date_Confirmed,Region,total,daily
 2020-04-15,US,552238.0,29671.0
 2020-04-15,United Kingdom,7655.0,494.0
 2020-04-15,Switzerland,25298.0,437.0
+2020-04-15,"Korea, South",10508.0,30.0
 2020-04-15,Italy,155285.0,3676.0
 2020-04-15,India,9462.0,915.0
 2020-04-15,Australia,788.0,8.0
@@ -555,6 +634,7 @@ Date_Confirmed,Region,total,daily
 2020-04-16,US,581496.0,29259.0
 2020-04-16,United Kingdom,8152.0,497.0
 2020-04-16,Switzerland,25681.0,383.0
+2020-04-16,"Korea, South",10535.0,27.0
 2020-04-16,Italy,158902.0,3616.0
 2020-04-16,India,10420.0,958.0
 2020-04-16,Australia,795.0,6.0
@@ -562,6 +642,7 @@ Date_Confirmed,Region,total,daily
 2020-04-17,US,610521.0,29024.0
 2020-04-17,United Kingdom,8609.0,457.0
 2020-04-17,Switzerland,26042.0,361.0
+2020-04-17,"Korea, South",10562.0,26.0
 2020-04-17,Italy,162453.0,3551.0
 2020-04-17,India,11385.0,965.0
 2020-04-17,Australia,800.0,5.0
@@ -569,6 +650,7 @@ Date_Confirmed,Region,total,daily
 2020-04-18,US,639921.0,29400.0
 2020-04-18,United Kingdom,9069.0,460.0
 2020-04-18,Switzerland,26370.0,328.0
+2020-04-18,"Korea, South",10586.0,25.0
 2020-04-18,Italy,165832.0,3379.0
 2020-04-18,India,12424.0,1039.0
 2020-04-18,Australia,805.0,5.0
@@ -576,6 +658,7 @@ Date_Confirmed,Region,total,daily
 2020-04-19,US,668992.0,29071.0
 2020-04-19,United Kingdom,9536.0,467.0
 2020-04-19,Switzerland,26702.0,332.0
+2020-04-19,"Korea, South",10608.0,21.0
 2020-04-19,Italy,169062.0,3230.0
 2020-04-19,India,13626.0,1201.0
 2020-04-19,Australia,810.0,5.0
@@ -583,6 +666,7 @@ Date_Confirmed,Region,total,daily
 2020-04-20,US,698093.0,29101.0
 2020-04-20,United Kingdom,10008.0,471.0
 2020-04-20,Switzerland,27024.0,322.0
+2020-04-20,"Korea, South",10627.0,20.0
 2020-04-20,Italy,172163.0,3102.0
 2020-04-20,India,14781.0,1155.0
 2020-04-20,Australia,815.0,5.0
@@ -590,6 +674,7 @@ Date_Confirmed,Region,total,daily
 2020-04-21,US,727264.0,29171.0
 2020-04-21,United Kingdom,10466.0,459.0
 2020-04-21,Switzerland,27328.0,304.0
+2020-04-21,"Korea, South",10644.0,17.0
 2020-04-21,Italy,175230.0,3067.0
 2020-04-21,India,16009.0,1228.0
 2020-04-21,Australia,819.0,4.0
@@ -597,6 +682,7 @@ Date_Confirmed,Region,total,daily
 2020-04-22,US,756407.0,29143.0
 2020-04-22,United Kingdom,10923.0,457.0
 2020-04-22,Switzerland,27604.0,276.0
+2020-04-22,"Korea, South",10659.0,15.0
 2020-04-22,Italy,178398.0,3167.0
 2020-04-22,India,17301.0,1293.0
 2020-04-22,Australia,823.0,4.0
@@ -604,6 +690,7 @@ Date_Confirmed,Region,total,daily
 2020-04-23,US,785203.0,28797.0
 2020-04-23,United Kingdom,11379.0,456.0
 2020-04-23,Switzerland,27856.0,252.0
+2020-04-23,"Korea, South",10673.0,14.0
 2020-04-23,Italy,181402.0,3005.0
 2020-04-23,India,18679.0,1378.0
 2020-04-23,Australia,827.0,4.0
@@ -611,6 +698,7 @@ Date_Confirmed,Region,total,daily
 2020-04-24,US,814582.0,29379.0
 2020-04-24,United Kingdom,11832.0,453.0
 2020-04-24,Switzerland,28085.0,228.0
+2020-04-24,"Korea, South",10684.0,12.0
 2020-04-24,Italy,184339.0,2937.0
 2020-04-24,India,20133.0,1454.0
 2020-04-24,Australia,829.0,3.0
@@ -618,6 +706,7 @@ Date_Confirmed,Region,total,daily
 2020-04-25,US,844005.0,29422.0
 2020-04-25,United Kingdom,12277.0,445.0
 2020-04-25,Switzerland,28297.0,213.0
+2020-04-25,"Korea, South",10695.0,11.0
 2020-04-25,Italy,187115.0,2775.0
 2020-04-25,India,21642.0,1509.0
 2020-04-25,Australia,832.0,2.0
@@ -625,6 +714,7 @@ Date_Confirmed,Region,total,daily
 2020-04-26,US,873573.0,29568.0
 2020-04-26,United Kingdom,12703.0,427.0
 2020-04-26,Switzerland,28486.0,189.0
+2020-04-26,"Korea, South",10706.0,11.0
 2020-04-26,Italy,189786.0,2672.0
 2020-04-26,India,23110.0,1468.0
 2020-04-26,Australia,834.0,2.0
@@ -632,6 +722,7 @@ Date_Confirmed,Region,total,daily
 2020-04-27,US,902697.0,29124.0
 2020-04-27,United Kingdom,13125.0,422.0
 2020-04-27,Switzerland,28660.0,174.0
+2020-04-27,"Korea, South",10717.0,11.0
 2020-04-27,Italy,192384.0,2598.0
 2020-04-27,India,24669.0,1559.0
 2020-04-27,Australia,835.0,2.0
@@ -639,6 +730,7 @@ Date_Confirmed,Region,total,daily
 2020-04-28,US,931371.0,28674.0
 2020-04-28,United Kingdom,13543.0,418.0
 2020-04-28,Switzerland,28832.0,172.0
+2020-04-28,"Korea, South",10728.0,11.0
 2020-04-28,Italy,194891.0,2507.0
 2020-04-28,India,26275.0,1606.0
 2020-04-28,Australia,837.0,2.0
@@ -646,6 +738,7 @@ Date_Confirmed,Region,total,daily
 2020-04-29,US,959879.0,28508.0
 2020-04-29,United Kingdom,13956.0,413.0
 2020-04-29,Switzerland,28995.0,163.0
+2020-04-29,"Korea, South",10739.0,10.0
 2020-04-29,Italy,197215.0,2323.0
 2020-04-29,India,27945.0,1670.0
 2020-04-29,Australia,839.0,2.0
