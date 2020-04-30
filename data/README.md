@@ -2,7 +2,7 @@
 
 Aquí se mantienen los datos 🗂️ de fuentes oficiales en formato reproducible para facilitar el análisis del progreso de COVID-19 en México 🦠🇲🇽. Análisis, series de tiempo y gráficas están en este otro repo: [github.com/marianarf/covid19_mexico_analysis](https://github.com/marianarf/covid19_mexico_analysis).
 
-### Fuentes 📈
+### Fuentes 📈👩‍💻👨‍💻
 
 ``'dge/'``
 + **Dirección General de Epidemiología** - Los archivos en esta carpeta contiene los reportes diarios referente a los casos asociados a COVID-19 publicados por la [Dirección General de Epidemiología](https://www.gob.mx/salud/documentos/datos-abiertos-152127) a partir de ``2020-04-12``. Los datos se obtienen mediante ``zip`` el día de su publicación, o accediendo la base de datos histórica, que contiene los archivos en formato ``csv``.
