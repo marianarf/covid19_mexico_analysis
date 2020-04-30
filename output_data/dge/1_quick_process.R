@@ -12,32 +12,35 @@ data <- lapply(
   read.csv,
   header=TRUE,
   stringsAsFactors=TRUE,
-  encoding = 'latin1')
+  encoding = 'latin1') # damn
 
-# Use factor
+# Factor
 filename <- as.factor(c(data_filenames))
 
-# Timesamp
-filename <- as.Date(filename, '%y%m%d')
+# Bind listo of data frames
+filename <- as.Date(filename, '%y%m%d') # timesamp
+dat <- mapply(cbind, data, 'FECHA_CORTE'=filename, SIMPLIFY=F) # set previous column before bind
+dat <- data.table::rbindlist(l=dat, use.names=TRUE, fill=TRUE) # bind list of data frames
+dat <- dat %>% mutate(RESULTADO=as.factor(RESULTADO)) # factor
 
-dat <- mapply(cbind, data, 'FECHA_CORTE'=filename, SIMPLIFY=F)
-dat <- data.table::rbindlist(l=dat, use.names=TRUE, fill=TRUE)
-dat <- dat %>% mutate(RESULTADO=as.factor(RESULTADO))
-#dat <- dat %>% select(-c(ID_REGISTRO))
+dat <- dat %>% select(FECHA_CORTE, FECHA_ACTUALIZACION,
+                      ID_REGISTRO, ENTIDAD_UM, ENTIDAD_RES, FECHA_INGRESO, FECHA_SINTOMAS, FECHA_DEF, PAIS_ORIGEN, RESULTADO)
 
+# test <- dat %>%
+  #mutate_all(funs(str_replace(., 'Á', 'A'))) %>% # search all data frame 
+  #mutate(PAIS_ORIGEN = str_replace(PAIS_ORIGEN, 'Á', 'A'), regex=TRUE) # wat
+  
 levels(as.factor(dat$FECHA_CORTE))
 levels(as.factor(dat$FECHA_ACTUALIZACION))
+
 nrow((dat))
 
-dd_mun <- dat %>% select(ID_REGISTRO, ENTIDAD_UM, ENTIDAD_RES, FECHA_INGRESO, FECHA_SINTOMAS, FECHA_DEF, RESULTADO, MUNICIPIO_RES) %>%
+dd <- dat %>% select(ID_REGISTRO, ENTIDAD_UM, ENTIDAD_RES, FECHA_INGRESO, FECHA_SINTOMAS, FECHA_DEF, PAIS_ORIGEN, RESULTADO) %>%
   filter(as.integer(RESULTADO)==1) %>%
   mutate(., FECHA_INGRESO = as.POSIXct(FECHA_INGRESO, format='%Y-%m-%d')) %>%
+  mutate(PAIS_ORIGEN = str_replace(PAIS_ORIGEN, '99', 'Local')) %>%
+  mutate(PAIS_ORIGEN = str_replace(PAIS_ORIGEN, '98', 'Local')) %>%
+  mutate(PAIS_ORIGEN = str_replace(PAIS_ORIGEN, '97', 'Local')) %>%
   arrange(desc(FECHA_INGRESO))
 
-dd <- dat %>% select(ID_REGISTRO, ENTIDAD_UM, ENTIDAD_RES, FECHA_INGRESO, FECHA_SINTOMAS, FECHA_DEF, RESULTADO, ) %>%
-  filter(as.integer(RESULTADO)==1) %>%
-  mutate(., FECHA_INGRESO = as.POSIXct(FECHA_INGRESO, format='%Y-%m-%d')) %>%
-  arrange(desc(FECHA_INGRESO))
-
-write_csv(dd_mun, 'filter_mun.csv')
 write_csv(dd, 'filter.csv')
