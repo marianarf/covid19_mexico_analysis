@@ -22,11 +22,3 @@ Los archivos en esta carpeta contienen ``csv`` procesador a partir de las public
 ``'geo/'``
 + **INEGI** - 
 Los archivos en esta carpeta contienen los nombres y claves oficiales de las entidades y municipios en México delineadas a través del marco geoestadístico del [INEGI](https://www.inegi.org.mx/app/biblioteca/ficha.html?upc=889463142683).
-	
-### Más información 🔍
-
-Si eres reserarcher 👩‍🔬👨‍🔬📈 y quieres incepcionar a las meras, meras, fuentes, hay otros repos y sitios no oficiales que se han dedicado a mantener,  comentar y archivar los datos y las series de tiempo de fuentes oficiales:
-
-* https://serendipia.digital/
-* https://www.covid19in.mx/
-* https://github.com/guzmart/covid19_mex/
