@@ -29,10 +29,8 @@ levels(as.factor(dat$FECHA_CORTE))
 levels(as.factor(dat$FECHA_ACTUALIZACION))
 nrow((dat))
 
-dd <- dat %>% select(ID_REGISTRO, ENTIDAD_UM, ENTIDAD_RES, FECHA_INGRESO, FECHA_SINTOMAS, FECHA_DEF, RESULTADO, PAIS_ORIGEN) %>%
+dd <- dat %>% select(ID_REGISTRO, ENTIDAD_UM, ENTIDAD_RES, FECHA_INGRESO, FECHA_SINTOMAS, FECHA_DEF, RESULTADO, MUNICIPIO_RES) %>%
   filter(as.integer(RESULTADO)==1) %>%
-  mutate(PAIS_ORIGEN = gsub('99', 'Contacto', PAIS_ORIGEN)) %>%
-  mutate(PAIS_ORIGEN = gsub('97', 'Contacto', PAIS_ORIGEN)) %>%
   mutate(., FECHA_INGRESO = as.POSIXct(FECHA_INGRESO, format='%Y-%m-%d')) %>%
   arrange(desc(FECHA_INGRESO))
 
