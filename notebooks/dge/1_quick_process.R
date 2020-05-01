@@ -12,7 +12,7 @@ data <- lapply(
   read.csv,
   header=TRUE,
   stringsAsFactors=TRUE,
-  encoding = 'latin1') # damn
+  encoding = 'latin-ascii') # damn
 
 # Factor
 filename <- as.factor(c(data_filenames))
@@ -24,18 +24,19 @@ dat <- data.table::rbindlist(l=dat, use.names=TRUE, fill=TRUE) # bind list of da
 dat <- dat %>% mutate(RESULTADO=as.factor(RESULTADO)) # factor
 
 dat <- dat %>% select(FECHA_CORTE, FECHA_ACTUALIZACION,
-                      ID_REGISTRO, ENTIDAD_UM, ENTIDAD_RES, FECHA_INGRESO, FECHA_SINTOMAS, FECHA_DEF, PAIS_ORIGEN, RESULTADO)
+                      ID_REGISTRO, ENTIDAD_UM, ENTIDAD_RES, MUNICIPIO_RES, FECHA_INGRESO, FECHA_SINTOMAS, FECHA_DEF, PAIS_ORIGEN, RESULTADO)
 
 # test <- dat %>%
   #mutate_all(funs(str_replace(., 'Á', 'A'))) %>% # search all data frame 
   #mutate(PAIS_ORIGEN = str_replace(PAIS_ORIGEN, 'Á', 'A'), regex=TRUE) # wat
-  
+
+levels(as.factor(dat$PAIS))
 levels(as.factor(dat$FECHA_CORTE))
 levels(as.factor(dat$FECHA_ACTUALIZACION))
 
 nrow((dat))
 
-dd <- dat %>% select(ID_REGISTRO, ENTIDAD_UM, ENTIDAD_RES, FECHA_INGRESO, FECHA_SINTOMAS, FECHA_DEF, PAIS_ORIGEN, RESULTADO) %>%
+dd <- dat %>% select(ID_REGISTRO, ENTIDAD_UM, ENTIDAD_RES, MUNICIPIO_RES, FECHA_INGRESO, FECHA_SINTOMAS, FECHA_DEF, PAIS_ORIGEN, RESULTADO) %>%
   filter(as.integer(RESULTADO)==1) %>%
   mutate(., FECHA_INGRESO = as.POSIXct(FECHA_INGRESO, format='%Y-%m-%d')) %>%
   mutate(PAIS_ORIGEN = str_replace(PAIS_ORIGEN, '99', 'Local')) %>%
