@@ -50,4 +50,4 @@ dd <- dat %>% select(ID_REGISTRO, ENTIDAD_UM, ENTIDAD_RES, MUNICIPIO_RES, FECHA_
   filter(!grepl('997', MUNICIPIO_RES)) %>%
   arrange(desc(FECHA_INGRESO))
 
-write_csv(dd, 'filter.csv')
+write_csv(dd, '../latest_raw.csv')
