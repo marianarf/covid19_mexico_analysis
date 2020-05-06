@@ -37,7 +37,7 @@ dat <- dat %>% select(FECHA_CORTE, FECHA_ACTUALIZACION,
 nrow((dat))
 
 dd <- dat %>% select(ID_REGISTRO, ENTIDAD_UM, ENTIDAD_RES, MUNICIPIO_RES, FECHA_INGRESO, FECHA_SINTOMAS, FECHA_DEF, PAIS_ORIGEN, RESULTADO) %>%
-  filter(as.integer(RESULTADO)==1) %>%
+  #filter(as.integer(RESULTADO)==1) %>%
   mutate(., FECHA_INGRESO = as.POSIXct(FECHA_INGRESO, format='%Y-%m-%d')) %>%
   mutate(PAIS_ORIGEN = str_replace(PAIS_ORIGEN, '99', 'Local')) %>%
   mutate(PAIS_ORIGEN = str_replace(PAIS_ORIGEN, '98', 'Local')) %>%
