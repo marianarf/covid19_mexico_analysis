@@ -1,11 +1,5 @@
 # Process raw daily report data.
 
-# https://stackoverflow.com/questions/38025866/find-difference-between-dates-in-consecutive-rows
-# https://stackoverflow.com/questions/41194878/how-to-delete-duplicates-from-groups-in-r-where-group-is-formed-by-three-columns
-# https://stackoverflow.com/questions/6986657/find-duplicated-rows-based-on-2-columns-in-data-frame-in-r
-# https://stackoverflow.com/questions/8161836/how-do-i-replace-na-values-with-zeros-in-an-r-dataframe
-# https://stackoverflow.com/questions/15641924/remove-all-duplicates-except-last-instance
-
 options(scipen = 999)
 
 library(tidyverse)
@@ -102,7 +96,7 @@ ent <- read_csv('../data/geo/entidades.csv') %>%
   mutate(ENTIDAD_REGISTRO=as.numeric(ENTIDAD_REGISTRO)) %>%
   as.data.frame()
 
-# Raw time series containing only positive cases to date
+# Clean time series conserving official structure
 df <- bind_rows(df.x, df.y) %>% # bind region dataframes
   left_join(., ent) %>% # add geo data
   rename(FECHA_DEFUNCION=FECHA_DEF) %>% # rename
@@ -117,13 +111,10 @@ df <- bind_rows(df.x, df.y) %>% # bind region dataframes
          PAIS_ORIGEN, RESULTADO, OFFSET) %>% # select relevant data
   mutate(ENTIDAD=stringi::stri_trans_general(str=ENTIDAD, id='Latin-ASCII')) %>% # remove accents
   arrange(FECHA_ARCHIVO, ID_REGISTRO)
-
 # df %>%filter(grepl('1', RESULTADO)) # check nrow and offset is correct
-
 write.csv(df, '../latest_raw.csv')
 
 # Nowcasts
-
 nowcasts <- df %>%
   select(PAIS_ORIGEN, FECHA_SINTOMAS, FECHA_ARCHIVO, OFFSET, ENTIDAD, # params
          FECHA_DEFUNCION, ENTIDAD_REGISTRO, RESULTADO) %>% # filters
@@ -148,12 +139,16 @@ cases <- nowcasts %>%
   mutate(import_status = ifelse(import_status == 'Local' , 'local', 'imported')) %>% # use nowcasts values
   group_by(region, date, import_status, date) %>%
   summarize(cases = n())
-
 write.csv(cases, '../latest_cases.csv')
 
 # `import_status` (values 'local' and 'imported'), `date_onset`, `date_confirm`, `report_delay`, and `region`
 linelist <- nowcasts %>%
   select(import_status, date_onset, date_confirm, report_delay, region) %>%
   mutate(import_status = ifelse(import_status == 'Local' , 'local', 'imported')) # use nowcasts values
-
 write.csv(linelist, '../latest_linelist.csv')
+
+# https://stackoverflow.com/questions/38025866/find-difference-between-dates-in-consecutive-rows
+# https://stackoverflow.com/questions/41194878/how-to-delete-duplicates-from-groups-in-r-where-group-is-formed-by-three-columns
+# https://stackoverflow.com/questions/6986657/find-duplicated-rows-based-on-2-columns-in-data-frame-in-r
+# https://stackoverflow.com/questions/8161836/how-do-i-replace-na-values-with-zeros-in-an-r-dataframe
+# https://stackoverflow.com/questions/15641924/remove-all-duplicates-except-last-instance
