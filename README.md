@@ -6,3 +6,8 @@
 ``2020-29-04``
 
 ![Growth rate of COVID-19 in logarithmic scales)](https://i.imgur.com/wJjist1.png)
+
+### To-do
+* Annotate output data.
+* Make rolling time series for Mexico regional cases.
+* Use SSA data before April 12 to calculate daily cases and delay in reports.
