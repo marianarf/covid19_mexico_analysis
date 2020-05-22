@@ -10,8 +10,9 @@ data <- fread('../latest_raw.csv')
 # Nowcasts
 nowcasts <- data %>%
   filter(FECHA_ARCHIVO>'2020-04-12') %>% # exclude earlier dates because 'delay' won't show since earlier data has different structure
-  select(PAIS_ORIGEN, FECHA_SINTOMAS, FECHA_ARCHIVO, DELAY, ENTIDAD, # params
-         FECHA_DEF, ENTIDAD_REGISTRO, RESULTADO) %>% # filters
+  select(
+    PAIS_ORIGEN, FECHA_SINTOMAS, FECHA_ARCHIVO, DELAY, ENTIDAD, # params
+    FECHA_DEF, ENTIDAD_REGISTRO, RESULTADO) %>% # filters
   rename(., import_status=PAIS_ORIGEN, date_onset=FECHA_SINTOMAS, date_confirm=FECHA_ARCHIVO, report_delay=DELAY, region=ENTIDAD) %>%
   # keep only positive cases
   filter(grepl('1', RESULTADO)) %>%

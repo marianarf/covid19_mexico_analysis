@@ -11,7 +11,7 @@ library(data.table)
 
 readFiles <- function(path) {
   
-  # read report data and add filename to column
+  # Reads report data and adds filename to new column
   
   data_filenames <- list.files(path = paste0(path), pattern='*.csv')
   data_path <- as.character(paste0(path, '/', collapse=''))
@@ -29,7 +29,7 @@ readFiles <- function(path) {
 
 uniqueRecords <- function(df, status) {
   
-  # finds delay in lat test processing results
+  # Finds delay in lat test processing results
   
   df <- df %>%
     filter(grepl(status, RESULTADO)) %>%
@@ -46,7 +46,7 @@ uniqueRecords <- function(df, status) {
 
 fixRegions <- function(data) {
   
-  # fix inconsistent report regions as specified in README
+  # Fixes inconsistent report regions as specified in README
   
   data <- data %>% mutate(FECHA_ARCHIVO=as.Date(FECHA_ARCHIVO, format='%Y-%m-%d'))
   data_1 <- data %>% filter(FECHA_ARCHIVO>'2020-01-01' & FECHA_ARCHIVO<='2020-04-20') %>% mutate(ENTIDAD_REGISTRO=ENTIDAD_UM)
