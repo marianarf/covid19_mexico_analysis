@@ -78,17 +78,18 @@ uniques <- fixRegions(bind_rows(unique_positives, unique_negatives))
 # ADD GEO ATTRIBUTES
 
 # Get official geo attributes and rename cols to match current data
-geo_data <- fread('../data/geo/entidades.csv')
-geo_data <- geo_data %>% rename(., NOM_ENT=ENTIDAD_FEDERATIVA, ABR_ENT=ABREVIATURA, ENTIDAD_REGISTRO=CLAVE_ENTIDAD)
-geo_data <- geo_data %>% mutate(ENTIDAD_REGISTRO=as.numeric(ENTIDAD_REGISTRO))
+entidades <- fread('../data/geo/entidades.csv')
+entidades <- entidades %>% rename(., NOM_ENT=ENTIDAD_FEDERATIVA, ABR_ENT=ABREVIATURA, ENTIDAD_REGISTRO=CLAVE_ENTIDAD)
+
+municipios <- fread('../data/geo/municipios.csv')
+municipios <- municipios %>% rename(., MUNICIPIO_RES=CLAVE_MUNICIPIO, ENTIDAD_REGISTRO=CLAVE_ENTIDAD, NOM_MUN=MUNICIPIO)
 
 # CLEAN UP
   
 # Final clean up, conserving official structure as closely as possible and with all vars
-final_data <- left_join(uniques, geo_data) %>%
-  select(-c(dup)) %>%
-  rename(ENTIDAD=NOM_ENT) %>%
-  mutate(ENTIDAD=stringi::stri_trans_general(str=ENTIDAD, id='Latin-ASCII')) %>%
+final_data <- uniques %>%
+  left_join(., entidades) %>%
+  select(-c(dup)) %>% rename(ENTIDAD=NOM_ENT) %>% mutate(ENTIDAD=stringi::stri_trans_general(str=ENTIDAD, id='Latin-ASCII')) %>%
   arrange(FECHA_ARCHIVO, ID_REGISTRO) %>%
   left_join(., raw_data_df)
 #final_data %>%filter(grepl('1', RESULTADO)) # check nrow and delay is correct
