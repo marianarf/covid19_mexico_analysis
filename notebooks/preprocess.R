@@ -75,9 +75,9 @@ unique_negatives <- uniqueRecords(params_df, '2')
 # Get unique values
 uniques <- fixRegions(bind_rows(unique_positives, unique_negatives))
 
-# ADD GEO ATTRIBUTES
+# ADD REGION ATTRIBUTES
 
-# Get official geo attributes and rename cols to match current data
+# Get official regional attributes and rename cols to match current data
 entidades <- fread('../data/geo/entidades.csv')
 entidades <- entidades %>% rename(., NOM_ENT=ENTIDAD_FEDERATIVA, ABR_ENT=ABREVIATURA, ENTIDAD_REGISTRO=CLAVE_ENTIDAD)
 
@@ -95,4 +95,4 @@ final_data <- uniques %>%
 #final_data %>%filter(grepl('1', RESULTADO)) # check nrow and delay is correct
 
 # OUTPUT DATA
-write.csv(final_data, '../latest_raw.csv', row.names=FALSE, fileEncoding='UTF-8')
+write.csv(final_data, '../mexico_covid19.csv', row.names=FALSE, fileEncoding='UTF-8')
