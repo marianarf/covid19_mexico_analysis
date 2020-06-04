@@ -42,9 +42,17 @@
 "Baja California","2020-05-25","local",1
 "Baja California","2020-05-26","local",8
 "Baja California","2020-05-27","local",6
+"Baja California","2020-05-28","local",6
+"Baja California","2020-05-29","local",2
+"Baja California","2020-05-30","local",2
+"Baja California","2020-06-02","local",2
+"Baja California","2020-06-03","local",70
 "Baja California Sur","2020-04-17","local",1
 "Baja California Sur","2020-04-22","local",1
 "Baja California Sur","2020-05-07","local",1
+"Baja California Sur","2020-05-28","local",1
+"Baja California Sur","2020-05-29","local",1
+"Baja California Sur","2020-06-03","local",1
 "Campeche","2020-04-24","local",3
 "Campeche","2020-04-26","local",1
 "Campeche","2020-04-28","local",2
@@ -54,6 +62,10 @@
 "Campeche","2020-05-11","local",1
 "Campeche","2020-05-21","local",1
 "Campeche","2020-05-27","local",1
+"Campeche","2020-05-30","local",1
+"Campeche","2020-05-31","local",1
+"Campeche","2020-06-01","local",1
+"Campeche","2020-06-03","local",2
 "Chiapas","2020-04-21","local",1
 "Chiapas","2020-04-29","local",1
 "Chiapas","2020-05-05","local",1
@@ -67,6 +79,10 @@
 "Chiapas","2020-05-25","local",1
 "Chiapas","2020-05-26","local",2
 "Chiapas","2020-05-27","local",3
+"Chiapas","2020-05-29","local",3
+"Chiapas","2020-05-30","local",3
+"Chiapas","2020-05-31","local",2
+"Chiapas","2020-06-02","local",2
 "Chihuahua","2020-04-15","local",1
 "Chihuahua","2020-04-16","local",3
 "Chihuahua","2020-04-18","local",3
@@ -95,6 +111,12 @@
 "Chihuahua","2020-05-24","local",3
 "Chihuahua","2020-05-26","local",8
 "Chihuahua","2020-05-27","local",10
+"Chihuahua","2020-05-28","local",1
+"Chihuahua","2020-05-29","local",8
+"Chihuahua","2020-05-30","local",5
+"Chihuahua","2020-05-31","local",3
+"Chihuahua","2020-06-02","local",3
+"Chihuahua","2020-06-03","local",5
 "Ciudad de Mexico","2020-04-13","local",1
 "Ciudad de Mexico","2020-04-14","local",4
 "Ciudad de Mexico","2020-04-15","local",1
@@ -138,6 +160,13 @@
 "Ciudad de Mexico","2020-05-25","local",12
 "Ciudad de Mexico","2020-05-26","local",28
 "Ciudad de Mexico","2020-05-27","local",26
+"Ciudad de Mexico","2020-05-28","local",10
+"Ciudad de Mexico","2020-05-29","local",28
+"Ciudad de Mexico","2020-05-30","local",18
+"Ciudad de Mexico","2020-05-31","local",20
+"Ciudad de Mexico","2020-06-01","local",8
+"Ciudad de Mexico","2020-06-02","local",22
+"Ciudad de Mexico","2020-06-03","local",41
 "Coahuila","2020-04-13","local",1
 "Coahuila","2020-04-16","local",1
 "Coahuila","2020-04-18","local",3
@@ -153,14 +182,19 @@
 "Coahuila","2020-05-22","local",2
 "Coahuila","2020-05-24","local",1
 "Coahuila","2020-05-27","local",2
+"Coahuila","2020-05-29","local",2
+"Coahuila","2020-05-30","local",2
+"Coahuila","2020-06-03","local",5
 "Colima","2020-04-17","local",2
 "Colima","2020-05-18","local",1
 "Colima","2020-05-21","local",1
 "Colima","2020-05-27","local",1
+"Colima","2020-06-03","local",1
 "Durango","2020-04-25","local",1
 "Durango","2020-04-30","local",1
 "Durango","2020-05-18","local",1
 "Durango","2020-05-20","local",1
+"Durango","2020-06-03","local",1
 "Guanajuato","2020-04-16","local",1
 "Guanajuato","2020-04-24","local",1
 "Guanajuato","2020-04-27","local",1
@@ -176,6 +210,9 @@
 "Guanajuato","2020-05-25","local",3
 "Guanajuato","2020-05-26","local",1
 "Guanajuato","2020-05-27","local",1
+"Guanajuato","2020-05-30","local",1
+"Guanajuato","2020-06-01","local",1
+"Guanajuato","2020-06-03","local",4
 "Guerrero","2020-04-15","local",1
 "Guerrero","2020-04-16","local",1
 "Guerrero","2020-04-23","local",4
@@ -200,6 +237,13 @@
 "Guerrero","2020-05-25","local",5
 "Guerrero","2020-05-26","local",3
 "Guerrero","2020-05-27","local",8
+"Guerrero","2020-05-28","local",14
+"Guerrero","2020-05-29","local",4
+"Guerrero","2020-05-30","local",18
+"Guerrero","2020-05-31","local",4
+"Guerrero","2020-06-01","local",4
+"Guerrero","2020-06-02","local",7
+"Guerrero","2020-06-03","local",14
 "Hidalgo","2020-04-19","local",1
 "Hidalgo","2020-04-20","local",1
 "Hidalgo","2020-04-24","local",1
@@ -223,6 +267,12 @@
 "Hidalgo","2020-05-25","local",1
 "Hidalgo","2020-05-26","local",5
 "Hidalgo","2020-05-27","local",3
+"Hidalgo","2020-05-28","local",2
+"Hidalgo","2020-05-30","local",2
+"Hidalgo","2020-05-31","local",1
+"Hidalgo","2020-06-01","local",3
+"Hidalgo","2020-06-02","local",1
+"Hidalgo","2020-06-03","local",21
 "Jalisco","2020-04-17","local",1
 "Jalisco","2020-04-23","local",1
 "Jalisco","2020-04-25","local",1
@@ -243,6 +293,13 @@
 "Jalisco","2020-05-24","local",1
 "Jalisco","2020-05-25","local",1
 "Jalisco","2020-05-26","local",1
+"Jalisco","2020-05-28","local",2
+"Jalisco","2020-05-29","local",1
+"Jalisco","2020-05-30","local",1
+"Jalisco","2020-05-31","local",1
+"Jalisco","2020-06-01","local",1
+"Jalisco","2020-06-02","local",4
+"Jalisco","2020-06-03","local",4
 "Mexico","2020-04-14","local",3
 "Mexico","2020-04-15","local",3
 "Mexico","2020-04-18","local",1
@@ -284,6 +341,13 @@
 "Mexico","2020-05-25","local",22
 "Mexico","2020-05-26","local",28
 "Mexico","2020-05-27","local",28
+"Mexico","2020-05-28","local",10
+"Mexico","2020-05-29","local",11
+"Mexico","2020-05-30","local",13
+"Mexico","2020-05-31","local",11
+"Mexico","2020-06-01","local",6
+"Mexico","2020-06-02","local",9
+"Mexico","2020-06-03","local",34
 "Michoacan","2020-04-16","local",1
 "Michoacan","2020-04-18","local",1
 "Michoacan","2020-04-23","local",2
@@ -299,6 +363,10 @@
 "Michoacan","2020-05-20","local",1
 "Michoacan","2020-05-26","local",1
 "Michoacan","2020-05-27","local",6
+"Michoacan","2020-05-28","local",4
+"Michoacan","2020-05-29","local",1
+"Michoacan","2020-06-02","local",2
+"Michoacan","2020-06-03","local",2
 "Morelos","2020-04-14","local",1
 "Morelos","2020-04-21","local",1
 "Morelos","2020-04-22","local",1
@@ -313,6 +381,9 @@
 "Morelos","2020-05-20","local",1
 "Morelos","2020-05-23","local",1
 "Morelos","2020-05-27","local",1
+"Morelos","2020-05-28","local",1
+"Morelos","2020-05-30","local",1
+"Morelos","2020-06-03","local",2
 "Nayarit","2020-04-28","local",1
 "Nayarit","2020-05-05","local",2
 "Nayarit","2020-05-06","local",1
@@ -324,6 +395,9 @@
 "Nayarit","2020-05-24","local",1
 "Nayarit","2020-05-26","local",1
 "Nayarit","2020-05-27","local",1
+"Nayarit","2020-05-28","local",1
+"Nayarit","2020-06-01","local",3
+"Nayarit","2020-06-03","local",1
 "Nuevo Leon","2020-04-23","local",1
 "Nuevo Leon","2020-04-28","local",1
 "Nuevo Leon","2020-05-02","local",1
@@ -331,6 +405,9 @@
 "Nuevo Leon","2020-05-21","local",1
 "Nuevo Leon","2020-05-22","local",1
 "Nuevo Leon","2020-05-27","local",1
+"Nuevo Leon","2020-05-28","local",1
+"Nuevo Leon","2020-05-31","local",1
+"Nuevo Leon","2020-06-03","local",1
 "Oaxaca","2020-04-13","local",1
 "Oaxaca","2020-04-14","local",1
 "Oaxaca","2020-04-22","local",1
@@ -356,6 +433,13 @@
 "Oaxaca","2020-05-25","local",2
 "Oaxaca","2020-05-26","local",3
 "Oaxaca","2020-05-27","local",5
+"Oaxaca","2020-05-28","local",2
+"Oaxaca","2020-05-29","local",4
+"Oaxaca","2020-05-30","local",3
+"Oaxaca","2020-05-31","local",2
+"Oaxaca","2020-06-01","local",6
+"Oaxaca","2020-06-02","local",1
+"Oaxaca","2020-06-03","local",18
 "Puebla","2020-04-13","local",1
 "Puebla","2020-04-17","local",1
 "Puebla","2020-04-18","local",3
@@ -380,6 +464,12 @@
 "Puebla","2020-05-25","local",1
 "Puebla","2020-05-26","local",1
 "Puebla","2020-05-27","local",1
+"Puebla","2020-05-28","local",3
+"Puebla","2020-05-29","local",3
+"Puebla","2020-05-31","local",1
+"Puebla","2020-06-01","local",1
+"Puebla","2020-06-02","local",4
+"Puebla","2020-06-03","local",7
 "Queretaro","2020-04-14","local",1
 "Queretaro","2020-05-07","local",1
 "Queretaro","2020-05-14","local",1
@@ -389,6 +479,9 @@
 "Queretaro","2020-05-22","local",2
 "Queretaro","2020-05-24","local",1
 "Queretaro","2020-05-26","local",1
+"Queretaro","2020-05-28","local",1
+"Queretaro","2020-05-30","local",1
+"Queretaro","2020-06-03","local",5
 "Quintana Roo","2020-04-14","local",1
 "Quintana Roo","2020-04-15","local",1
 "Quintana Roo","2020-04-16","local",1
@@ -415,6 +508,10 @@
 "Quintana Roo","2020-05-24","local",2
 "Quintana Roo","2020-05-26","local",1
 "Quintana Roo","2020-05-27","local",2
+"Quintana Roo","2020-05-28","local",4
+"Quintana Roo","2020-05-30","local",3
+"Quintana Roo","2020-05-31","local",2
+"Quintana Roo","2020-06-03","local",14
 "San Luis Potosi","2020-04-23","local",1
 "San Luis Potosi","2020-04-28","local",1
 "San Luis Potosi","2020-05-01","local",2
@@ -422,6 +519,8 @@
 "San Luis Potosi","2020-05-20","local",1
 "San Luis Potosi","2020-05-24","local",1
 "San Luis Potosi","2020-05-27","local",2
+"San Luis Potosi","2020-05-30","local",1
+"San Luis Potosi","2020-06-02","local",1
 "Sinaloa","2020-04-13","local",2
 "Sinaloa","2020-04-15","local",1
 "Sinaloa","2020-04-16","local",1
@@ -456,6 +555,13 @@
 "Sinaloa","2020-05-24","local",8
 "Sinaloa","2020-05-25","local",9
 "Sinaloa","2020-05-27","local",3
+"Sinaloa","2020-05-28","local",7
+"Sinaloa","2020-05-29","local",10
+"Sinaloa","2020-05-30","local",8
+"Sinaloa","2020-05-31","local",5
+"Sinaloa","2020-06-01","local",7
+"Sinaloa","2020-06-02","local",5
+"Sinaloa","2020-06-03","local",54
 "Sonora","2020-04-13","local",1
 "Sonora","2020-04-19","local",1
 "Sonora","2020-04-21","local",1
@@ -471,6 +577,12 @@
 "Sonora","2020-05-24","local",5
 "Sonora","2020-05-25","local",2
 "Sonora","2020-05-26","local",3
+"Sonora","2020-05-29","local",7
+"Sonora","2020-05-30","local",1
+"Sonora","2020-05-31","local",1
+"Sonora","2020-06-01","local",1
+"Sonora","2020-06-02","local",2
+"Sonora","2020-06-03","local",7
 "Tabasco","2020-04-14","local",2
 "Tabasco","2020-04-15","local",1
 "Tabasco","2020-04-16","local",3
@@ -507,6 +619,13 @@
 "Tabasco","2020-05-25","local",1
 "Tabasco","2020-05-26","local",3
 "Tabasco","2020-05-27","local",1
+"Tabasco","2020-05-28","local",2
+"Tabasco","2020-05-29","local",3
+"Tabasco","2020-05-30","local",2
+"Tabasco","2020-05-31","local",3
+"Tabasco","2020-06-01","local",10
+"Tabasco","2020-06-02","local",11
+"Tabasco","2020-06-03","local",14
 "Tamaulipas","2020-04-15","local",1
 "Tamaulipas","2020-04-27","local",1
 "Tamaulipas","2020-04-29","local",1
@@ -520,6 +639,11 @@
 "Tamaulipas","2020-05-23","local",1
 "Tamaulipas","2020-05-24","local",1
 "Tamaulipas","2020-05-26","local",1
+"Tamaulipas","2020-05-29","local",1
+"Tamaulipas","2020-05-30","local",2
+"Tamaulipas","2020-06-01","local",1
+"Tamaulipas","2020-06-02","local",2
+"Tamaulipas","2020-06-03","local",1
 "Tlaxcala","2020-04-22","local",1
 "Tlaxcala","2020-04-24","local",1
 "Tlaxcala","2020-04-28","local",2
@@ -538,6 +662,8 @@
 "Tlaxcala","2020-05-23","local",1
 "Tlaxcala","2020-05-24","local",1
 "Tlaxcala","2020-05-27","local",1
+"Tlaxcala","2020-05-29","local",1
+"Tlaxcala","2020-06-03","local",4
 "Veracruz","2020-04-14","local",1
 "Veracruz","2020-04-15","local",1
 "Veracruz","2020-04-18","local",1
@@ -572,6 +698,13 @@
 "Veracruz","2020-05-25","local",4
 "Veracruz","2020-05-26","local",9
 "Veracruz","2020-05-27","local",1
+"Veracruz","2020-05-28","local",4
+"Veracruz","2020-05-29","local",3
+"Veracruz","2020-05-30","local",4
+"Veracruz","2020-05-31","local",1
+"Veracruz","2020-06-01","local",12
+"Veracruz","2020-06-02","local",8
+"Veracruz","2020-06-03","local",13
 "Yucatan","2020-04-18","local",2
 "Yucatan","2020-04-21","local",1
 "Yucatan","2020-04-22","local",1
@@ -588,8 +721,16 @@
 "Yucatan","2020-05-24","local",1
 "Yucatan","2020-05-25","local",1
 "Yucatan","2020-05-26","local",1
+"Yucatan","2020-05-28","local",1
+"Yucatan","2020-05-29","local",1
+"Yucatan","2020-06-01","local",1
+"Yucatan","2020-06-02","local",1
+"Yucatan","2020-06-03","local",4
 "Zacatecas","2020-05-05","local",1
 "Zacatecas","2020-05-10","local",1
 "Zacatecas","2020-05-12","local",1
 "Zacatecas","2020-05-18","local",1
 "Zacatecas","2020-05-26","local",1
+"Zacatecas","2020-05-28","local",2
+"Zacatecas","2020-06-01","local",1
+"Zacatecas","2020-06-03","local",1

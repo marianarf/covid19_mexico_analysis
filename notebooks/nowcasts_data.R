@@ -5,7 +5,7 @@ options(scipen = 999)
 library(tidyverse)
 library(data.table)
 
-data <- fread('../latest_raw.csv')
+data <- fread('../mexico_covid19.csv')
 
 # Nowcasts
 nowcasts <- data %>%
@@ -34,13 +34,13 @@ cases <- nowcasts %>%
   mutate(import_status = ifelse(import_status == 'Local' , 'local', 'imported')) %>% # use nowcasts values
   group_by(region, date, import_status, date) %>%
   summarize(cases = n())
-write.csv(cases, '../latest_cases.csv', row.names=FALSE, fileEncoding='UTF-8')
+write.csv(cases, '../cases.csv', row.names=FALSE, fileEncoding='UTF-8')
 
 # `import_status` (values 'local' and 'imported'), `date_onset`, `date_confirm`, `report_delay`, and `region`
 linelist <- nowcasts %>%
   select(import_status, date_onset, date_confirm, report_delay, region) %>%
   mutate(import_status = ifelse(import_status == 'Local' , 'local', 'imported')) # use nowcasts values
-write.csv(linelist, '../latest_linelist.csv', row.names=FALSE, fileEncoding='UTF-8')
+write.csv(linelist, '../linelist.csv', row.names=FALSE, fileEncoding='UTF-8')
 
 # https://stackoverflow.com/questions/38025866/find-difference-between-dates-in-consecutive-rows
 # https://stackoverflow.com/questions/41194878/how-to-delete-duplicates-from-groups-in-r-where-group-is-formed-by-three-columns
