@@ -92,6 +92,7 @@ final_data <- uniques %>%
   select(-c(dup)) %>% rename(ENTIDAD=NOM_ENT) %>% mutate(ENTIDAD=stringi::stri_trans_general(str=ENTIDAD, id='Latin-ASCII')) %>%
   arrange(FECHA_ARCHIVO, ID_REGISTRO) %>%
   left_join(., raw_data_df)
+final_data <- final_data[!duplicated(final_data[, c('ID_REGISTRO')], fromLast=T), ]
 #final_data %>%filter(grepl('1', RESULTADO)) # check nrow and delay is correct
 
 # OUTPUT DATA
